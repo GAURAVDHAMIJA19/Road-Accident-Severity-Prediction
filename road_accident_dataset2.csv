@@ -1,0 +1,2001 @@
+Time_of_Day,Day_of_Week,Month,Weather_Conditions,Road_Type,Road_Condition,Lighting_Conditions,Traffic_Control_Presence,Speed_Limit,Driver_Age,Driver_Gender,Alcohol_Involvement,Number_of_Vehicles_Involved,Accident_Severity
+Evening,Sunday,Jun,Clear,City Road,Under Construction,No Lighting,Signal,60,72,Male,Yes,1,Fatal
+Night,Thursday,Feb,Rain,Rural Road,Wet,No Lighting,Speed Breaker,100,48,Male,Yes,2,Fatal
+Morning,Saturday,Jun,Fog,City Road,Wet,Daylight,Signal,50,67,Female,Yes,1,Minor
+Evening,Wednesday,Mar,Clear,Highway,Dry,Daylight,None,60,18,Male,No,1,Minor
+Evening,Sunday,Dec,Clear,City Road,Under Construction,Daylight,Signal,50,34,Female,No,1,Minor
+Night,Friday,Dec,Rain,Highway,Dry,Street Lit,Signal,60,33,Male,No,1,Minor
+Morning,Monday,Sep,Rain,Highway,Under Construction,Street Lit,None,50,72,Male,No,1,Major
+Morning,Sunday,Nov,Rain,City Road,Dry,Daylight,Signal,50,54,Male,No,1,Minor
+Evening,Friday,Feb,Fog,Highway,Dry,No Lighting,Speed Breaker,60,69,Male,No,2,Major
+Afternoon,Saturday,Dec,Fog,City Road,Dry,Street Lit,Signal,30,70,Male,No,2,Major
+Evening,Saturday,Dec,Snow,Highway,Wet,No Lighting,Speed Breaker,40,27,Male,No,1,Major
+Evening,Monday,Sep,Clear,City Road,Dry,Street Lit,Speed Breaker,80,75,Male,Yes,1,Minor
+Evening,Tuesday,May,Clear,City Road,Under Construction,Daylight,Signal,60,55,Male,No,1,Minor
+Evening,Monday,Aug,Clear,Highway,Dry,Daylight,None,100,61,Female,No,1,Minor
+Night,Thursday,Feb,Clear,City Road,Dry,Daylight,Speed Breaker,80,48,Male,No,2,Minor
+Morning,Sunday,Jun,Rain,Highway,Dry,Daylight,Signal,30,27,Male,No,4,Fatal
+Night,Wednesday,Mar,Clear,City Road,Dry,Street Lit,Speed Breaker,80,71,Male,No,2,Major
+Night,Tuesday,Dec,Storm,City Road,Dry,Street Lit,Speed Breaker,40,66,Female,No,2,Minor
+Night,Monday,Dec,Rain,City Road,Dry,Street Lit,Signal,80,51,Male,No,1,Major
+Evening,Friday,Oct,Rain,Rural Road,Wet,Street Lit,Signal,120,68,Male,No,1,Minor
+Afternoon,Tuesday,May,Clear,Highway,Dry,Daylight,Signal,60,69,Female,No,3,Major
+Morning,Sunday,Dec,Clear,City Road,Potholes,Daylight,Signal,80,23,Female,No,4,Minor
+Afternoon,Tuesday,Aug,Clear,City Road,Dry,Daylight,Speed Breaker,50,45,Male,No,1,Major
+Night,Sunday,Oct,Clear,Rural Road,Under Construction,Daylight,Signal,60,45,Male,Yes,1,Minor
+Night,Monday,Jan,Clear,Highway,Dry,Daylight,None,100,76,Female,No,2,Minor
+Afternoon,Sunday,May,Rain,City Road,Dry,Daylight,Signal,50,30,Female,No,1,Minor
+Afternoon,Tuesday,Mar,Fog,City Road,Dry,Daylight,Signal,50,58,Male,No,2,Minor
+Afternoon,Friday,Apr,Fog,Highway,Dry,Daylight,Speed Breaker,60,29,Male,No,2,Major
+Night,Saturday,Feb,Rain,City Road,Under Construction,Street Lit,Speed Breaker,80,67,Male,No,1,Minor
+Night,Tuesday,Sep,Clear,Highway,Dry,Daylight,Speed Breaker,60,57,Male,No,4,Major
+Morning,Sunday,Mar,Fog,City Road,Dry,Daylight,Signal,100,74,Male,No,4,Major
+Morning,Saturday,Feb,Fog,Rural Road,Under Construction,Daylight,Signal,40,67,Male,No,3,Major
+Night,Sunday,Oct,Clear,City Road,Dry,No Lighting,Signal,60,74,Female,No,1,Major
+Afternoon,Friday,Nov,Rain,City Road,Wet,Daylight,None,80,72,Female,Yes,1,Minor
+Afternoon,Sunday,Sep,Clear,City Road,Dry,Daylight,Signal,50,74,Male,No,1,Minor
+Morning,Monday,Jul,Fog,Highway,Under Construction,Street Lit,None,80,71,Male,No,1,Fatal
+Night,Wednesday,Jun,Snow,Highway,Dry,Daylight,Speed Breaker,50,19,Male,No,1,Major
+Morning,Tuesday,Jan,Clear,City Road,Dry,No Lighting,Signal,40,25,Male,No,1,Major
+Morning,Wednesday,May,Fog,Highway,Dry,Daylight,Speed Breaker,40,59,Male,No,2,Major
+Evening,Sunday,Dec,Rain,Highway,Potholes,Daylight,None,100,26,Male,No,1,Minor
+Evening,Friday,Nov,Snow,City Road,Dry,Daylight,None,60,77,Male,No,1,Major
+Evening,Tuesday,Nov,Clear,Highway,Dry,Street Lit,Signal,80,73,Male,No,1,Fatal
+Afternoon,Sunday,Mar,Fog,Highway,Wet,Daylight,Signal,50,67,Female,No,2,Minor
+Night,Saturday,Jan,Clear,City Road,Potholes,Daylight,Signal,60,25,Male,No,2,Major
+Night,Thursday,Apr,Clear,Highway,Under Construction,Daylight,Signal,60,68,Male,No,1,Minor
+Night,Sunday,Feb,Clear,Rural Road,Potholes,Daylight,Speed Breaker,100,20,Female,No,4,Minor
+Night,Wednesday,Feb,Snow,Rural Road,Dry,Daylight,None,80,26,Male,No,1,Major
+Evening,Tuesday,Mar,Fog,City Road,Dry,Street Lit,Signal,80,30,Male,No,1,Major
+Afternoon,Wednesday,Aug,Fog,Highway,Wet,Street Lit,Speed Breaker,30,26,Male,No,2,Major
+Afternoon,Tuesday,Aug,Storm,City Road,Under Construction,Daylight,Speed Breaker,60,48,Female,No,2,Fatal
+Evening,Sunday,Dec,Clear,City Road,Dry,Daylight,Signal,60,42,Male,No,1,Minor
+Afternoon,Monday,Jul,Clear,City Road,Dry,Street Lit,Signal,100,69,Male,No,3,Major
+Evening,Saturday,Jun,Clear,Highway,Wet,Daylight,Speed Breaker,50,61,Male,Yes,3,Minor
+Night,Sunday,Sep,Clear,City Road,Dry,Daylight,None,50,79,Male,No,1,Minor
+Evening,Wednesday,Apr,Clear,City Road,Dry,Daylight,Speed Breaker,60,72,Male,No,1,Minor
+Night,Thursday,Dec,Clear,City Road,Dry,Street Lit,Signal,50,62,Male,No,1,Major
+Night,Thursday,Jan,Clear,City Road,Dry,No Lighting,Signal,40,25,Female,No,1,Minor
+Morning,Friday,Aug,Clear,City Road,Wet,Street Lit,Signal,100,64,Female,No,1,Major
+Evening,Tuesday,Jul,Clear,City Road,Dry,Daylight,Speed Breaker,60,48,Male,No,2,Major
+Morning,Wednesday,Jul,Clear,Highway,Wet,Daylight,Speed Breaker,100,78,Male,Yes,1,Minor
+Evening,Friday,Mar,Snow,City Road,Dry,Street Lit,Signal,100,62,Male,No,2,Major
+Evening,Wednesday,Apr,Rain,Highway,Dry,Daylight,None,50,70,Female,No,1,Minor
+Morning,Tuesday,Oct,Snow,City Road,Wet,No Lighting,Speed Breaker,60,62,Male,No,1,Minor
+Morning,Sunday,Sep,Clear,Highway,Dry,No Lighting,Speed Breaker,40,48,Male,No,1,Major
+Evening,Sunday,Jun,Clear,City Road,Dry,Daylight,None,100,34,Female,No,1,Minor
+Afternoon,Thursday,May,Rain,Highway,Dry,No Lighting,Signal,60,64,Female,Yes,1,Major
+Night,Sunday,Mar,Clear,City Road,Dry,Daylight,None,60,74,Male,No,2,Major
+Morning,Sunday,Sep,Clear,City Road,Dry,Street Lit,Signal,50,71,Female,Yes,2,Minor
+Night,Monday,May,Clear,Highway,Under Construction,Daylight,Signal,60,36,Female,No,1,Major
+Afternoon,Thursday,May,Clear,Highway,Wet,Daylight,None,50,20,Male,No,2,Minor
+Afternoon,Friday,Apr,Clear,Highway,Wet,Street Lit,None,60,63,Male,No,1,Minor
+Afternoon,Saturday,Apr,Clear,Rural Road,Dry,Street Lit,Speed Breaker,80,47,Female,No,1,Minor
+Morning,Monday,Dec,Rain,City Road,Dry,Daylight,Speed Breaker,100,27,Male,No,1,Minor
+Afternoon,Friday,Jan,Clear,City Road,Dry,Daylight,Speed Breaker,50,66,Male,Yes,2,Minor
+Morning,Tuesday,Jul,Clear,Highway,Dry,Daylight,None,60,46,Male,No,1,Fatal
+Afternoon,Monday,Sep,Fog,City Road,Dry,Daylight,Signal,100,57,Female,Yes,1,Minor
+Night,Friday,Mar,Clear,Rural Road,Dry,Daylight,None,40,35,Female,No,1,Major
+Night,Tuesday,Dec,Clear,City Road,Potholes,Daylight,Signal,100,29,Male,No,3,Minor
+Evening,Thursday,Feb,Fog,City Road,Dry,Daylight,Signal,50,66,Female,No,2,Minor
+Night,Saturday,Mar,Clear,Highway,Dry,Daylight,Signal,80,40,Female,No,2,Minor
+Evening,Tuesday,Jan,Clear,Highway,Wet,Daylight,Speed Breaker,60,79,Female,No,2,Major
+Night,Sunday,Jun,Clear,Highway,Dry,Daylight,None,60,28,Male,Yes,1,Minor
+Morning,Wednesday,Nov,Clear,Highway,Under Construction,Daylight,Speed Breaker,100,26,Male,No,2,Minor
+Night,Tuesday,Nov,Rain,Highway,Wet,No Lighting,None,40,71,Male,No,2,Minor
+Evening,Tuesday,Jul,Fog,Highway,Potholes,Daylight,Signal,50,73,Male,No,1,Major
+Evening,Saturday,Nov,Clear,Highway,Dry,No Lighting,Speed Breaker,60,41,Male,Yes,1,Minor
+Afternoon,Wednesday,Nov,Rain,Rural Road,Wet,Street Lit,None,100,42,Female,No,1,Major
+Morning,Sunday,Feb,Clear,City Road,Dry,Street Lit,Speed Breaker,50,72,Male,No,1,Minor
+Night,Friday,Aug,Clear,City Road,Wet,Street Lit,Speed Breaker,100,42,Female,No,3,Major
+Afternoon,Friday,Jun,Rain,City Road,Dry,Street Lit,Speed Breaker,60,64,Male,No,1,Minor
+Night,Tuesday,Apr,Clear,Highway,Dry,Daylight,None,50,26,Male,No,1,Minor
+Night,Wednesday,May,Clear,City Road,Dry,Daylight,None,80,29,Male,No,3,Minor
+Afternoon,Wednesday,Aug,Clear,Highway,Dry,Street Lit,Signal,40,28,Male,No,1,Fatal
+Afternoon,Sunday,Mar,Clear,City Road,Under Construction,Daylight,None,60,66,Male,No,1,Minor
+Afternoon,Saturday,Mar,Clear,Highway,Wet,Street Lit,Signal,40,55,Female,No,3,Fatal
+Afternoon,Thursday,Nov,Fog,Rural Road,Wet,Daylight,Signal,60,45,Male,No,1,Minor
+Afternoon,Friday,Apr,Clear,Highway,Dry,Street Lit,None,80,25,Male,No,2,Minor
+Night,Saturday,Jan,Clear,Highway,Wet,Daylight,Signal,60,27,Male,No,1,Minor
+Afternoon,Monday,Sep,Clear,Rural Road,Dry,Daylight,None,60,42,Male,No,1,Minor
+Morning,Friday,Aug,Rain,Highway,Under Construction,Daylight,Signal,60,64,Male,Yes,1,Fatal
+Evening,Saturday,Aug,Rain,City Road,Potholes,Street Lit,Signal,50,53,Male,Yes,1,Major
+Afternoon,Friday,Oct,Rain,City Road,Dry,Street Lit,Signal,60,78,Male,No,4,Major
+Afternoon,Thursday,Jun,Rain,City Road,Under Construction,Daylight,Signal,120,67,Female,No,4,Major
+Night,Monday,Jul,Fog,Rural Road,Dry,Street Lit,Speed Breaker,100,60,Male,No,3,Minor
+Afternoon,Thursday,Jun,Clear,Rural Road,Dry,Daylight,Signal,40,26,Female,No,1,Fatal
+Afternoon,Sunday,Sep,Clear,Highway,Dry,Daylight,Signal,30,58,Male,Yes,4,Minor
+Afternoon,Monday,Mar,Fog,City Road,Dry,Daylight,Signal,100,77,Female,No,2,Major
+Night,Tuesday,Mar,Snow,City Road,Wet,Daylight,Signal,60,25,Male,No,1,Minor
+Afternoon,Saturday,Mar,Fog,City Road,Dry,Daylight,Speed Breaker,60,20,Male,No,2,Fatal
+Evening,Monday,Oct,Clear,Highway,Dry,Daylight,Signal,80,70,Male,No,1,Major
+Night,Sunday,Mar,Clear,City Road,Dry,Street Lit,Speed Breaker,50,35,Female,No,1,Fatal
+Evening,Sunday,Sep,Clear,Rural Road,Wet,Street Lit,None,60,63,Male,No,2,Minor
+Night,Thursday,Dec,Rain,Rural Road,Potholes,Daylight,Speed Breaker,120,52,Male,No,2,Minor
+Afternoon,Friday,Apr,Clear,City Road,Wet,Daylight,None,80,34,Male,No,1,Minor
+Evening,Monday,Jul,Clear,Highway,Wet,Daylight,Signal,50,53,Male,No,1,Major
+Night,Saturday,Sep,Fog,Highway,Dry,Daylight,Signal,40,70,Male,No,3,Major
+Morning,Monday,Nov,Clear,City Road,Dry,Daylight,None,50,45,Male,No,2,Minor
+Afternoon,Wednesday,Dec,Fog,City Road,Dry,Daylight,Speed Breaker,80,67,Male,No,1,Minor
+Night,Friday,Jul,Clear,City Road,Dry,No Lighting,Speed Breaker,50,32,Male,No,1,Minor
+Morning,Saturday,Sep,Clear,Highway,Wet,Street Lit,Speed Breaker,30,36,Male,No,1,Major
+Night,Saturday,Dec,Clear,City Road,Dry,Daylight,Signal,100,77,Male,No,4,Minor
+Morning,Tuesday,Mar,Rain,City Road,Wet,Daylight,Signal,50,39,Male,No,1,Major
+Afternoon,Thursday,Apr,Clear,Rural Road,Dry,Daylight,Speed Breaker,30,23,Female,No,1,Minor
+Evening,Tuesday,Aug,Clear,City Road,Dry,Street Lit,Speed Breaker,50,64,Male,No,1,Minor
+Morning,Saturday,Jun,Snow,Highway,Dry,Daylight,Signal,50,24,Female,No,3,Fatal
+Night,Friday,May,Clear,City Road,Under Construction,Daylight,None,60,61,Male,No,2,Minor
+Afternoon,Monday,Apr,Rain,Highway,Wet,Street Lit,Signal,100,65,Female,No,2,Minor
+Morning,Monday,Aug,Rain,Rural Road,Under Construction,Daylight,Signal,100,26,Male,No,1,Minor
+Night,Friday,Jan,Clear,Highway,Dry,Daylight,None,60,37,Male,No,1,Minor
+Night,Saturday,Sep,Rain,City Road,Potholes,Daylight,Speed Breaker,60,54,Male,Yes,3,Major
+Night,Sunday,Jan,Clear,Highway,Dry,Daylight,Speed Breaker,60,28,Female,No,3,Minor
+Morning,Monday,Aug,Rain,City Road,Dry,Daylight,Signal,50,19,Male,No,3,Major
+Morning,Sunday,Apr,Clear,City Road,Potholes,Daylight,Signal,40,39,Male,No,3,Minor
+Morning,Monday,Sep,Rain,City Road,Dry,Daylight,Speed Breaker,100,65,Male,No,2,Major
+Evening,Monday,Nov,Clear,Highway,Wet,Daylight,Signal,50,53,Male,No,2,Major
+Morning,Thursday,May,Rain,Highway,Dry,Street Lit,None,50,22,Male,No,2,Fatal
+Morning,Thursday,Mar,Clear,Highway,Dry,Daylight,None,60,24,Male,No,2,Fatal
+Morning,Wednesday,Sep,Clear,City Road,Potholes,Daylight,None,60,23,Male,No,1,Minor
+Evening,Tuesday,Nov,Clear,Highway,Dry,Street Lit,Signal,30,73,Male,No,1,Minor
+Morning,Friday,Sep,Clear,City Road,Wet,Street Lit,Speed Breaker,40,39,Female,No,4,Major
+Night,Friday,Apr,Fog,Rural Road,Dry,Street Lit,Signal,60,27,Male,No,1,Minor
+Morning,Friday,Nov,Clear,Rural Road,Wet,Daylight,Signal,80,63,Male,No,3,Minor
+Night,Wednesday,Apr,Storm,City Road,Dry,Daylight,Signal,50,57,Female,No,1,Minor
+Night,Thursday,Dec,Snow,City Road,Dry,Street Lit,Signal,60,78,Male,No,1,Minor
+Night,Saturday,Aug,Rain,Highway,Dry,Street Lit,None,60,63,Male,No,1,Minor
+Evening,Sunday,Feb,Clear,City Road,Dry,Daylight,Signal,100,63,Female,No,1,Minor
+Evening,Sunday,Sep,Clear,City Road,Potholes,No Lighting,Signal,50,37,Male,No,1,Minor
+Evening,Saturday,Jun,Rain,Highway,Dry,Daylight,None,40,45,Male,No,1,Major
+Morning,Wednesday,Sep,Clear,City Road,Dry,No Lighting,Signal,60,40,Female,No,2,Minor
+Night,Saturday,Aug,Clear,City Road,Dry,Street Lit,Speed Breaker,80,52,Female,No,1,Fatal
+Evening,Friday,Jul,Rain,Rural Road,Dry,Street Lit,Signal,40,18,Male,No,1,Minor
+Evening,Tuesday,Jan,Fog,Highway,Wet,No Lighting,Signal,60,46,Male,Yes,1,Major
+Morning,Monday,Dec,Rain,City Road,Potholes,Street Lit,None,30,26,Male,No,2,Minor
+Evening,Sunday,Mar,Clear,Highway,Dry,Daylight,Signal,30,26,Male,No,2,Minor
+Morning,Thursday,Nov,Rain,Highway,Under Construction,Daylight,Speed Breaker,60,39,Male,No,2,Minor
+Afternoon,Thursday,Feb,Clear,Rural Road,Dry,Daylight,Signal,50,19,Male,No,1,Minor
+Evening,Wednesday,May,Clear,City Road,Dry,Daylight,Signal,100,33,Female,No,1,Major
+Afternoon,Thursday,May,Fog,City Road,Wet,Street Lit,Signal,80,57,Female,No,2,Major
+Morning,Friday,May,Clear,Highway,Dry,Daylight,Signal,60,75,Male,No,2,Minor
+Night,Sunday,Apr,Clear,City Road,Wet,Daylight,Signal,60,23,Male,No,1,Minor
+Evening,Saturday,May,Clear,City Road,Under Construction,Daylight,Speed Breaker,60,72,Male,No,1,Minor
+Morning,Friday,Mar,Fog,Highway,Dry,Street Lit,Signal,30,30,Male,No,1,Minor
+Night,Wednesday,Dec,Rain,City Road,Potholes,Daylight,Signal,100,50,Male,No,1,Minor
+Night,Friday,Jan,Rain,Highway,Wet,Daylight,Signal,120,36,Female,No,2,Fatal
+Afternoon,Saturday,May,Rain,City Road,Dry,Daylight,None,50,32,Male,No,1,Minor
+Morning,Tuesday,Sep,Clear,City Road,Wet,Street Lit,None,40,50,Female,No,1,Major
+Night,Wednesday,Sep,Clear,Highway,Dry,Daylight,Speed Breaker,40,27,Male,No,1,Major
+Evening,Tuesday,Apr,Clear,Highway,Potholes,Street Lit,None,80,18,Male,Yes,4,Major
+Evening,Monday,Mar,Clear,Highway,Wet,Daylight,Signal,80,77,Male,No,2,Minor
+Afternoon,Tuesday,Jan,Clear,Highway,Dry,Daylight,Signal,100,29,Male,No,3,Major
+Night,Monday,Feb,Storm,City Road,Dry,No Lighting,Speed Breaker,80,60,Female,No,1,Major
+Morning,Monday,Aug,Clear,City Road,Wet,Daylight,Speed Breaker,60,46,Female,No,2,Minor
+Evening,Tuesday,Jan,Clear,Highway,Dry,Daylight,Signal,80,34,Male,No,1,Minor
+Night,Wednesday,Aug,Clear,Highway,Dry,Daylight,Signal,80,21,Male,No,1,Fatal
+Night,Saturday,Jul,Clear,City Road,Dry,Daylight,None,60,46,Male,No,1,Major
+Afternoon,Friday,Aug,Storm,City Road,Dry,Daylight,None,60,72,Female,No,1,Minor
+Evening,Friday,Dec,Clear,Highway,Dry,Daylight,Signal,80,24,Female,No,1,Minor
+Evening,Saturday,Jun,Clear,Highway,Dry,Daylight,Speed Breaker,60,61,Male,No,2,Minor
+Morning,Sunday,Dec,Rain,City Road,Dry,Daylight,Signal,80,30,Male,No,1,Minor
+Evening,Sunday,Sep,Clear,Highway,Wet,Street Lit,Signal,80,22,Male,No,1,Minor
+Morning,Monday,Mar,Clear,Highway,Dry,Street Lit,Signal,80,77,Male,No,1,Minor
+Evening,Monday,Oct,Clear,City Road,Dry,Daylight,Signal,80,23,Male,No,1,Major
+Afternoon,Wednesday,Apr,Rain,City Road,Dry,Daylight,Signal,60,51,Male,No,1,Major
+Evening,Thursday,Jun,Snow,City Road,Dry,Daylight,None,80,70,Female,No,1,Major
+Morning,Tuesday,Aug,Rain,City Road,Dry,Daylight,Signal,60,24,Male,No,1,Minor
+Morning,Monday,May,Clear,City Road,Dry,Daylight,Speed Breaker,50,63,Male,No,1,Major
+Afternoon,Friday,Mar,Fog,Highway,Dry,Daylight,Signal,30,74,Female,Yes,1,Minor
+Evening,Wednesday,Jun,Clear,Highway,Under Construction,Daylight,Signal,60,71,Male,Yes,1,Minor
+Evening,Tuesday,Apr,Clear,Highway,Wet,Daylight,None,60,45,Male,Yes,1,Fatal
+Afternoon,Wednesday,Sep,Clear,Highway,Wet,Daylight,Speed Breaker,120,63,Male,No,1,Minor
+Evening,Tuesday,Mar,Clear,City Road,Wet,No Lighting,None,60,27,Male,Yes,1,Minor
+Evening,Tuesday,Apr,Clear,Rural Road,Wet,Daylight,None,60,21,Male,No,2,Minor
+Morning,Saturday,Jul,Rain,Rural Road,Dry,Street Lit,Signal,50,20,Male,No,1,Minor
+Evening,Monday,Jul,Storm,City Road,Wet,Street Lit,Signal,40,42,Female,No,1,Major
+Evening,Wednesday,Dec,Clear,Highway,Dry,Daylight,None,80,40,Male,No,3,Fatal
+Afternoon,Wednesday,Dec,Clear,Highway,Wet,Daylight,None,50,44,Female,No,2,Major
+Afternoon,Saturday,Apr,Clear,City Road,Wet,Daylight,Speed Breaker,80,31,Male,No,4,Major
+Night,Friday,Jun,Clear,City Road,Dry,Daylight,Speed Breaker,80,78,Female,No,2,Major
+Morning,Friday,Dec,Rain,City Road,Dry,Daylight,Speed Breaker,60,55,Male,No,1,Major
+Evening,Sunday,Mar,Clear,City Road,Dry,Street Lit,Signal,100,49,Male,No,1,Minor
+Evening,Monday,Jun,Fog,City Road,Wet,Daylight,Speed Breaker,60,40,Male,No,2,Fatal
+Night,Monday,Dec,Clear,City Road,Wet,Daylight,None,50,64,Male,No,4,Minor
+Evening,Thursday,Feb,Clear,Highway,Under Construction,Street Lit,Speed Breaker,100,57,Male,No,2,Fatal
+Morning,Saturday,Aug,Clear,City Road,Dry,Street Lit,Signal,100,54,Female,No,3,Minor
+Night,Friday,Feb,Clear,Rural Road,Wet,Daylight,Signal,50,20,Male,No,1,Major
+Morning,Tuesday,Nov,Clear,Highway,Dry,Street Lit,Signal,30,52,Male,No,1,Major
+Night,Wednesday,Jul,Rain,City Road,Under Construction,Daylight,Signal,40,30,Male,No,3,Fatal
+Night,Monday,Sep,Clear,Highway,Dry,Daylight,None,50,51,Female,Yes,2,Major
+Afternoon,Wednesday,Jan,Rain,Rural Road,Dry,Daylight,Signal,120,41,Male,No,4,Minor
+Morning,Wednesday,Aug,Clear,Highway,Dry,Daylight,Signal,60,18,Female,No,2,Minor
+Evening,Thursday,Jul,Clear,City Road,Wet,No Lighting,Signal,60,29,Female,No,1,Minor
+Evening,Friday,Jun,Clear,Highway,Potholes,Daylight,Speed Breaker,100,25,Male,No,1,Minor
+Morning,Monday,Jun,Fog,City Road,Dry,Daylight,Speed Breaker,60,36,Male,No,3,Minor
+Evening,Wednesday,Jun,Clear,Highway,Dry,Daylight,Signal,50,26,Female,No,1,Minor
+Evening,Monday,Sep,Rain,Highway,Potholes,Daylight,Signal,100,45,Male,No,1,Minor
+Morning,Tuesday,Feb,Clear,City Road,Dry,Daylight,Signal,100,31,Male,No,1,Fatal
+Night,Thursday,Jan,Rain,Rural Road,Wet,Daylight,Speed Breaker,100,77,Female,No,1,Fatal
+Morning,Tuesday,Dec,Clear,Highway,Dry,Street Lit,Signal,60,44,Female,Yes,1,Minor
+Night,Monday,Jun,Rain,Highway,Dry,Daylight,None,80,35,Female,No,2,Minor
+Evening,Sunday,Oct,Rain,City Road,Wet,Daylight,Signal,50,59,Male,No,1,Minor
+Evening,Monday,Nov,Storm,City Road,Wet,Daylight,Signal,60,58,Male,Yes,1,Minor
+Evening,Friday,Aug,Clear,Rural Road,Dry,Daylight,Speed Breaker,120,23,Male,No,2,Minor
+Afternoon,Wednesday,Mar,Clear,Highway,Dry,Daylight,Signal,50,50,Male,No,1,Minor
+Night,Wednesday,Dec,Clear,City Road,Under Construction,Street Lit,Speed Breaker,80,54,Male,No,2,Minor
+Afternoon,Tuesday,Oct,Fog,Highway,Dry,No Lighting,Signal,60,59,Male,No,1,Minor
+Afternoon,Thursday,Jan,Clear,Highway,Under Construction,Daylight,Speed Breaker,30,42,Male,No,4,Minor
+Morning,Sunday,Sep,Rain,City Road,Dry,Daylight,Speed Breaker,80,30,Female,No,1,Minor
+Afternoon,Saturday,Jan,Clear,City Road,Dry,Street Lit,None,50,71,Female,Yes,1,Major
+Morning,Wednesday,Mar,Clear,City Road,Potholes,Daylight,Signal,80,40,Female,No,3,Major
+Morning,Friday,Aug,Clear,Highway,Wet,Daylight,Signal,40,53,Male,Yes,2,Minor
+Afternoon,Tuesday,Mar,Snow,City Road,Dry,Daylight,Signal,100,50,Male,Yes,1,Minor
+Night,Tuesday,Apr,Rain,City Road,Wet,Street Lit,None,50,38,Female,No,4,Minor
+Night,Saturday,Aug,Storm,Rural Road,Dry,Daylight,None,50,51,Male,No,1,Minor
+Night,Friday,Jan,Clear,Highway,Dry,Street Lit,Signal,40,73,Male,No,4,Minor
+Night,Thursday,Jun,Rain,Highway,Potholes,Street Lit,Signal,100,53,Male,No,1,Minor
+Night,Friday,Jan,Rain,Highway,Wet,Daylight,Signal,80,34,Male,No,1,Minor
+Afternoon,Thursday,Jan,Clear,City Road,Wet,Street Lit,Signal,80,27,Male,No,1,Minor
+Afternoon,Friday,Aug,Fog,Highway,Dry,Street Lit,Signal,60,40,Female,No,1,Major
+Evening,Friday,Nov,Storm,Rural Road,Dry,Daylight,Signal,60,61,Female,No,1,Minor
+Night,Monday,Apr,Fog,Highway,Dry,Daylight,Speed Breaker,40,76,Male,No,1,Minor
+Afternoon,Tuesday,Dec,Rain,Rural Road,Dry,Daylight,None,60,19,Male,No,1,Minor
+Evening,Friday,Jan,Clear,Highway,Wet,Daylight,None,50,52,Female,No,1,Minor
+Night,Saturday,Oct,Clear,City Road,Dry,Daylight,Signal,120,31,Male,No,1,Major
+Morning,Friday,Jul,Snow,Rural Road,Under Construction,Daylight,Speed Breaker,80,74,Male,No,3,Major
+Evening,Wednesday,May,Clear,Highway,Dry,Daylight,None,60,64,Female,No,1,Minor
+Afternoon,Tuesday,May,Rain,Rural Road,Dry,Street Lit,Signal,50,62,Female,No,2,Major
+Morning,Wednesday,Jan,Rain,City Road,Dry,Daylight,Speed Breaker,80,58,Female,No,4,Major
+Morning,Tuesday,Oct,Rain,Rural Road,Dry,Daylight,Signal,40,19,Male,Yes,2,Minor
+Morning,Wednesday,Nov,Snow,City Road,Dry,Daylight,Signal,50,36,Male,No,4,Minor
+Evening,Friday,Jun,Clear,Highway,Potholes,Daylight,Signal,50,33,Female,Yes,1,Major
+Afternoon,Friday,Sep,Clear,Highway,Dry,Daylight,Signal,60,60,Male,No,1,Minor
+Morning,Monday,Sep,Clear,Highway,Potholes,Daylight,Speed Breaker,80,61,Female,No,1,Minor
+Night,Saturday,Aug,Clear,Highway,Dry,Daylight,Signal,50,42,Male,No,1,Minor
+Morning,Wednesday,May,Clear,Highway,Potholes,Street Lit,Signal,40,18,Female,Yes,3,Major
+Morning,Thursday,Jan,Clear,Highway,Dry,Street Lit,Signal,60,19,Male,No,1,Fatal
+Evening,Monday,Sep,Fog,City Road,Potholes,Daylight,None,80,65,Male,No,1,Major
+Evening,Wednesday,Jan,Storm,City Road,Dry,Street Lit,Signal,50,44,Male,Yes,2,Major
+Afternoon,Wednesday,Aug,Clear,Highway,Wet,Street Lit,Speed Breaker,50,19,Male,No,1,Fatal
+Night,Monday,May,Clear,Highway,Potholes,Daylight,Speed Breaker,100,75,Male,No,1,Major
+Evening,Friday,Mar,Storm,City Road,Dry,No Lighting,Signal,120,47,Male,No,1,Major
+Morning,Wednesday,Nov,Clear,Highway,Dry,Street Lit,Signal,120,68,Female,No,3,Fatal
+Afternoon,Friday,Jul,Clear,Highway,Dry,Daylight,Speed Breaker,100,27,Male,No,2,Minor
+Morning,Monday,Jul,Clear,Highway,Potholes,Daylight,Signal,50,36,Male,No,1,Major
+Morning,Friday,Sep,Rain,Rural Road,Dry,Daylight,Signal,50,59,Male,Yes,1,Major
+Evening,Tuesday,Jul,Clear,City Road,Dry,Daylight,Speed Breaker,50,33,Female,No,1,Fatal
+Afternoon,Thursday,Nov,Snow,Highway,Dry,Street Lit,Signal,50,30,Male,No,1,Major
+Night,Sunday,Mar,Clear,City Road,Dry,Daylight,Signal,120,65,Male,No,2,Major
+Night,Wednesday,Nov,Clear,City Road,Under Construction,Street Lit,Signal,80,67,Female,No,1,Fatal
+Evening,Saturday,Jan,Clear,City Road,Dry,Street Lit,Signal,80,73,Male,No,1,Minor
+Evening,Thursday,Aug,Clear,City Road,Wet,Street Lit,Speed Breaker,50,25,Male,No,3,Minor
+Afternoon,Sunday,Dec,Rain,City Road,Potholes,Street Lit,Speed Breaker,100,73,Male,No,2,Minor
+Night,Friday,Mar,Rain,Highway,Dry,Daylight,Speed Breaker,100,67,Female,No,2,Minor
+Night,Wednesday,Dec,Rain,Highway,Wet,Daylight,Speed Breaker,50,48,Male,No,1,Minor
+Night,Friday,Aug,Rain,City Road,Dry,Street Lit,Signal,100,62,Female,No,1,Minor
+Morning,Tuesday,Aug,Storm,Rural Road,Wet,Daylight,Signal,50,42,Female,No,1,Minor
+Night,Monday,May,Fog,City Road,Dry,Daylight,Signal,40,76,Male,No,2,Fatal
+Morning,Wednesday,Dec,Rain,City Road,Wet,Street Lit,Signal,80,56,Female,No,1,Minor
+Afternoon,Sunday,Jan,Clear,Rural Road,Dry,Street Lit,None,80,77,Male,No,2,Major
+Morning,Sunday,Oct,Clear,Highway,Dry,Daylight,None,40,38,Male,No,4,Fatal
+Afternoon,Tuesday,Jul,Clear,City Road,Dry,Street Lit,Signal,50,72,Male,No,1,Minor
+Night,Tuesday,Dec,Rain,City Road,Dry,Street Lit,Signal,120,73,Female,No,1,Minor
+Night,Wednesday,Oct,Clear,Rural Road,Wet,Daylight,Signal,80,74,Male,No,2,Major
+Afternoon,Friday,May,Clear,Rural Road,Dry,Daylight,Signal,80,67,Male,No,3,Major
+Evening,Saturday,Aug,Fog,City Road,Wet,No Lighting,Signal,50,55,Male,No,3,Minor
+Afternoon,Sunday,Sep,Fog,Highway,Dry,Daylight,Speed Breaker,40,58,Male,No,1,Minor
+Evening,Sunday,Nov,Storm,City Road,Wet,Daylight,None,50,46,Male,Yes,1,Minor
+Morning,Tuesday,Jul,Clear,Highway,Dry,Daylight,Speed Breaker,50,23,Male,No,2,Minor
+Morning,Thursday,Jul,Rain,City Road,Dry,Street Lit,Signal,50,35,Male,No,2,Minor
+Morning,Tuesday,Jan,Clear,Rural Road,Dry,Daylight,Signal,50,66,Male,No,1,Minor
+Night,Saturday,Apr,Clear,Highway,Wet,Daylight,Speed Breaker,60,61,Male,Yes,1,Major
+Morning,Friday,Feb,Clear,City Road,Dry,Daylight,None,50,52,Male,No,2,Fatal
+Evening,Friday,Feb,Clear,City Road,Under Construction,No Lighting,None,100,44,Female,No,1,Major
+Morning,Thursday,Feb,Clear,City Road,Under Construction,Daylight,None,50,22,Female,No,3,Fatal
+Afternoon,Sunday,Apr,Fog,Highway,Dry,Daylight,Speed Breaker,60,24,Male,No,1,Major
+Afternoon,Tuesday,Jan,Clear,City Road,Wet,No Lighting,Speed Breaker,30,27,Male,No,2,Major
+Night,Friday,Apr,Rain,Rural Road,Dry,Daylight,Signal,60,27,Female,No,2,Minor
+Afternoon,Saturday,Feb,Clear,Rural Road,Dry,No Lighting,Speed Breaker,40,68,Female,No,1,Minor
+Evening,Wednesday,May,Clear,Highway,Wet,No Lighting,Signal,120,74,Male,Yes,2,Major
+Morning,Monday,Mar,Clear,Rural Road,Wet,Street Lit,Signal,80,75,Male,No,2,Fatal
+Night,Monday,Dec,Clear,City Road,Wet,Daylight,Speed Breaker,60,45,Male,No,3,Minor
+Morning,Monday,Aug,Rain,Highway,Dry,Street Lit,Signal,40,53,Male,No,1,Minor
+Morning,Sunday,Apr,Clear,Highway,Dry,Street Lit,Signal,60,27,Male,No,2,Major
+Evening,Tuesday,Jan,Clear,Highway,Dry,No Lighting,Signal,80,67,Female,No,2,Minor
+Afternoon,Thursday,Jan,Clear,Rural Road,Wet,Daylight,Signal,50,52,Male,No,1,Minor
+Afternoon,Friday,Dec,Clear,City Road,Dry,Street Lit,Signal,60,70,Male,No,3,Major
+Morning,Wednesday,Oct,Storm,City Road,Wet,Daylight,Signal,100,52,Female,No,1,Minor
+Night,Saturday,Mar,Clear,Highway,Dry,Daylight,Signal,80,54,Female,No,1,Major
+Afternoon,Wednesday,Sep,Rain,City Road,Dry,Daylight,Signal,100,65,Female,No,1,Fatal
+Night,Saturday,Jul,Rain,Highway,Dry,Street Lit,None,100,37,Female,No,1,Minor
+Afternoon,Sunday,Feb,Storm,Highway,Dry,Daylight,Signal,100,30,Male,No,3,Minor
+Night,Tuesday,Sep,Fog,City Road,Dry,Daylight,Signal,60,28,Female,No,2,Minor
+Evening,Monday,Oct,Rain,Highway,Under Construction,No Lighting,Speed Breaker,60,75,Female,Yes,1,Minor
+Night,Tuesday,Feb,Rain,City Road,Under Construction,Daylight,None,80,62,Male,No,2,Major
+Evening,Sunday,Mar,Fog,Highway,Dry,Street Lit,Speed Breaker,80,36,Male,No,1,Minor
+Evening,Thursday,Nov,Clear,City Road,Dry,Daylight,Signal,120,45,Male,No,1,Minor
+Night,Thursday,Oct,Clear,City Road,Dry,Daylight,Speed Breaker,30,55,Female,No,1,Minor
+Evening,Sunday,Feb,Clear,City Road,Under Construction,Street Lit,Speed Breaker,60,73,Male,Yes,1,Minor
+Morning,Saturday,Mar,Fog,Highway,Dry,No Lighting,Speed Breaker,50,62,Male,No,1,Minor
+Evening,Friday,Jun,Fog,Highway,Potholes,Daylight,Speed Breaker,50,77,Male,Yes,2,Major
+Afternoon,Friday,Sep,Clear,Rural Road,Dry,Street Lit,None,50,21,Male,No,1,Minor
+Night,Saturday,Sep,Rain,Highway,Dry,Daylight,None,80,74,Male,Yes,1,Minor
+Morning,Thursday,Jul,Clear,City Road,Potholes,Daylight,Speed Breaker,40,71,Male,No,1,Minor
+Night,Thursday,Dec,Clear,Rural Road,Dry,Daylight,Signal,80,54,Female,Yes,1,Fatal
+Afternoon,Thursday,Mar,Snow,Highway,Dry,Daylight,Speed Breaker,80,36,Male,No,3,Minor
+Afternoon,Tuesday,Apr,Clear,Highway,Dry,Daylight,None,50,54,Male,No,1,Major
+Afternoon,Thursday,Jun,Clear,City Road,Dry,Daylight,Signal,50,70,Male,No,3,Minor
+Evening,Wednesday,Nov,Rain,Rural Road,Dry,Daylight,None,80,31,Male,No,1,Major
+Evening,Monday,May,Rain,Rural Road,Wet,Daylight,Signal,80,48,Male,No,2,Minor
+Night,Thursday,Feb,Clear,City Road,Wet,Daylight,Signal,100,45,Male,No,1,Fatal
+Night,Saturday,Jun,Rain,City Road,Dry,Daylight,None,100,77,Male,No,4,Major
+Morning,Monday,Mar,Clear,Highway,Potholes,No Lighting,Signal,120,53,Male,No,1,Major
+Morning,Tuesday,Aug,Clear,Rural Road,Dry,Street Lit,Signal,60,61,Male,No,1,Minor
+Night,Saturday,Feb,Clear,Rural Road,Dry,Daylight,Signal,100,55,Male,No,4,Major
+Evening,Monday,Jan,Rain,Highway,Dry,No Lighting,Signal,100,36,Male,No,3,Major
+Afternoon,Saturday,Sep,Clear,Highway,Dry,Street Lit,Signal,100,59,Male,No,1,Minor
+Night,Tuesday,Dec,Storm,Highway,Dry,Daylight,Signal,30,18,Male,No,4,Minor
+Morning,Wednesday,Mar,Fog,Highway,Potholes,Daylight,Signal,120,40,Female,No,2,Major
+Evening,Tuesday,Nov,Snow,City Road,Dry,Street Lit,None,60,72,Female,No,1,Minor
+Night,Tuesday,Jan,Clear,Highway,Dry,Daylight,None,80,45,Male,No,1,Major
+Night,Saturday,Jul,Snow,Highway,Dry,Street Lit,Signal,40,65,Male,Yes,1,Minor
+Evening,Sunday,Oct,Clear,Highway,Wet,Street Lit,Speed Breaker,60,21,Male,No,1,Minor
+Night,Friday,May,Clear,Rural Road,Under Construction,Street Lit,Signal,50,58,Male,No,2,Major
+Evening,Thursday,May,Clear,City Road,Dry,No Lighting,Signal,50,77,Female,No,1,Minor
+Afternoon,Thursday,Jan,Clear,City Road,Dry,Daylight,Signal,40,35,Female,No,1,Fatal
+Evening,Wednesday,Sep,Rain,Highway,Dry,Daylight,None,100,78,Female,No,3,Major
+Evening,Wednesday,Jul,Clear,Rural Road,Dry,Street Lit,None,30,66,Female,No,1,Major
+Evening,Thursday,Aug,Clear,City Road,Dry,Daylight,Signal,50,64,Female,No,4,Major
+Night,Friday,Sep,Rain,Highway,Dry,Street Lit,Signal,50,68,Male,No,4,Major
+Night,Thursday,Jun,Clear,Highway,Dry,No Lighting,Signal,60,56,Male,No,3,Minor
+Evening,Sunday,Dec,Rain,Highway,Dry,Street Lit,Speed Breaker,50,42,Female,No,2,Major
+Night,Friday,May,Clear,Highway,Dry,Daylight,Speed Breaker,50,35,Male,No,1,Minor
+Morning,Wednesday,Jun,Fog,City Road,Potholes,Daylight,Signal,60,23,Male,No,1,Minor
+Morning,Monday,Nov,Fog,Rural Road,Potholes,Daylight,Speed Breaker,80,36,Male,No,1,Minor
+Night,Saturday,Feb,Clear,City Road,Dry,Daylight,Signal,40,70,Female,No,1,Major
+Night,Sunday,Apr,Clear,City Road,Dry,Street Lit,None,50,29,Male,Yes,2,Minor
+Evening,Sunday,Mar,Clear,City Road,Dry,Street Lit,Speed Breaker,50,42,Male,Yes,1,Minor
+Afternoon,Wednesday,Jul,Fog,City Road,Dry,Street Lit,Signal,120,52,Female,No,4,Major
+Night,Wednesday,Sep,Clear,City Road,Wet,Daylight,Speed Breaker,60,18,Female,No,3,Minor
+Morning,Tuesday,May,Clear,Highway,Dry,Daylight,None,60,22,Female,No,1,Major
+Evening,Sunday,Jun,Clear,Highway,Under Construction,Street Lit,Signal,50,18,Male,No,1,Major
+Night,Tuesday,Oct,Clear,City Road,Potholes,Daylight,Signal,60,25,Male,No,1,Minor
+Morning,Tuesday,Dec,Clear,Highway,Dry,Daylight,None,40,56,Female,No,3,Minor
+Morning,Saturday,Dec,Fog,Highway,Dry,Street Lit,Signal,30,64,Male,No,2,Major
+Afternoon,Tuesday,Feb,Clear,City Road,Dry,Street Lit,Signal,60,60,Male,No,1,Minor
+Evening,Friday,Mar,Clear,Rural Road,Dry,Daylight,Signal,60,35,Male,No,1,Minor
+Evening,Thursday,Mar,Fog,City Road,Dry,Street Lit,None,40,63,Male,Yes,1,Minor
+Afternoon,Monday,Dec,Fog,City Road,Dry,Daylight,Speed Breaker,80,76,Male,Yes,4,Minor
+Afternoon,Wednesday,Dec,Clear,City Road,Under Construction,No Lighting,None,120,26,Male,No,1,Minor
+Evening,Friday,Sep,Clear,City Road,Dry,Daylight,Speed Breaker,60,22,Male,No,1,Minor
+Evening,Monday,Jul,Clear,City Road,Dry,Daylight,Signal,80,72,Female,No,3,Major
+Night,Sunday,Aug,Storm,Rural Road,Wet,Street Lit,Speed Breaker,120,21,Male,No,3,Minor
+Night,Sunday,Nov,Clear,City Road,Wet,Daylight,Speed Breaker,100,61,Male,Yes,3,Major
+Afternoon,Sunday,Oct,Storm,City Road,Dry,Street Lit,Signal,60,46,Male,No,1,Minor
+Night,Friday,Nov,Rain,City Road,Under Construction,Street Lit,Signal,80,18,Male,Yes,2,Minor
+Morning,Friday,Sep,Clear,City Road,Dry,Street Lit,Signal,40,47,Female,No,1,Major
+Night,Wednesday,Jun,Clear,Highway,Dry,No Lighting,Speed Breaker,60,73,Male,No,1,Major
+Night,Thursday,Apr,Clear,Highway,Dry,Daylight,None,50,62,Female,Yes,1,Major
+Morning,Tuesday,Dec,Clear,Highway,Dry,Street Lit,Speed Breaker,50,18,Male,No,1,Major
+Afternoon,Sunday,Jan,Clear,Rural Road,Under Construction,Daylight,None,60,20,Male,No,1,Major
+Morning,Saturday,Aug,Rain,Highway,Wet,Daylight,Signal,40,39,Male,Yes,3,Minor
+Night,Thursday,Jul,Snow,Highway,Under Construction,Street Lit,None,80,25,Male,No,1,Major
+Afternoon,Saturday,Feb,Rain,City Road,Dry,Daylight,None,60,73,Male,No,3,Major
+Night,Wednesday,Aug,Rain,Highway,Dry,Daylight,Signal,60,35,Male,Yes,1,Fatal
+Morning,Wednesday,Dec,Clear,City Road,Dry,Daylight,None,40,42,Male,Yes,1,Major
+Morning,Wednesday,May,Clear,Highway,Dry,Street Lit,Signal,40,65,Female,No,2,Major
+Night,Monday,Jul,Clear,Rural Road,Wet,No Lighting,None,60,69,Female,No,2,Minor
+Evening,Saturday,Apr,Rain,Rural Road,Wet,Daylight,None,120,37,Male,No,1,Major
+Evening,Thursday,May,Storm,Rural Road,Dry,Daylight,Speed Breaker,40,48,Male,No,3,Fatal
+Morning,Thursday,Aug,Rain,City Road,Dry,Street Lit,Speed Breaker,50,47,Male,No,1,Major
+Morning,Friday,Jan,Clear,City Road,Dry,Daylight,Signal,100,33,Female,No,3,Major
+Evening,Friday,Jan,Clear,Highway,Dry,Daylight,Speed Breaker,40,19,Male,No,1,Minor
+Evening,Sunday,Apr,Rain,Highway,Dry,Daylight,Signal,100,34,Male,No,3,Major
+Night,Friday,Mar,Clear,Highway,Dry,Daylight,Speed Breaker,60,27,Male,Yes,1,Major
+Night,Wednesday,Oct,Fog,City Road,Dry,Daylight,Speed Breaker,60,24,Male,No,2,Major
+Evening,Thursday,Dec,Fog,City Road,Dry,Street Lit,None,50,76,Male,No,2,Minor
+Night,Saturday,Feb,Rain,City Road,Dry,Daylight,Signal,50,59,Male,No,1,Major
+Night,Wednesday,Dec,Clear,Highway,Dry,No Lighting,None,50,68,Female,No,3,Minor
+Afternoon,Monday,Mar,Clear,City Road,Wet,Street Lit,None,100,69,Female,No,1,Major
+Night,Friday,Nov,Clear,City Road,Dry,Street Lit,Speed Breaker,80,76,Male,No,1,Minor
+Morning,Wednesday,Nov,Clear,City Road,Potholes,Daylight,Signal,80,26,Male,No,2,Major
+Night,Wednesday,Nov,Clear,City Road,Dry,Daylight,Signal,80,71,Male,No,1,Minor
+Night,Monday,Jan,Rain,Highway,Dry,Daylight,Signal,50,79,Female,Yes,1,Minor
+Evening,Tuesday,Jan,Rain,City Road,Dry,No Lighting,Speed Breaker,80,34,Female,No,1,Major
+Morning,Thursday,Jun,Clear,City Road,Dry,Daylight,Speed Breaker,60,26,Male,No,2,Minor
+Night,Saturday,May,Clear,Highway,Under Construction,Daylight,None,80,26,Male,No,1,Major
+Night,Sunday,Aug,Clear,Highway,Dry,Daylight,Signal,50,54,Male,No,1,Fatal
+Afternoon,Tuesday,Feb,Clear,City Road,Potholes,Daylight,Signal,80,41,Male,No,2,Fatal
+Night,Friday,Apr,Fog,City Road,Under Construction,Daylight,Speed Breaker,100,56,Male,Yes,3,Minor
+Night,Wednesday,Aug,Clear,City Road,Dry,Daylight,None,60,28,Female,No,3,Major
+Afternoon,Monday,Dec,Clear,Highway,Dry,Daylight,None,40,25,Male,No,2,Minor
+Evening,Monday,Jun,Clear,Rural Road,Wet,Daylight,None,60,42,Male,No,2,Fatal
+Night,Thursday,Jan,Fog,City Road,Dry,Daylight,Signal,50,63,Female,No,1,Major
+Afternoon,Tuesday,Apr,Rain,City Road,Wet,Street Lit,Speed Breaker,80,19,Male,No,1,Minor
+Morning,Sunday,Jan,Clear,City Road,Dry,Daylight,None,120,27,Female,No,2,Minor
+Evening,Thursday,Feb,Clear,Highway,Dry,Daylight,Signal,60,70,Male,No,4,Minor
+Morning,Wednesday,May,Rain,City Road,Dry,Daylight,Signal,60,41,Female,No,2,Major
+Morning,Thursday,Aug,Snow,Highway,Dry,Daylight,Signal,80,65,Male,No,1,Minor
+Afternoon,Saturday,Aug,Clear,Rural Road,Under Construction,No Lighting,Signal,40,33,Male,No,1,Major
+Night,Monday,Nov,Fog,City Road,Dry,Daylight,Speed Breaker,50,36,Male,No,2,Major
+Afternoon,Monday,Mar,Storm,City Road,Under Construction,Street Lit,Signal,100,76,Male,No,2,Fatal
+Afternoon,Friday,Nov,Storm,City Road,Dry,Street Lit,Signal,80,48,Male,No,2,Fatal
+Afternoon,Friday,Apr,Rain,Rural Road,Dry,Street Lit,Signal,30,28,Female,No,1,Minor
+Afternoon,Sunday,Oct,Rain,City Road,Dry,Daylight,Speed Breaker,50,23,Female,No,1,Major
+Evening,Wednesday,Nov,Clear,City Road,Dry,Daylight,Signal,80,23,Male,No,3,Major
+Night,Saturday,Jun,Rain,City Road,Dry,Street Lit,Speed Breaker,80,49,Male,Yes,2,Major
+Morning,Tuesday,Nov,Clear,City Road,Dry,Daylight,Signal,100,56,Female,No,1,Minor
+Morning,Thursday,Nov,Rain,City Road,Under Construction,Street Lit,Signal,50,65,Female,Yes,1,Minor
+Night,Sunday,Oct,Clear,Highway,Dry,Street Lit,Signal,100,30,Male,No,3,Minor
+Morning,Wednesday,Mar,Rain,City Road,Dry,Street Lit,Signal,60,76,Female,No,3,Minor
+Night,Friday,Feb,Fog,Highway,Under Construction,Daylight,Signal,80,20,Male,No,1,Minor
+Morning,Thursday,Jun,Clear,Rural Road,Wet,Street Lit,Signal,60,73,Male,No,1,Minor
+Afternoon,Friday,Nov,Fog,Highway,Dry,Street Lit,None,40,73,Male,Yes,1,Major
+Morning,Thursday,May,Clear,Rural Road,Dry,Street Lit,Speed Breaker,120,58,Female,No,1,Minor
+Night,Tuesday,Oct,Fog,City Road,Under Construction,Daylight,Signal,40,73,Male,No,2,Major
+Night,Wednesday,May,Clear,City Road,Dry,Daylight,Signal,50,52,Male,No,1,Minor
+Night,Thursday,Oct,Clear,City Road,Dry,Daylight,None,100,55,Male,No,2,Major
+Night,Saturday,May,Storm,Highway,Dry,Daylight,Speed Breaker,80,74,Male,No,2,Fatal
+Night,Sunday,Oct,Clear,Highway,Under Construction,Daylight,Signal,100,34,Male,No,1,Major
+Evening,Monday,Dec,Fog,Highway,Dry,No Lighting,Speed Breaker,60,20,Male,No,1,Major
+Evening,Saturday,May,Clear,City Road,Potholes,Daylight,Speed Breaker,60,51,Male,No,1,Minor
+Morning,Saturday,Mar,Clear,City Road,Dry,Street Lit,Speed Breaker,100,29,Male,No,1,Major
+Night,Sunday,Jul,Clear,City Road,Wet,Daylight,Signal,30,41,Female,Yes,1,Minor
+Morning,Monday,Jun,Rain,Highway,Dry,Daylight,Signal,100,23,Male,No,2,Minor
+Night,Saturday,Apr,Clear,Highway,Dry,Daylight,Signal,50,59,Female,No,2,Minor
+Night,Thursday,Feb,Clear,City Road,Under Construction,Daylight,None,100,28,Male,Yes,2,Minor
+Evening,Thursday,Dec,Clear,Rural Road,Dry,No Lighting,Speed Breaker,40,65,Male,No,2,Minor
+Evening,Thursday,Sep,Clear,City Road,Dry,Daylight,Signal,60,44,Male,No,2,Major
+Afternoon,Monday,Jan,Snow,City Road,Dry,Street Lit,None,100,65,Male,No,2,Minor
+Evening,Saturday,Nov,Snow,City Road,Dry,Daylight,None,60,41,Male,No,1,Major
+Afternoon,Monday,Apr,Clear,Highway,Dry,No Lighting,None,80,35,Female,Yes,4,Major
+Afternoon,Thursday,Jan,Rain,Rural Road,Wet,Daylight,None,100,44,Female,No,1,Minor
+Afternoon,Sunday,Jun,Clear,City Road,Dry,Daylight,None,80,71,Male,No,1,Minor
+Afternoon,Saturday,Apr,Rain,Highway,Dry,Daylight,Signal,100,72,Male,No,1,Major
+Afternoon,Saturday,May,Fog,City Road,Dry,Daylight,None,60,73,Female,No,4,Minor
+Morning,Friday,May,Storm,Highway,Wet,Daylight,None,50,58,Male,Yes,4,Minor
+Evening,Friday,Sep,Clear,Rural Road,Wet,Street Lit,Signal,30,38,Male,No,2,Major
+Afternoon,Tuesday,Jan,Rain,Highway,Dry,Street Lit,Signal,50,76,Female,No,2,Minor
+Night,Wednesday,Feb,Clear,City Road,Dry,Street Lit,None,40,68,Female,No,1,Minor
+Evening,Friday,Jun,Snow,Highway,Potholes,Daylight,Signal,60,51,Male,No,4,Minor
+Evening,Monday,May,Clear,City Road,Dry,Daylight,None,50,73,Male,No,2,Minor
+Afternoon,Friday,Nov,Rain,City Road,Under Construction,Daylight,Signal,30,50,Male,No,3,Minor
+Morning,Tuesday,Jul,Rain,City Road,Under Construction,No Lighting,Signal,30,75,Female,No,1,Minor
+Afternoon,Saturday,Mar,Rain,City Road,Wet,Street Lit,Signal,100,65,Female,No,1,Minor
+Morning,Tuesday,Mar,Clear,Rural Road,Dry,Street Lit,Signal,60,71,Male,No,3,Minor
+Night,Saturday,Oct,Storm,Highway,Under Construction,Street Lit,Speed Breaker,60,35,Female,Yes,1,Fatal
+Evening,Sunday,Feb,Clear,Highway,Wet,Daylight,Speed Breaker,100,20,Female,No,3,Minor
+Night,Sunday,Mar,Rain,Highway,Dry,Daylight,Signal,40,41,Male,No,1,Major
+Morning,Saturday,Oct,Clear,Rural Road,Dry,Daylight,Signal,120,18,Female,No,3,Minor
+Morning,Wednesday,Jan,Clear,Highway,Dry,Daylight,Signal,80,23,Male,No,1,Minor
+Night,Friday,May,Clear,City Road,Dry,Daylight,Signal,50,36,Male,Yes,2,Major
+Morning,Monday,Dec,Clear,City Road,Dry,Daylight,Speed Breaker,80,39,Male,No,1,Major
+Night,Monday,May,Clear,Highway,Dry,Street Lit,Signal,80,68,Female,No,2,Minor
+Evening,Thursday,Dec,Clear,Highway,Dry,Street Lit,Signal,60,60,Male,No,1,Minor
+Night,Saturday,Nov,Clear,Highway,Dry,Street Lit,Signal,100,76,Male,No,4,Minor
+Evening,Monday,Jul,Rain,City Road,Dry,No Lighting,Signal,50,25,Female,No,2,Major
+Night,Wednesday,Apr,Fog,Highway,Wet,Daylight,Signal,50,22,Male,No,1,Minor
+Morning,Saturday,Mar,Clear,Highway,Potholes,Daylight,Signal,40,69,Female,No,3,Minor
+Night,Wednesday,Jan,Clear,Rural Road,Dry,Street Lit,None,50,26,Male,No,1,Major
+Morning,Monday,Dec,Clear,Rural Road,Dry,Daylight,None,50,64,Male,No,1,Fatal
+Night,Monday,Aug,Clear,Highway,Dry,Daylight,None,100,38,Male,No,1,Major
+Night,Thursday,Mar,Rain,Highway,Wet,Daylight,Signal,40,45,Female,No,3,Minor
+Afternoon,Monday,Feb,Rain,Highway,Wet,Daylight,Signal,60,63,Male,No,1,Major
+Morning,Saturday,Nov,Clear,City Road,Potholes,Daylight,Speed Breaker,60,21,Male,Yes,1,Major
+Afternoon,Sunday,Apr,Clear,City Road,Dry,Daylight,Speed Breaker,100,73,Female,No,3,Major
+Morning,Saturday,Mar,Clear,Highway,Potholes,Daylight,None,120,41,Male,No,2,Major
+Afternoon,Saturday,Jan,Fog,Highway,Dry,Street Lit,Signal,80,25,Female,Yes,1,Fatal
+Evening,Thursday,Mar,Snow,City Road,Wet,Daylight,Signal,120,69,Female,No,2,Minor
+Night,Thursday,Dec,Clear,City Road,Dry,Daylight,Speed Breaker,80,78,Male,No,3,Minor
+Morning,Monday,Feb,Clear,Highway,Under Construction,Daylight,None,120,34,Male,No,1,Major
+Morning,Tuesday,Aug,Fog,City Road,Dry,Daylight,None,80,51,Male,No,2,Minor
+Night,Tuesday,Jun,Storm,Highway,Wet,Street Lit,Speed Breaker,40,37,Male,Yes,1,Minor
+Morning,Thursday,Sep,Clear,Highway,Under Construction,Street Lit,None,60,33,Female,No,2,Minor
+Morning,Monday,Aug,Clear,City Road,Dry,Street Lit,Speed Breaker,80,27,Female,Yes,1,Major
+Afternoon,Tuesday,Oct,Clear,City Road,Dry,Daylight,None,60,51,Male,No,2,Minor
+Morning,Monday,Mar,Rain,City Road,Under Construction,Daylight,None,50,60,Male,Yes,1,Major
+Evening,Monday,May,Clear,Rural Road,Dry,Daylight,None,60,27,Male,No,2,Minor
+Evening,Monday,Jul,Clear,City Road,Dry,Daylight,Signal,100,47,Male,No,1,Minor
+Night,Friday,May,Rain,City Road,Dry,Daylight,Signal,30,47,Male,No,1,Minor
+Morning,Saturday,Aug,Clear,City Road,Dry,Daylight,Speed Breaker,80,68,Male,Yes,1,Minor
+Night,Monday,Dec,Rain,Rural Road,Dry,Daylight,Signal,80,42,Male,No,2,Major
+Evening,Friday,May,Clear,Rural Road,Dry,Street Lit,None,120,74,Male,No,1,Major
+Morning,Thursday,Jan,Clear,Highway,Dry,Daylight,Signal,100,63,Female,No,1,Major
+Morning,Tuesday,May,Rain,Rural Road,Dry,Street Lit,Signal,80,60,Male,No,1,Minor
+Night,Saturday,Apr,Clear,City Road,Under Construction,Daylight,Speed Breaker,60,58,Female,No,2,Minor
+Evening,Sunday,Jun,Snow,City Road,Potholes,Daylight,Signal,50,24,Male,No,1,Minor
+Morning,Tuesday,Mar,Clear,Highway,Wet,No Lighting,Signal,60,64,Female,Yes,2,Minor
+Night,Saturday,Nov,Clear,City Road,Dry,No Lighting,Signal,80,37,Male,Yes,1,Minor
+Evening,Sunday,May,Rain,Rural Road,Potholes,Daylight,Speed Breaker,100,34,Female,No,1,Major
+Night,Tuesday,Feb,Clear,Highway,Dry,Daylight,Signal,80,20,Female,No,1,Minor
+Afternoon,Saturday,Nov,Storm,Rural Road,Dry,Daylight,None,50,64,Male,No,3,Minor
+Morning,Tuesday,Jun,Clear,Highway,Potholes,Daylight,Signal,60,63,Male,No,1,Fatal
+Afternoon,Tuesday,Dec,Clear,Highway,Wet,Street Lit,None,50,57,Female,Yes,1,Minor
+Evening,Sunday,Jun,Clear,City Road,Wet,No Lighting,Signal,30,53,Female,Yes,1,Fatal
+Afternoon,Tuesday,May,Clear,City Road,Wet,Street Lit,Signal,50,43,Female,No,2,Fatal
+Afternoon,Tuesday,Jun,Fog,City Road,Dry,Daylight,Signal,40,27,Female,No,1,Minor
+Evening,Sunday,Nov,Fog,Highway,Dry,Street Lit,Signal,100,51,Male,No,2,Minor
+Night,Thursday,Jul,Clear,Rural Road,Wet,Daylight,Speed Breaker,50,31,Male,Yes,1,Major
+Afternoon,Monday,Dec,Clear,Highway,Dry,No Lighting,Signal,50,25,Male,Yes,1,Minor
+Night,Wednesday,May,Fog,Highway,Dry,Street Lit,Signal,120,72,Female,No,1,Minor
+Afternoon,Friday,Jan,Storm,Highway,Wet,Daylight,Speed Breaker,60,44,Male,Yes,2,Major
+Night,Wednesday,Aug,Clear,City Road,Wet,Daylight,Signal,30,27,Male,No,2,Minor
+Evening,Wednesday,Apr,Clear,Rural Road,Dry,Daylight,Signal,50,74,Female,No,1,Minor
+Afternoon,Saturday,Sep,Clear,City Road,Wet,Daylight,Speed Breaker,40,67,Female,Yes,3,Major
+Evening,Monday,Oct,Fog,City Road,Under Construction,Street Lit,None,40,32,Male,Yes,1,Major
+Afternoon,Saturday,Dec,Clear,Highway,Wet,Daylight,Signal,40,54,Male,No,2,Minor
+Evening,Monday,Jun,Clear,City Road,Dry,Daylight,Signal,60,39,Male,No,1,Minor
+Evening,Sunday,Jan,Rain,City Road,Dry,Daylight,None,50,62,Male,No,1,Minor
+Afternoon,Sunday,Mar,Clear,City Road,Dry,Street Lit,Signal,60,67,Female,No,2,Minor
+Afternoon,Monday,Mar,Clear,Highway,Dry,Daylight,None,100,48,Male,No,2,Major
+Afternoon,Tuesday,Oct,Clear,City Road,Dry,Street Lit,Signal,60,19,Female,No,1,Major
+Morning,Thursday,Dec,Clear,City Road,Dry,Street Lit,None,100,62,Female,No,1,Major
+Night,Tuesday,Dec,Clear,City Road,Dry,No Lighting,Signal,60,48,Male,Yes,1,Minor
+Morning,Thursday,Apr,Clear,City Road,Potholes,Daylight,None,60,79,Male,Yes,2,Minor
+Morning,Saturday,Jun,Clear,Highway,Dry,Daylight,Signal,80,31,Male,No,1,Minor
+Evening,Thursday,Jul,Rain,City Road,Wet,Daylight,Speed Breaker,40,27,Male,No,2,Minor
+Afternoon,Saturday,Oct,Fog,Highway,Wet,Daylight,Signal,40,47,Male,No,1,Minor
+Night,Sunday,Apr,Rain,Rural Road,Dry,Daylight,Signal,80,53,Female,No,1,Minor
+Evening,Wednesday,Jun,Clear,City Road,Potholes,Street Lit,Speed Breaker,60,64,Male,No,1,Minor
+Morning,Sunday,Nov,Clear,Highway,Dry,Daylight,Speed Breaker,80,57,Female,No,1,Major
+Afternoon,Sunday,Jan,Clear,Rural Road,Dry,Street Lit,None,100,32,Male,No,1,Major
+Evening,Wednesday,Aug,Clear,City Road,Wet,Daylight,Signal,60,31,Male,No,1,Minor
+Afternoon,Thursday,Jul,Clear,Highway,Dry,Street Lit,None,60,48,Female,No,2,Minor
+Evening,Thursday,Nov,Rain,City Road,Wet,Street Lit,Signal,60,46,Male,Yes,1,Major
+Afternoon,Saturday,Nov,Clear,Highway,Dry,Street Lit,None,120,44,Male,No,2,Fatal
+Morning,Tuesday,Sep,Clear,City Road,Under Construction,Street Lit,None,100,38,Male,No,1,Minor
+Night,Saturday,Mar,Clear,City Road,Dry,Street Lit,Signal,100,26,Male,No,4,Major
+Morning,Tuesday,Feb,Rain,Rural Road,Wet,No Lighting,None,50,37,Female,No,4,Major
+Night,Sunday,Jan,Clear,City Road,Dry,Daylight,None,80,52,Male,No,3,Minor
+Afternoon,Wednesday,Mar,Rain,City Road,Wet,Daylight,Signal,50,75,Male,Yes,2,Minor
+Evening,Sunday,May,Clear,City Road,Wet,Daylight,Speed Breaker,50,32,Male,No,1,Minor
+Morning,Monday,Nov,Fog,Highway,Dry,Daylight,Signal,100,41,Female,No,2,Minor
+Night,Thursday,Feb,Fog,City Road,Wet,Daylight,None,30,66,Male,No,4,Minor
+Morning,Tuesday,Dec,Clear,City Road,Dry,Daylight,Signal,120,74,Male,No,1,Fatal
+Night,Saturday,Mar,Clear,Highway,Under Construction,Daylight,Signal,40,33,Male,Yes,1,Major
+Morning,Wednesday,Apr,Clear,City Road,Dry,Daylight,Signal,100,53,Male,Yes,1,Minor
+Night,Tuesday,Jul,Clear,Rural Road,Under Construction,Daylight,Speed Breaker,50,28,Male,No,1,Minor
+Night,Saturday,Mar,Rain,Rural Road,Under Construction,No Lighting,None,60,74,Male,No,1,Major
+Afternoon,Thursday,Sep,Fog,Highway,Dry,Daylight,None,50,25,Male,No,1,Minor
+Night,Sunday,Aug,Rain,Highway,Dry,Street Lit,Signal,60,20,Male,No,1,Minor
+Afternoon,Thursday,Apr,Fog,Highway,Dry,Daylight,Signal,50,36,Male,No,4,Fatal
+Night,Friday,Jan,Clear,Rural Road,Under Construction,No Lighting,Speed Breaker,80,63,Female,Yes,1,Minor
+Evening,Monday,Jan,Clear,Highway,Dry,Street Lit,Speed Breaker,30,58,Female,Yes,2,Minor
+Evening,Friday,Jan,Rain,City Road,Dry,Street Lit,Signal,40,20,Male,No,1,Minor
+Evening,Wednesday,Jan,Clear,Highway,Under Construction,Street Lit,Signal,40,53,Male,No,1,Minor
+Night,Tuesday,Aug,Rain,City Road,Dry,Daylight,Speed Breaker,60,42,Male,No,1,Minor
+Afternoon,Wednesday,Mar,Clear,Highway,Wet,No Lighting,Signal,100,77,Female,No,1,Minor
+Afternoon,Sunday,Jun,Clear,City Road,Dry,Street Lit,Speed Breaker,100,53,Male,No,1,Major
+Night,Saturday,Mar,Snow,Highway,Dry,Street Lit,Speed Breaker,50,28,Female,Yes,1,Minor
+Evening,Thursday,Nov,Clear,City Road,Wet,Street Lit,None,60,68,Male,No,1,Minor
+Evening,Friday,May,Snow,Highway,Dry,Daylight,Speed Breaker,80,79,Male,Yes,2,Minor
+Afternoon,Friday,Jul,Snow,City Road,Dry,Street Lit,Signal,50,33,Female,No,1,Minor
+Evening,Sunday,Feb,Rain,Rural Road,Under Construction,Daylight,None,60,72,Female,No,1,Major
+Morning,Friday,Jun,Rain,Highway,Dry,Daylight,Speed Breaker,60,71,Female,Yes,2,Minor
+Afternoon,Sunday,Jun,Rain,Rural Road,Potholes,Daylight,Signal,40,34,Male,No,1,Major
+Evening,Wednesday,Nov,Fog,City Road,Potholes,No Lighting,Speed Breaker,30,79,Male,No,1,Minor
+Afternoon,Thursday,Mar,Clear,Highway,Dry,Daylight,Signal,50,59,Male,No,1,Minor
+Morning,Tuesday,Jun,Clear,City Road,Dry,Daylight,None,80,41,Male,No,1,Major
+Afternoon,Saturday,Oct,Rain,Highway,Wet,Daylight,Signal,40,34,Male,No,1,Minor
+Afternoon,Tuesday,Oct,Clear,City Road,Dry,Street Lit,Speed Breaker,50,65,Male,No,1,Major
+Afternoon,Wednesday,May,Clear,City Road,Dry,Street Lit,Signal,50,37,Male,No,1,Minor
+Afternoon,Saturday,Dec,Clear,Highway,Wet,Daylight,Signal,40,39,Male,Yes,2,Minor
+Morning,Friday,Feb,Rain,City Road,Dry,Daylight,None,50,23,Female,Yes,1,Major
+Night,Monday,Sep,Fog,City Road,Under Construction,Street Lit,None,100,24,Female,No,1,Major
+Afternoon,Wednesday,Aug,Clear,Rural Road,Dry,No Lighting,Signal,30,31,Male,No,3,Major
+Afternoon,Wednesday,Mar,Storm,City Road,Dry,Street Lit,Signal,80,28,Male,No,2,Major
+Evening,Thursday,Aug,Rain,Rural Road,Dry,Daylight,Signal,60,29,Male,No,1,Fatal
+Afternoon,Tuesday,Sep,Fog,City Road,Potholes,No Lighting,Speed Breaker,80,63,Female,No,3,Minor
+Evening,Wednesday,Mar,Rain,Highway,Wet,Daylight,Speed Breaker,60,22,Male,No,1,Minor
+Night,Wednesday,Mar,Rain,City Road,Under Construction,Daylight,Speed Breaker,50,22,Female,No,1,Minor
+Morning,Friday,Feb,Clear,City Road,Dry,Daylight,Speed Breaker,100,37,Female,Yes,4,Minor
+Morning,Friday,Aug,Fog,City Road,Dry,Daylight,None,60,71,Male,No,3,Minor
+Night,Saturday,Oct,Clear,City Road,Dry,Street Lit,Signal,100,72,Male,No,1,Major
+Morning,Sunday,Jan,Fog,City Road,Dry,Daylight,Signal,60,75,Female,No,2,Minor
+Night,Sunday,Aug,Snow,City Road,Dry,Daylight,Speed Breaker,120,32,Male,Yes,2,Major
+Night,Monday,Jul,Clear,City Road,Wet,Daylight,None,80,43,Male,No,1,Minor
+Night,Sunday,Jul,Clear,Highway,Dry,Daylight,Speed Breaker,120,50,Female,Yes,1,Minor
+Morning,Thursday,Mar,Rain,City Road,Potholes,Daylight,Speed Breaker,60,74,Male,No,1,Fatal
+Evening,Monday,Jan,Clear,City Road,Dry,Daylight,Speed Breaker,60,47,Female,No,3,Minor
+Night,Saturday,Apr,Fog,Highway,Potholes,Daylight,None,80,41,Female,No,1,Minor
+Afternoon,Friday,Sep,Clear,City Road,Dry,Street Lit,Signal,100,40,Female,No,2,Minor
+Morning,Sunday,May,Clear,City Road,Dry,Street Lit,Signal,120,26,Male,No,1,Major
+Night,Tuesday,Jan,Snow,Highway,Dry,Street Lit,None,50,20,Male,Yes,1,Minor
+Night,Friday,May,Rain,Highway,Dry,Daylight,None,80,75,Male,No,2,Minor
+Afternoon,Thursday,Aug,Fog,Highway,Dry,Street Lit,Signal,50,53,Female,No,2,Major
+Evening,Friday,Aug,Clear,Rural Road,Dry,No Lighting,Signal,60,65,Female,No,1,Minor
+Evening,Thursday,May,Rain,Highway,Dry,Street Lit,Signal,50,24,Male,No,1,Major
+Evening,Thursday,Dec,Rain,Highway,Wet,Street Lit,Signal,50,39,Male,No,1,Minor
+Night,Thursday,Sep,Rain,City Road,Wet,Daylight,None,100,31,Male,No,1,Minor
+Night,Saturday,Jan,Rain,Highway,Under Construction,No Lighting,Signal,40,65,Female,No,1,Major
+Night,Thursday,Apr,Rain,Highway,Dry,Daylight,None,80,46,Female,No,2,Major
+Morning,Thursday,Mar,Clear,Highway,Wet,Daylight,Signal,60,67,Female,Yes,1,Major
+Afternoon,Tuesday,Feb,Clear,City Road,Dry,Daylight,Speed Breaker,40,33,Female,No,1,Major
+Night,Monday,Aug,Rain,City Road,Dry,Daylight,Signal,50,65,Female,No,1,Minor
+Afternoon,Wednesday,Jul,Clear,Highway,Dry,No Lighting,Speed Breaker,60,51,Female,No,3,Minor
+Afternoon,Monday,Sep,Rain,City Road,Dry,Daylight,Speed Breaker,50,27,Male,No,1,Minor
+Evening,Thursday,Feb,Clear,Rural Road,Dry,Daylight,Speed Breaker,100,24,Male,No,2,Major
+Morning,Tuesday,Apr,Rain,Highway,Dry,Street Lit,Signal,120,42,Female,No,1,Major
+Night,Friday,Jun,Rain,Highway,Dry,Daylight,Signal,50,44,Male,No,1,Fatal
+Evening,Tuesday,Nov,Clear,Highway,Wet,Daylight,Signal,50,32,Male,No,1,Minor
+Evening,Thursday,Mar,Clear,City Road,Wet,Street Lit,Signal,60,49,Male,No,1,Minor
+Night,Tuesday,Aug,Clear,City Road,Potholes,Street Lit,Speed Breaker,80,45,Male,No,2,Major
+Afternoon,Sunday,Mar,Rain,Highway,Wet,Daylight,Speed Breaker,50,26,Male,No,1,Major
+Evening,Tuesday,Dec,Fog,City Road,Dry,Street Lit,Speed Breaker,30,24,Male,No,2,Major
+Afternoon,Thursday,Feb,Clear,Highway,Under Construction,Daylight,Speed Breaker,60,76,Male,No,1,Major
+Morning,Saturday,Mar,Rain,City Road,Under Construction,Daylight,Signal,120,73,Male,Yes,1,Minor
+Afternoon,Sunday,Nov,Clear,City Road,Dry,Daylight,Signal,60,33,Male,No,1,Minor
+Morning,Tuesday,Jun,Clear,Highway,Dry,Daylight,Signal,60,43,Female,No,2,Minor
+Afternoon,Wednesday,Feb,Storm,City Road,Potholes,Street Lit,None,120,52,Male,No,2,Minor
+Evening,Wednesday,Aug,Clear,Highway,Dry,Street Lit,Speed Breaker,80,34,Male,No,2,Minor
+Evening,Tuesday,Jan,Clear,City Road,Potholes,Daylight,Signal,80,40,Male,No,1,Minor
+Morning,Saturday,Jul,Clear,Highway,Dry,Daylight,Signal,60,25,Male,No,2,Minor
+Night,Friday,Feb,Clear,Rural Road,Dry,Street Lit,None,120,19,Male,No,1,Major
+Morning,Thursday,Oct,Clear,Highway,Dry,Daylight,Speed Breaker,80,48,Female,No,2,Major
+Morning,Wednesday,Dec,Clear,Rural Road,Dry,Daylight,Speed Breaker,100,74,Female,No,3,Major
+Afternoon,Friday,Jun,Rain,Highway,Under Construction,No Lighting,Signal,80,69,Male,No,1,Minor
+Afternoon,Tuesday,Dec,Clear,City Road,Potholes,Street Lit,Signal,80,75,Male,No,1,Minor
+Morning,Friday,Feb,Clear,Highway,Dry,No Lighting,None,50,76,Male,No,2,Minor
+Evening,Sunday,Feb,Clear,Rural Road,Dry,Daylight,Speed Breaker,50,74,Female,No,2,Fatal
+Afternoon,Monday,Oct,Clear,Highway,Under Construction,Street Lit,Signal,80,49,Female,No,1,Minor
+Night,Wednesday,Aug,Rain,Highway,Wet,Daylight,None,50,46,Male,No,4,Minor
+Afternoon,Tuesday,Dec,Snow,City Road,Dry,Daylight,Speed Breaker,60,20,Male,Yes,2,Major
+Afternoon,Thursday,Feb,Clear,Highway,Dry,Daylight,Signal,50,25,Female,No,1,Minor
+Night,Saturday,Jul,Fog,Highway,Wet,Daylight,Signal,100,76,Female,No,1,Major
+Morning,Sunday,Mar,Rain,Rural Road,Wet,Daylight,Signal,40,19,Male,No,2,Minor
+Night,Tuesday,Aug,Rain,Rural Road,Dry,Daylight,Signal,100,48,Female,No,1,Minor
+Morning,Thursday,Jul,Clear,Highway,Dry,Daylight,Speed Breaker,80,79,Male,No,1,Minor
+Morning,Saturday,Aug,Clear,Rural Road,Potholes,Street Lit,Signal,50,68,Male,No,1,Major
+Morning,Saturday,Jul,Clear,City Road,Wet,Daylight,None,60,66,Female,Yes,2,Major
+Night,Tuesday,Nov,Rain,Highway,Dry,Daylight,None,50,54,Male,No,2,Minor
+Morning,Sunday,Jun,Clear,City Road,Dry,Daylight,Signal,50,37,Female,No,1,Minor
+Evening,Friday,Jul,Storm,City Road,Wet,Daylight,Signal,60,46,Male,No,2,Minor
+Night,Friday,May,Clear,Rural Road,Dry,Street Lit,None,40,34,Male,No,4,Fatal
+Evening,Saturday,Jul,Clear,Highway,Dry,Daylight,Speed Breaker,120,27,Male,No,1,Major
+Morning,Friday,Jan,Rain,City Road,Dry,Street Lit,Speed Breaker,30,58,Male,No,2,Major
+Afternoon,Monday,Jan,Clear,Highway,Dry,Daylight,Signal,80,39,Male,No,3,Minor
+Morning,Saturday,Sep,Clear,Highway,Wet,Daylight,Signal,60,23,Female,Yes,2,Minor
+Evening,Saturday,May,Rain,Highway,Dry,Street Lit,Speed Breaker,80,79,Male,No,2,Minor
+Evening,Thursday,May,Storm,Rural Road,Wet,Street Lit,None,60,60,Female,No,1,Major
+Night,Friday,Mar,Rain,City Road,Dry,Daylight,Signal,80,51,Male,No,1,Major
+Afternoon,Sunday,May,Rain,City Road,Dry,Street Lit,None,80,48,Female,No,1,Minor
+Night,Saturday,Mar,Rain,City Road,Dry,Daylight,Signal,80,79,Male,No,2,Minor
+Evening,Sunday,Sep,Storm,Highway,Potholes,Street Lit,None,40,72,Male,Yes,4,Minor
+Morning,Monday,Sep,Clear,Highway,Under Construction,Street Lit,Speed Breaker,80,29,Male,No,1,Minor
+Afternoon,Thursday,Jun,Clear,Highway,Dry,Street Lit,Signal,50,29,Male,No,1,Fatal
+Morning,Tuesday,Jan,Clear,Highway,Wet,No Lighting,Speed Breaker,30,33,Male,No,1,Minor
+Morning,Sunday,Jul,Clear,City Road,Wet,Daylight,Signal,60,42,Male,No,2,Major
+Afternoon,Saturday,Jul,Rain,City Road,Potholes,Street Lit,Signal,60,39,Female,Yes,1,Major
+Night,Monday,Oct,Rain,Highway,Dry,Daylight,Signal,60,44,Female,No,2,Major
+Morning,Wednesday,Oct,Rain,Highway,Wet,Daylight,Signal,80,41,Female,No,1,Fatal
+Evening,Monday,Apr,Clear,Highway,Dry,Daylight,Signal,50,29,Male,Yes,1,Major
+Morning,Monday,Aug,Rain,City Road,Dry,Daylight,Speed Breaker,50,70,Female,No,1,Major
+Afternoon,Thursday,Jun,Clear,Rural Road,Potholes,Street Lit,Speed Breaker,40,35,Female,Yes,3,Minor
+Afternoon,Tuesday,Apr,Rain,City Road,Dry,Daylight,Signal,80,62,Male,No,1,Major
+Afternoon,Wednesday,Apr,Rain,City Road,Dry,Daylight,None,60,64,Male,No,3,Major
+Night,Friday,Feb,Clear,City Road,Dry,Daylight,Speed Breaker,50,33,Male,No,1,Minor
+Morning,Friday,Feb,Clear,Highway,Wet,Daylight,None,80,21,Male,No,1,Major
+Night,Sunday,Dec,Clear,Highway,Wet,No Lighting,Speed Breaker,60,29,Male,No,1,Major
+Night,Monday,Apr,Fog,Rural Road,Dry,Daylight,Signal,60,66,Male,No,4,Major
+Afternoon,Thursday,May,Storm,City Road,Potholes,Street Lit,Signal,60,50,Female,No,2,Minor
+Afternoon,Thursday,Aug,Rain,Highway,Dry,Street Lit,Speed Breaker,80,39,Male,No,1,Major
+Night,Friday,Jun,Clear,City Road,Dry,Street Lit,Signal,80,35,Male,Yes,2,Minor
+Morning,Sunday,Apr,Clear,City Road,Potholes,Daylight,Signal,50,71,Female,No,1,Major
+Evening,Sunday,Nov,Rain,City Road,Dry,Street Lit,Signal,40,65,Female,No,1,Minor
+Night,Sunday,Jul,Rain,Rural Road,Dry,Daylight,Signal,50,50,Female,No,1,Minor
+Morning,Wednesday,Aug,Clear,City Road,Dry,Street Lit,Signal,80,44,Male,No,2,Minor
+Afternoon,Tuesday,Feb,Clear,City Road,Under Construction,Daylight,Signal,100,59,Male,No,1,Minor
+Afternoon,Wednesday,Dec,Rain,Highway,Dry,Daylight,Signal,60,36,Male,No,1,Minor
+Morning,Saturday,Jul,Clear,Highway,Potholes,Daylight,Speed Breaker,50,65,Male,No,1,Minor
+Evening,Saturday,Feb,Clear,Highway,Wet,Street Lit,Speed Breaker,80,31,Male,No,1,Major
+Afternoon,Tuesday,Feb,Clear,Highway,Dry,Daylight,Signal,100,42,Male,No,1,Major
+Afternoon,Friday,Aug,Clear,City Road,Wet,Daylight,Signal,100,51,Female,No,1,Minor
+Afternoon,Tuesday,Feb,Fog,City Road,Dry,Daylight,Signal,80,41,Male,No,1,Minor
+Morning,Thursday,Nov,Snow,Highway,Dry,No Lighting,Signal,100,55,Male,No,3,Minor
+Night,Saturday,Sep,Rain,City Road,Wet,Street Lit,Signal,30,77,Male,No,1,Major
+Afternoon,Monday,Dec,Clear,Highway,Potholes,Daylight,Signal,40,71,Female,No,1,Minor
+Night,Monday,Jan,Clear,Highway,Dry,Street Lit,Speed Breaker,40,40,Male,No,1,Minor
+Evening,Friday,Sep,Clear,Highway,Dry,Daylight,Speed Breaker,80,22,Male,No,1,Minor
+Afternoon,Thursday,Jan,Clear,Highway,Dry,Daylight,Signal,40,61,Male,No,2,Minor
+Afternoon,Wednesday,Oct,Rain,Highway,Dry,No Lighting,Signal,60,76,Male,No,1,Minor
+Evening,Thursday,Oct,Clear,City Road,Dry,Daylight,Speed Breaker,60,53,Male,No,3,Minor
+Afternoon,Monday,Feb,Clear,City Road,Dry,Daylight,None,50,71,Male,No,2,Major
+Night,Monday,Jun,Clear,Rural Road,Wet,Daylight,Speed Breaker,100,41,Male,No,2,Major
+Morning,Saturday,Jun,Clear,Highway,Dry,Daylight,Speed Breaker,50,53,Female,No,1,Minor
+Night,Thursday,Jan,Clear,Highway,Dry,Daylight,Signal,60,22,Male,Yes,1,Major
+Morning,Thursday,Jul,Clear,Highway,Under Construction,Daylight,Signal,80,56,Female,No,1,Minor
+Morning,Monday,Aug,Snow,City Road,Under Construction,Daylight,None,30,23,Male,No,3,Fatal
+Night,Wednesday,Feb,Clear,Highway,Dry,Daylight,Signal,80,62,Male,Yes,1,Minor
+Night,Friday,Aug,Clear,City Road,Dry,Daylight,None,100,53,Male,No,1,Major
+Night,Sunday,Sep,Fog,City Road,Wet,Daylight,Speed Breaker,100,62,Male,No,1,Major
+Night,Friday,Jun,Snow,City Road,Dry,Daylight,Speed Breaker,100,21,Male,No,2,Minor
+Evening,Thursday,May,Rain,City Road,Dry,Street Lit,Signal,50,27,Male,No,2,Fatal
+Afternoon,Friday,Dec,Fog,Highway,Wet,Daylight,Speed Breaker,60,69,Female,No,1,Minor
+Morning,Monday,Sep,Clear,Highway,Dry,Street Lit,Signal,40,18,Female,No,1,Major
+Night,Monday,Dec,Clear,Highway,Dry,Street Lit,Signal,50,38,Female,Yes,1,Minor
+Night,Thursday,Nov,Clear,City Road,Dry,Street Lit,Signal,40,57,Male,No,1,Minor
+Night,Thursday,Sep,Rain,Highway,Dry,Daylight,None,50,56,Male,No,2,Minor
+Evening,Sunday,Jan,Rain,Highway,Dry,Daylight,Speed Breaker,100,54,Male,No,2,Minor
+Night,Sunday,Nov,Clear,Rural Road,Potholes,Daylight,Signal,50,20,Male,No,2,Minor
+Night,Saturday,Mar,Clear,Highway,Dry,Street Lit,Signal,60,64,Male,Yes,1,Minor
+Night,Thursday,Sep,Rain,City Road,Dry,Daylight,Speed Breaker,60,48,Male,No,2,Major
+Afternoon,Wednesday,Nov,Clear,City Road,Dry,Street Lit,Speed Breaker,60,44,Female,No,4,Minor
+Evening,Friday,Feb,Rain,Highway,Potholes,Street Lit,Speed Breaker,120,34,Male,No,3,Minor
+Night,Thursday,Dec,Rain,Highway,Dry,Daylight,Speed Breaker,50,78,Male,No,3,Major
+Morning,Tuesday,Apr,Rain,Highway,Dry,Daylight,Signal,80,40,Male,No,1,Minor
+Morning,Saturday,Apr,Rain,City Road,Under Construction,Street Lit,Speed Breaker,60,30,Male,No,2,Minor
+Morning,Tuesday,Feb,Fog,City Road,Dry,Daylight,Signal,40,64,Female,No,3,Minor
+Evening,Monday,Mar,Clear,City Road,Dry,Daylight,None,60,44,Male,No,2,Minor
+Evening,Sunday,Mar,Rain,Rural Road,Dry,Street Lit,Speed Breaker,100,68,Female,No,1,Minor
+Morning,Friday,Jan,Rain,City Road,Dry,Daylight,Signal,40,37,Male,No,4,Fatal
+Night,Thursday,Jun,Clear,Highway,Dry,No Lighting,Signal,40,63,Male,No,1,Minor
+Evening,Tuesday,Aug,Clear,Highway,Wet,Street Lit,None,50,70,Female,No,1,Minor
+Morning,Friday,Dec,Clear,City Road,Dry,Street Lit,Signal,80,30,Male,No,1,Minor
+Morning,Monday,Mar,Clear,Highway,Dry,Daylight,Signal,80,61,Male,No,2,Minor
+Night,Sunday,May,Rain,Highway,Dry,Daylight,Speed Breaker,60,41,Male,No,1,Minor
+Afternoon,Wednesday,Jan,Fog,City Road,Dry,Daylight,Signal,60,78,Male,No,1,Minor
+Evening,Saturday,Oct,Clear,City Road,Dry,Daylight,Speed Breaker,100,72,Female,No,2,Minor
+Night,Friday,Jul,Clear,Rural Road,Potholes,Daylight,Signal,80,58,Female,No,2,Minor
+Morning,Friday,Oct,Snow,City Road,Dry,Daylight,Speed Breaker,100,76,Female,No,2,Major
+Morning,Wednesday,Jan,Clear,Highway,Wet,Daylight,Signal,100,20,Male,No,1,Minor
+Night,Friday,Dec,Clear,Rural Road,Dry,Daylight,Signal,80,79,Male,No,2,Minor
+Evening,Monday,Nov,Rain,Highway,Dry,Street Lit,None,60,60,Male,Yes,1,Major
+Afternoon,Monday,Sep,Clear,Highway,Dry,Daylight,Speed Breaker,100,27,Female,No,1,Minor
+Afternoon,Wednesday,Aug,Clear,City Road,Dry,Daylight,Signal,100,18,Female,No,1,Major
+Morning,Saturday,Jul,Clear,Highway,Dry,Street Lit,Signal,30,66,Male,No,2,Major
+Evening,Thursday,Oct,Clear,City Road,Dry,No Lighting,Speed Breaker,40,77,Male,Yes,1,Minor
+Afternoon,Tuesday,Jul,Rain,Highway,Wet,Daylight,Speed Breaker,120,75,Male,No,1,Minor
+Evening,Thursday,May,Clear,City Road,Dry,Daylight,None,50,30,Male,No,1,Fatal
+Evening,Friday,May,Clear,Highway,Dry,Daylight,None,100,31,Male,No,1,Major
+Morning,Tuesday,Nov,Rain,City Road,Dry,No Lighting,Speed Breaker,60,50,Male,No,3,Fatal
+Afternoon,Wednesday,May,Fog,City Road,Dry,Street Lit,Signal,40,19,Male,No,3,Minor
+Night,Wednesday,Jan,Clear,Highway,Dry,Street Lit,Signal,40,19,Female,Yes,1,Minor
+Morning,Saturday,Aug,Clear,Highway,Dry,Daylight,Speed Breaker,50,56,Female,No,1,Fatal
+Afternoon,Tuesday,Dec,Rain,Highway,Dry,Daylight,Signal,50,58,Female,No,1,Minor
+Afternoon,Monday,Nov,Clear,Highway,Wet,Daylight,Signal,60,73,Male,No,2,Fatal
+Afternoon,Tuesday,Jan,Clear,City Road,Under Construction,Street Lit,Signal,80,48,Male,No,1,Minor
+Afternoon,Friday,Apr,Rain,City Road,Dry,Street Lit,Signal,120,21,Male,No,1,Fatal
+Afternoon,Monday,Sep,Fog,Highway,Dry,No Lighting,Signal,60,51,Male,No,1,Minor
+Evening,Sunday,Sep,Fog,Highway,Under Construction,Daylight,Signal,60,36,Male,Yes,1,Minor
+Morning,Sunday,May,Rain,Highway,Dry,Daylight,Speed Breaker,60,75,Female,No,1,Major
+Evening,Sunday,Apr,Rain,City Road,Dry,Daylight,Signal,60,54,Male,No,1,Minor
+Night,Wednesday,Mar,Clear,Highway,Dry,Street Lit,Signal,60,26,Female,Yes,1,Minor
+Afternoon,Tuesday,Mar,Rain,Rural Road,Dry,Street Lit,Signal,30,41,Female,No,1,Minor
+Morning,Sunday,Dec,Clear,City Road,Dry,Daylight,Speed Breaker,30,30,Female,Yes,4,Major
+Afternoon,Thursday,May,Clear,Highway,Dry,Daylight,Signal,40,61,Female,No,1,Fatal
+Morning,Saturday,Oct,Rain,City Road,Dry,Daylight,Speed Breaker,40,47,Male,No,1,Minor
+Evening,Thursday,Jan,Rain,Rural Road,Dry,Daylight,None,80,36,Female,No,3,Minor
+Morning,Sunday,May,Clear,City Road,Wet,Street Lit,Signal,50,58,Male,Yes,3,Minor
+Night,Saturday,Jun,Storm,Highway,Dry,Daylight,Signal,100,27,Female,No,1,Major
+Night,Friday,Jul,Clear,Highway,Dry,Street Lit,Signal,100,68,Male,No,2,Minor
+Morning,Thursday,Dec,Clear,City Road,Dry,Daylight,None,120,59,Male,Yes,1,Minor
+Morning,Tuesday,Sep,Clear,City Road,Wet,Street Lit,Speed Breaker,100,61,Male,No,2,Minor
+Morning,Tuesday,Mar,Rain,City Road,Wet,Daylight,None,50,31,Male,No,4,Minor
+Morning,Thursday,Feb,Rain,Rural Road,Wet,Street Lit,Signal,60,57,Male,No,1,Major
+Night,Sunday,Mar,Clear,Rural Road,Dry,Daylight,None,50,65,Male,No,1,Minor
+Afternoon,Tuesday,Dec,Rain,Rural Road,Wet,Daylight,Signal,100,66,Female,No,1,Minor
+Morning,Friday,Sep,Clear,Highway,Wet,Daylight,Signal,100,37,Male,Yes,2,Minor
+Morning,Monday,Dec,Rain,City Road,Dry,Daylight,None,100,21,Male,No,1,Major
+Night,Sunday,Jul,Clear,City Road,Dry,Daylight,None,60,55,Male,No,2,Minor
+Night,Friday,Sep,Clear,City Road,Dry,Daylight,Signal,80,61,Male,No,1,Minor
+Evening,Saturday,Feb,Storm,City Road,Wet,No Lighting,Signal,40,77,Male,No,1,Minor
+Morning,Friday,May,Clear,Highway,Dry,Daylight,Signal,30,67,Female,No,1,Major
+Evening,Sunday,Apr,Clear,City Road,Dry,Street Lit,Signal,80,56,Male,Yes,1,Minor
+Night,Saturday,Feb,Rain,City Road,Potholes,No Lighting,Signal,60,22,Male,No,1,Minor
+Night,Sunday,Sep,Snow,Highway,Wet,Daylight,None,120,59,Male,No,1,Minor
+Afternoon,Tuesday,Sep,Clear,City Road,Potholes,Street Lit,Speed Breaker,40,49,Male,No,2,Minor
+Morning,Monday,Jun,Clear,Highway,Potholes,Daylight,Speed Breaker,100,23,Male,No,2,Fatal
+Evening,Sunday,Nov,Clear,Highway,Dry,Daylight,Speed Breaker,60,76,Female,No,2,Minor
+Night,Sunday,Jun,Clear,Highway,Wet,Daylight,Speed Breaker,100,31,Male,No,1,Fatal
+Night,Tuesday,Aug,Clear,City Road,Dry,No Lighting,Speed Breaker,100,23,Male,No,3,Minor
+Evening,Wednesday,Jun,Rain,City Road,Under Construction,Daylight,Speed Breaker,100,79,Male,No,2,Minor
+Afternoon,Tuesday,Jan,Snow,City Road,Dry,Daylight,Signal,50,31,Male,No,1,Minor
+Night,Saturday,Apr,Clear,City Road,Potholes,Daylight,Speed Breaker,100,29,Female,No,1,Fatal
+Morning,Tuesday,Jul,Clear,City Road,Wet,Street Lit,Speed Breaker,50,79,Male,No,1,Minor
+Night,Tuesday,Feb,Clear,Highway,Wet,Daylight,None,40,44,Male,No,4,Major
+Morning,Monday,Sep,Clear,Highway,Dry,Street Lit,None,60,71,Female,No,1,Minor
+Evening,Tuesday,Aug,Fog,Rural Road,Dry,Street Lit,Signal,100,43,Male,No,1,Minor
+Morning,Sunday,Aug,Clear,Highway,Wet,Street Lit,Speed Breaker,60,29,Female,No,1,Major
+Evening,Monday,Jul,Clear,Rural Road,Dry,No Lighting,Signal,100,25,Male,No,2,Fatal
+Morning,Thursday,Apr,Rain,City Road,Under Construction,Street Lit,Speed Breaker,80,27,Male,No,1,Minor
+Evening,Wednesday,Feb,Clear,City Road,Dry,Daylight,Signal,50,33,Female,No,1,Major
+Morning,Monday,Mar,Rain,Rural Road,Wet,Daylight,Signal,100,69,Female,No,1,Minor
+Afternoon,Saturday,Dec,Clear,Highway,Dry,Daylight,Signal,40,43,Male,No,1,Minor
+Morning,Thursday,Jun,Fog,Highway,Wet,Daylight,Speed Breaker,100,25,Female,No,1,Minor
+Morning,Monday,Dec,Storm,City Road,Wet,Daylight,Signal,50,58,Male,No,1,Minor
+Afternoon,Monday,Dec,Rain,Highway,Dry,Daylight,None,60,62,Male,No,2,Minor
+Night,Wednesday,May,Snow,Rural Road,Dry,Daylight,Signal,60,46,Male,No,2,Minor
+Night,Sunday,Dec,Clear,Highway,Dry,No Lighting,None,50,37,Male,No,2,Fatal
+Morning,Saturday,Aug,Clear,City Road,Dry,Daylight,Speed Breaker,60,34,Female,No,1,Major
+Afternoon,Friday,Jun,Rain,City Road,Dry,No Lighting,Signal,50,36,Male,No,2,Minor
+Morning,Friday,Jun,Rain,City Road,Wet,Daylight,Signal,50,34,Male,No,1,Fatal
+Evening,Monday,Jan,Clear,Highway,Dry,Street Lit,Speed Breaker,50,56,Female,No,1,Minor
+Evening,Tuesday,Apr,Clear,Highway,Dry,Street Lit,Speed Breaker,60,77,Male,No,3,Minor
+Morning,Saturday,May,Clear,City Road,Dry,Daylight,Speed Breaker,80,18,Male,No,2,Major
+Night,Thursday,Dec,Clear,Highway,Dry,Daylight,Signal,60,76,Male,No,1,Minor
+Night,Tuesday,Nov,Clear,City Road,Dry,Daylight,Signal,100,69,Male,No,3,Major
+Morning,Tuesday,Mar,Rain,City Road,Potholes,Daylight,None,80,46,Female,No,4,Minor
+Morning,Saturday,Sep,Clear,City Road,Under Construction,No Lighting,Signal,80,31,Male,No,2,Minor
+Evening,Sunday,Jan,Clear,City Road,Dry,Street Lit,Signal,80,34,Male,No,2,Minor
+Night,Monday,Jun,Rain,Highway,Dry,Daylight,Signal,60,30,Female,No,2,Fatal
+Morning,Monday,Jun,Rain,City Road,Under Construction,Daylight,Speed Breaker,80,46,Male,Yes,1,Major
+Evening,Monday,Oct,Fog,Rural Road,Dry,Daylight,Speed Breaker,40,51,Male,No,1,Major
+Night,Monday,May,Rain,City Road,Dry,Daylight,Signal,100,44,Female,No,2,Minor
+Afternoon,Friday,Dec,Clear,Rural Road,Dry,Street Lit,Signal,80,63,Male,No,1,Minor
+Evening,Monday,May,Fog,City Road,Dry,Daylight,Signal,50,50,Male,No,1,Major
+Night,Friday,Oct,Clear,Highway,Potholes,Daylight,Signal,80,46,Male,No,1,Minor
+Night,Friday,May,Clear,Highway,Wet,Daylight,Signal,30,54,Male,No,1,Minor
+Evening,Sunday,Jun,Rain,Rural Road,Dry,Daylight,None,50,56,Male,Yes,4,Major
+Afternoon,Monday,Aug,Storm,Highway,Dry,Street Lit,Signal,40,36,Male,No,2,Minor
+Evening,Wednesday,Feb,Clear,Rural Road,Wet,Daylight,Signal,80,63,Female,No,1,Minor
+Night,Thursday,Jun,Clear,Rural Road,Under Construction,No Lighting,None,80,41,Male,Yes,4,Major
+Morning,Tuesday,Jan,Clear,Highway,Wet,Street Lit,Signal,100,31,Male,No,3,Major
+Morning,Friday,Apr,Clear,Highway,Wet,Daylight,Speed Breaker,30,64,Female,Yes,1,Major
+Evening,Saturday,Oct,Clear,City Road,Dry,Daylight,Signal,60,54,Male,No,3,Minor
+Night,Saturday,Mar,Rain,Highway,Under Construction,Street Lit,Signal,80,22,Female,Yes,1,Minor
+Morning,Thursday,Sep,Clear,City Road,Wet,No Lighting,None,50,78,Male,No,1,Major
+Night,Saturday,Mar,Storm,City Road,Dry,Street Lit,Speed Breaker,80,70,Male,No,1,Major
+Evening,Wednesday,Jun,Rain,City Road,Wet,Daylight,Signal,40,41,Female,No,2,Minor
+Morning,Saturday,Jan,Rain,City Road,Dry,No Lighting,Speed Breaker,50,51,Male,No,1,Fatal
+Night,Tuesday,Dec,Fog,Highway,Dry,Daylight,None,60,67,Female,No,2,Fatal
+Morning,Tuesday,Jun,Clear,City Road,Dry,Street Lit,Signal,80,48,Male,No,2,Minor
+Evening,Friday,Apr,Clear,Highway,Dry,No Lighting,Speed Breaker,40,47,Male,No,1,Major
+Night,Monday,Aug,Rain,Highway,Dry,Daylight,None,50,77,Male,No,1,Minor
+Morning,Sunday,Nov,Fog,City Road,Dry,No Lighting,Signal,50,73,Male,No,1,Minor
+Evening,Wednesday,Sep,Rain,City Road,Dry,Daylight,Speed Breaker,50,26,Female,No,1,Minor
+Morning,Friday,Apr,Clear,Highway,Dry,No Lighting,Speed Breaker,50,44,Male,No,2,Minor
+Morning,Wednesday,Oct,Storm,City Road,Dry,Daylight,Speed Breaker,60,45,Female,No,1,Fatal
+Afternoon,Monday,Dec,Clear,City Road,Dry,No Lighting,Signal,80,59,Male,No,1,Major
+Afternoon,Saturday,Oct,Fog,Highway,Wet,Daylight,Signal,60,43,Male,No,1,Major
+Evening,Saturday,Jun,Snow,Highway,Dry,Street Lit,Speed Breaker,80,35,Male,No,2,Minor
+Afternoon,Sunday,Jan,Clear,Rural Road,Dry,Daylight,Signal,80,53,Male,No,2,Minor
+Evening,Monday,Apr,Rain,City Road,Under Construction,Daylight,Signal,40,25,Male,No,4,Minor
+Afternoon,Friday,Jul,Clear,City Road,Wet,Daylight,Signal,30,35,Male,No,2,Minor
+Morning,Sunday,Dec,Clear,City Road,Under Construction,Street Lit,Signal,100,37,Male,No,1,Minor
+Evening,Monday,Jan,Clear,Highway,Dry,Daylight,None,40,75,Female,Yes,1,Minor
+Evening,Thursday,Aug,Rain,City Road,Dry,Daylight,Signal,40,78,Female,Yes,2,Minor
+Morning,Tuesday,Dec,Storm,City Road,Wet,Daylight,None,30,49,Male,Yes,3,Minor
+Evening,Sunday,Oct,Rain,City Road,Dry,No Lighting,Signal,80,46,Male,No,1,Minor
+Evening,Sunday,Dec,Clear,Highway,Dry,Daylight,Speed Breaker,60,66,Male,No,1,Minor
+Afternoon,Friday,Nov,Fog,Highway,Dry,Daylight,Signal,120,65,Male,No,1,Major
+Evening,Wednesday,Jun,Snow,Highway,Under Construction,Daylight,Speed Breaker,100,35,Male,No,2,Minor
+Night,Thursday,May,Clear,Rural Road,Dry,Daylight,Speed Breaker,60,24,Male,No,1,Minor
+Morning,Friday,Oct,Snow,City Road,Potholes,Daylight,Signal,60,18,Female,No,1,Major
+Afternoon,Monday,Nov,Clear,City Road,Under Construction,Daylight,None,50,45,Male,Yes,3,Fatal
+Afternoon,Monday,Sep,Fog,Highway,Dry,Street Lit,Signal,50,50,Male,Yes,1,Major
+Night,Monday,Feb,Clear,Highway,Wet,Street Lit,Speed Breaker,40,67,Male,No,1,Minor
+Morning,Monday,May,Clear,City Road,Wet,Daylight,None,40,21,Female,No,1,Minor
+Morning,Wednesday,Jun,Clear,City Road,Under Construction,Daylight,None,40,72,Male,No,1,Fatal
+Afternoon,Thursday,Jul,Rain,City Road,Dry,Street Lit,None,50,37,Female,No,1,Major
+Evening,Saturday,May,Clear,Highway,Wet,Daylight,Signal,50,70,Female,No,1,Minor
+Afternoon,Tuesday,Sep,Clear,City Road,Dry,Street Lit,Signal,120,69,Female,No,1,Minor
+Morning,Wednesday,Jan,Rain,Highway,Potholes,Daylight,Signal,60,53,Female,Yes,2,Minor
+Night,Wednesday,Jul,Storm,Highway,Dry,Daylight,Speed Breaker,120,74,Male,No,2,Minor
+Afternoon,Saturday,Oct,Clear,City Road,Dry,Daylight,Speed Breaker,60,48,Male,No,1,Major
+Morning,Saturday,Jul,Clear,Highway,Wet,Street Lit,Signal,60,55,Male,Yes,1,Minor
+Afternoon,Tuesday,Apr,Clear,Highway,Under Construction,Daylight,Speed Breaker,50,45,Male,No,2,Fatal
+Evening,Tuesday,Sep,Clear,City Road,Dry,Daylight,Signal,50,20,Male,No,1,Minor
+Afternoon,Saturday,Dec,Fog,City Road,Dry,Daylight,Signal,40,23,Male,No,1,Major
+Afternoon,Monday,Nov,Fog,City Road,Dry,Street Lit,Speed Breaker,100,62,Male,No,1,Minor
+Morning,Wednesday,May,Rain,City Road,Potholes,No Lighting,Signal,120,40,Female,No,2,Minor
+Morning,Friday,Apr,Clear,Highway,Wet,Daylight,None,30,24,Male,No,1,Minor
+Morning,Tuesday,Jul,Rain,Highway,Under Construction,Daylight,Signal,50,73,Male,No,2,Major
+Afternoon,Tuesday,Apr,Rain,Rural Road,Dry,No Lighting,Speed Breaker,60,78,Female,No,2,Minor
+Evening,Saturday,Mar,Fog,City Road,Dry,Daylight,Signal,50,53,Male,No,3,Minor
+Night,Thursday,Sep,Rain,City Road,Wet,Daylight,Signal,60,18,Female,No,1,Major
+Night,Friday,Nov,Rain,Highway,Under Construction,Daylight,Speed Breaker,40,23,Female,Yes,2,Minor
+Morning,Friday,Aug,Rain,City Road,Dry,Street Lit,None,60,41,Male,No,1,Fatal
+Morning,Tuesday,Jan,Clear,Highway,Under Construction,Daylight,Signal,50,54,Male,No,1,Fatal
+Afternoon,Monday,Jul,Snow,City Road,Dry,Street Lit,Signal,60,62,Male,No,1,Fatal
+Night,Thursday,Sep,Clear,Rural Road,Dry,Daylight,Speed Breaker,40,68,Female,No,1,Minor
+Morning,Friday,Aug,Rain,Rural Road,Dry,Daylight,Signal,60,53,Male,No,2,Minor
+Evening,Tuesday,Aug,Clear,City Road,Dry,Street Lit,None,120,41,Male,No,1,Fatal
+Evening,Friday,Jun,Rain,City Road,Dry,Daylight,Speed Breaker,50,55,Female,No,1,Minor
+Morning,Sunday,Nov,Rain,Rural Road,Dry,Daylight,Signal,100,62,Male,No,1,Minor
+Morning,Thursday,Apr,Clear,City Road,Dry,Street Lit,Signal,100,46,Female,No,2,Major
+Night,Thursday,Aug,Clear,Highway,Under Construction,Street Lit,Speed Breaker,120,54,Female,No,1,Minor
+Night,Sunday,Mar,Rain,City Road,Dry,Street Lit,Signal,80,62,Female,Yes,2,Major
+Afternoon,Wednesday,Sep,Rain,Highway,Dry,No Lighting,Speed Breaker,80,49,Female,No,2,Major
+Night,Sunday,Feb,Clear,City Road,Dry,Street Lit,Signal,100,42,Male,No,2,Major
+Evening,Saturday,Feb,Clear,City Road,Dry,Daylight,Speed Breaker,40,27,Female,No,1,Minor
+Evening,Saturday,Dec,Rain,City Road,Wet,Daylight,Signal,60,52,Male,No,2,Minor
+Morning,Tuesday,Dec,Clear,Highway,Dry,Street Lit,None,120,72,Male,No,1,Minor
+Night,Thursday,Jul,Clear,Highway,Wet,Daylight,Signal,80,42,Male,No,2,Minor
+Afternoon,Wednesday,Dec,Clear,City Road,Wet,Street Lit,Signal,120,44,Female,No,2,Minor
+Evening,Wednesday,Oct,Clear,City Road,Dry,Street Lit,None,80,62,Female,No,1,Minor
+Evening,Friday,Apr,Clear,City Road,Dry,Daylight,Signal,100,49,Female,No,2,Minor
+Afternoon,Friday,Oct,Clear,Highway,Dry,No Lighting,Signal,80,76,Male,No,1,Minor
+Afternoon,Sunday,Aug,Clear,Rural Road,Dry,Daylight,Signal,80,29,Female,No,1,Major
+Evening,Wednesday,Sep,Clear,Rural Road,Wet,Daylight,Signal,60,21,Female,No,1,Minor
+Evening,Sunday,Jul,Clear,Highway,Dry,No Lighting,None,100,59,Male,No,4,Minor
+Afternoon,Sunday,May,Clear,Highway,Dry,Daylight,Speed Breaker,100,43,Male,Yes,3,Major
+Evening,Friday,Aug,Clear,City Road,Dry,Daylight,Signal,100,20,Male,No,2,Major
+Morning,Thursday,Apr,Fog,City Road,Dry,Daylight,Speed Breaker,80,34,Male,No,3,Minor
+Morning,Sunday,Feb,Clear,Rural Road,Dry,Street Lit,Speed Breaker,50,26,Male,No,1,Major
+Afternoon,Monday,Nov,Clear,Rural Road,Dry,Street Lit,None,30,46,Male,No,3,Minor
+Night,Thursday,Dec,Clear,City Road,Dry,Street Lit,Signal,100,18,Male,Yes,1,Minor
+Afternoon,Wednesday,Jun,Clear,City Road,Dry,Street Lit,Speed Breaker,60,35,Male,No,2,Fatal
+Afternoon,Wednesday,Sep,Rain,Highway,Wet,Daylight,Speed Breaker,50,58,Male,No,2,Fatal
+Night,Sunday,Jan,Rain,Highway,Under Construction,Street Lit,Signal,40,70,Male,No,1,Minor
+Night,Thursday,Nov,Fog,City Road,Dry,Street Lit,Signal,100,37,Female,No,1,Major
+Night,Friday,Oct,Rain,City Road,Dry,Daylight,Signal,100,74,Male,No,1,Major
+Morning,Friday,Dec,Snow,City Road,Potholes,Daylight,Speed Breaker,100,58,Male,No,4,Fatal
+Evening,Saturday,Jul,Clear,City Road,Dry,No Lighting,Signal,80,51,Male,No,1,Minor
+Morning,Wednesday,Oct,Clear,Highway,Dry,Street Lit,None,60,68,Male,No,1,Minor
+Evening,Tuesday,Sep,Clear,City Road,Dry,Street Lit,Signal,50,45,Female,No,2,Minor
+Morning,Saturday,Oct,Clear,Highway,Wet,Street Lit,Speed Breaker,30,65,Male,No,1,Minor
+Evening,Friday,Sep,Clear,City Road,Dry,Daylight,None,100,52,Male,No,1,Minor
+Morning,Thursday,Oct,Rain,City Road,Potholes,Street Lit,Speed Breaker,40,33,Female,Yes,2,Major
+Night,Friday,Nov,Clear,City Road,Wet,Daylight,None,80,38,Male,No,1,Major
+Afternoon,Thursday,Mar,Storm,Rural Road,Wet,Daylight,None,60,30,Male,No,2,Major
+Morning,Saturday,Nov,Fog,Highway,Wet,Street Lit,Signal,60,52,Male,Yes,1,Minor
+Evening,Wednesday,May,Clear,City Road,Dry,Daylight,Speed Breaker,100,59,Male,No,1,Minor
+Night,Friday,Aug,Clear,Highway,Dry,Street Lit,Signal,30,71,Female,No,1,Minor
+Morning,Sunday,Aug,Clear,City Road,Under Construction,Daylight,Speed Breaker,80,49,Male,No,1,Minor
+Morning,Thursday,Apr,Clear,Rural Road,Potholes,Daylight,Signal,40,67,Female,No,3,Fatal
+Night,Wednesday,Dec,Clear,City Road,Dry,Daylight,Speed Breaker,30,55,Female,Yes,3,Minor
+Morning,Tuesday,Nov,Clear,Rural Road,Potholes,Daylight,Speed Breaker,60,23,Male,No,1,Major
+Afternoon,Thursday,Nov,Clear,Highway,Dry,Daylight,Signal,40,67,Male,No,1,Minor
+Morning,Saturday,Jan,Clear,Rural Road,Dry,Daylight,Signal,80,55,Male,No,1,Minor
+Afternoon,Tuesday,Jan,Snow,Highway,Dry,No Lighting,None,60,55,Male,No,1,Major
+Afternoon,Tuesday,Apr,Rain,Rural Road,Dry,Daylight,Signal,30,71,Male,No,1,Minor
+Night,Monday,Jun,Storm,Highway,Dry,Daylight,Signal,30,77,Male,Yes,2,Minor
+Morning,Friday,Aug,Clear,Highway,Dry,Daylight,Signal,80,30,Male,No,1,Minor
+Night,Thursday,Jun,Clear,City Road,Dry,Street Lit,None,100,63,Female,No,1,Major
+Morning,Tuesday,Dec,Rain,Rural Road,Dry,Daylight,None,60,70,Male,No,1,Fatal
+Morning,Monday,Sep,Clear,Highway,Dry,Street Lit,Speed Breaker,60,56,Male,No,1,Major
+Evening,Saturday,Sep,Clear,Highway,Potholes,Street Lit,None,80,30,Female,No,2,Fatal
+Morning,Wednesday,Feb,Rain,Rural Road,Dry,Daylight,Signal,80,64,Male,No,1,Major
+Night,Sunday,Oct,Rain,Highway,Dry,Daylight,None,50,29,Male,No,1,Major
+Afternoon,Sunday,Jan,Clear,Highway,Dry,No Lighting,Signal,80,70,Male,No,1,Minor
+Morning,Thursday,Feb,Clear,City Road,Dry,Street Lit,Signal,80,76,Male,No,3,Minor
+Evening,Tuesday,May,Clear,Highway,Wet,Street Lit,Signal,80,50,Male,No,1,Minor
+Night,Sunday,Apr,Clear,Rural Road,Dry,Daylight,Speed Breaker,80,45,Male,No,3,Major
+Morning,Friday,Apr,Clear,City Road,Wet,Daylight,Speed Breaker,120,74,Male,No,1,Minor
+Night,Sunday,Sep,Clear,City Road,Dry,Daylight,Signal,50,20,Female,No,3,Minor
+Evening,Sunday,Nov,Clear,Rural Road,Dry,Daylight,None,120,35,Male,No,2,Fatal
+Evening,Sunday,Aug,Snow,City Road,Dry,Daylight,Signal,60,43,Male,No,1,Minor
+Night,Monday,Jun,Rain,Highway,Dry,Street Lit,Signal,80,71,Male,No,2,Fatal
+Morning,Tuesday,Jan,Rain,Highway,Dry,Daylight,Signal,40,57,Male,No,2,Major
+Afternoon,Friday,Feb,Clear,City Road,Dry,Street Lit,Speed Breaker,60,19,Male,No,1,Minor
+Evening,Tuesday,Jun,Clear,Highway,Dry,Street Lit,None,80,21,Female,Yes,1,Major
+Morning,Thursday,Nov,Clear,Rural Road,Dry,Daylight,Signal,80,67,Male,Yes,2,Major
+Morning,Thursday,Feb,Clear,City Road,Potholes,Street Lit,Speed Breaker,30,45,Male,No,2,Minor
+Afternoon,Thursday,Oct,Clear,Highway,Dry,Daylight,Signal,60,45,Male,Yes,2,Major
+Evening,Saturday,May,Rain,City Road,Dry,Street Lit,Speed Breaker,40,42,Male,No,2,Major
+Evening,Sunday,May,Rain,City Road,Dry,Daylight,None,120,43,Male,No,2,Minor
+Morning,Saturday,Jun,Clear,Rural Road,Dry,Daylight,Signal,100,62,Male,No,2,Minor
+Morning,Monday,Jun,Clear,Rural Road,Dry,Street Lit,None,30,64,Male,No,1,Minor
+Afternoon,Thursday,Jun,Storm,City Road,Under Construction,Daylight,Speed Breaker,100,19,Male,No,1,Minor
+Afternoon,Friday,Feb,Clear,City Road,Potholes,No Lighting,Signal,100,59,Male,No,3,Minor
+Evening,Tuesday,Oct,Clear,City Road,Dry,Daylight,None,60,51,Male,No,1,Major
+Night,Sunday,Mar,Clear,City Road,Dry,Daylight,Signal,80,47,Male,No,1,Minor
+Evening,Wednesday,Jun,Rain,Highway,Dry,Daylight,Signal,60,78,Female,No,2,Major
+Morning,Friday,Aug,Snow,Highway,Wet,Daylight,Signal,80,38,Male,No,1,Minor
+Evening,Sunday,Dec,Clear,City Road,Dry,Daylight,Signal,50,61,Female,Yes,1,Minor
+Night,Saturday,Nov,Fog,Highway,Dry,Street Lit,None,50,54,Male,No,1,Major
+Afternoon,Saturday,Dec,Fog,Highway,Dry,Street Lit,Speed Breaker,60,61,Male,Yes,2,Major
+Night,Friday,Jan,Clear,City Road,Wet,Street Lit,None,40,40,Male,No,4,Minor
+Night,Saturday,Jan,Clear,Highway,Dry,No Lighting,Signal,100,50,Male,No,1,Minor
+Night,Thursday,Nov,Clear,City Road,Dry,Daylight,Signal,50,77,Male,Yes,1,Major
+Afternoon,Monday,Feb,Snow,City Road,Wet,Street Lit,Signal,60,19,Male,No,1,Minor
+Night,Tuesday,Nov,Clear,Rural Road,Dry,Daylight,Speed Breaker,100,44,Female,Yes,1,Minor
+Night,Monday,Dec,Rain,City Road,Under Construction,Street Lit,None,60,65,Male,No,1,Minor
+Night,Sunday,Dec,Clear,Highway,Dry,Daylight,Speed Breaker,60,76,Male,No,1,Major
+Morning,Tuesday,Jun,Rain,City Road,Wet,No Lighting,Signal,120,39,Male,No,1,Minor
+Night,Tuesday,Sep,Clear,City Road,Wet,Street Lit,None,100,51,Female,Yes,1,Minor
+Afternoon,Monday,Apr,Rain,Rural Road,Dry,No Lighting,Speed Breaker,50,33,Female,No,1,Minor
+Night,Friday,Mar,Fog,City Road,Wet,Street Lit,Signal,60,37,Male,No,2,Fatal
+Night,Tuesday,Dec,Fog,Highway,Dry,No Lighting,None,120,43,Female,No,3,Minor
+Afternoon,Monday,Aug,Fog,Rural Road,Potholes,Street Lit,Signal,60,33,Male,No,3,Minor
+Night,Tuesday,Nov,Clear,Highway,Dry,Daylight,Signal,60,23,Male,No,2,Minor
+Afternoon,Wednesday,Oct,Rain,City Road,Wet,Daylight,Signal,50,62,Male,No,1,Minor
+Night,Friday,Sep,Clear,City Road,Dry,Daylight,Signal,40,61,Female,No,2,Major
+Afternoon,Thursday,Dec,Clear,Highway,Potholes,Daylight,Signal,80,40,Female,No,1,Major
+Night,Tuesday,Nov,Clear,Highway,Dry,Daylight,Signal,80,59,Female,No,2,Major
+Night,Wednesday,May,Clear,Highway,Potholes,Daylight,Signal,120,54,Male,No,2,Major
+Morning,Thursday,Sep,Clear,City Road,Potholes,Daylight,Speed Breaker,80,25,Female,No,2,Fatal
+Morning,Thursday,Feb,Snow,Rural Road,Dry,No Lighting,None,50,23,Male,No,4,Minor
+Night,Sunday,Mar,Clear,Highway,Under Construction,No Lighting,Speed Breaker,30,54,Male,No,2,Fatal
+Night,Tuesday,Jul,Rain,City Road,Potholes,Daylight,Signal,120,69,Male,No,2,Minor
+Evening,Monday,Jul,Clear,Highway,Dry,Daylight,Signal,50,39,Male,No,1,Major
+Afternoon,Tuesday,Jun,Clear,City Road,Dry,Daylight,Signal,50,23,Male,No,3,Minor
+Evening,Wednesday,Jun,Clear,Highway,Dry,Daylight,Signal,100,71,Male,No,1,Major
+Morning,Thursday,Feb,Storm,Rural Road,Dry,Street Lit,Speed Breaker,60,49,Female,No,3,Minor
+Morning,Tuesday,Oct,Fog,City Road,Dry,Daylight,Speed Breaker,50,34,Male,No,1,Major
+Morning,Monday,Jun,Storm,City Road,Dry,Daylight,Speed Breaker,100,55,Male,No,1,Fatal
+Morning,Sunday,Apr,Snow,City Road,Dry,Street Lit,Speed Breaker,120,34,Female,No,2,Major
+Night,Tuesday,Dec,Clear,City Road,Dry,Street Lit,Signal,40,54,Male,No,1,Major
+Morning,Friday,Mar,Clear,Rural Road,Dry,Daylight,Signal,100,40,Male,No,2,Minor
+Night,Sunday,Nov,Rain,City Road,Under Construction,Street Lit,Speed Breaker,60,66,Male,Yes,1,Minor
+Night,Monday,Feb,Clear,Rural Road,Wet,Daylight,Signal,60,78,Male,No,3,Fatal
+Morning,Wednesday,Jan,Clear,City Road,Dry,Daylight,Signal,100,66,Male,No,2,Major
+Morning,Thursday,Nov,Clear,Highway,Wet,Daylight,Signal,120,78,Male,No,2,Minor
+Afternoon,Tuesday,Nov,Rain,City Road,Wet,Daylight,Signal,50,30,Female,No,1,Minor
+Evening,Monday,May,Rain,Highway,Potholes,Daylight,Signal,50,49,Male,No,1,Minor
+Morning,Sunday,Feb,Clear,City Road,Dry,Daylight,None,40,39,Male,No,2,Minor
+Afternoon,Friday,Feb,Clear,City Road,Dry,Street Lit,None,60,24,Male,No,1,Minor
+Afternoon,Monday,Jul,Rain,City Road,Potholes,Street Lit,Signal,30,39,Male,No,1,Minor
+Evening,Saturday,Aug,Rain,Highway,Potholes,Daylight,Signal,60,38,Male,No,2,Minor
+Night,Friday,Oct,Clear,Highway,Wet,Daylight,Speed Breaker,40,23,Female,No,1,Minor
+Morning,Sunday,Aug,Rain,City Road,Wet,Street Lit,Signal,60,78,Female,No,1,Minor
+Evening,Wednesday,Apr,Clear,Rural Road,Dry,Daylight,Signal,30,31,Male,Yes,1,Minor
+Morning,Thursday,Jan,Clear,Highway,Dry,No Lighting,Signal,100,33,Female,No,1,Minor
+Afternoon,Sunday,Nov,Rain,City Road,Dry,Street Lit,Signal,50,20,Male,No,3,Fatal
+Afternoon,Wednesday,Jul,Rain,City Road,Dry,Daylight,Speed Breaker,50,26,Male,No,1,Minor
+Night,Tuesday,Jan,Clear,City Road,Under Construction,Daylight,None,100,64,Male,No,4,Major
+Afternoon,Monday,Nov,Rain,Highway,Dry,Daylight,Signal,80,38,Male,No,1,Fatal
+Afternoon,Saturday,Apr,Rain,City Road,Dry,Daylight,Signal,50,67,Female,No,1,Minor
+Evening,Friday,Aug,Rain,Highway,Potholes,Daylight,Signal,40,47,Male,No,1,Minor
+Morning,Friday,Feb,Rain,Rural Road,Dry,Street Lit,Signal,80,47,Male,No,1,Minor
+Morning,Monday,Jun,Rain,Highway,Potholes,Daylight,None,60,77,Female,No,2,Minor
+Evening,Saturday,Jun,Clear,Highway,Potholes,Daylight,Speed Breaker,80,59,Female,No,3,Minor
+Night,Monday,Dec,Clear,Highway,Dry,Daylight,Speed Breaker,60,59,Female,No,1,Minor
+Morning,Tuesday,Sep,Clear,Highway,Dry,Daylight,Speed Breaker,50,49,Male,No,2,Major
+Afternoon,Wednesday,May,Clear,City Road,Dry,Daylight,None,60,40,Male,No,1,Minor
+Morning,Sunday,Oct,Rain,Highway,Dry,Daylight,None,80,20,Male,No,1,Fatal
+Afternoon,Friday,Apr,Clear,Highway,Dry,Daylight,Signal,100,18,Male,No,1,Minor
+Night,Tuesday,May,Clear,City Road,Dry,Street Lit,Signal,30,20,Female,No,3,Fatal
+Evening,Wednesday,Dec,Clear,Highway,Potholes,Daylight,Speed Breaker,60,74,Female,Yes,1,Minor
+Morning,Tuesday,Dec,Clear,Highway,Dry,Street Lit,Signal,30,54,Female,No,3,Minor
+Evening,Saturday,Oct,Clear,City Road,Wet,Daylight,None,60,24,Male,No,1,Minor
+Morning,Friday,Nov,Rain,City Road,Dry,Daylight,Speed Breaker,100,20,Female,No,1,Fatal
+Afternoon,Sunday,May,Clear,Rural Road,Dry,Daylight,None,60,53,Female,No,1,Minor
+Evening,Monday,Aug,Rain,Rural Road,Potholes,Street Lit,Signal,100,66,Male,No,2,Major
+Morning,Monday,Oct,Storm,City Road,Dry,Daylight,None,80,20,Male,No,2,Major
+Afternoon,Wednesday,Dec,Clear,Highway,Dry,Daylight,Signal,100,72,Female,No,1,Major
+Evening,Sunday,Aug,Clear,City Road,Wet,Daylight,None,80,21,Male,Yes,3,Minor
+Evening,Thursday,Feb,Clear,City Road,Wet,Daylight,Signal,40,48,Female,No,1,Fatal
+Morning,Saturday,Jul,Rain,City Road,Wet,Daylight,Speed Breaker,50,19,Male,No,3,Major
+Morning,Wednesday,Aug,Rain,City Road,Dry,Street Lit,Speed Breaker,60,31,Female,No,2,Minor
+Morning,Thursday,Nov,Clear,Highway,Dry,Daylight,Signal,50,54,Female,No,2,Minor
+Afternoon,Tuesday,Jun,Clear,City Road,Potholes,Street Lit,Signal,60,48,Male,No,2,Fatal
+Morning,Saturday,May,Fog,City Road,Potholes,Daylight,None,60,70,Female,No,1,Fatal
+Evening,Tuesday,Nov,Clear,Rural Road,Dry,Street Lit,Signal,120,19,Male,No,2,Minor
+Evening,Sunday,Sep,Clear,Highway,Under Construction,Street Lit,Speed Breaker,60,48,Male,No,1,Major
+Morning,Friday,Mar,Fog,Highway,Dry,Daylight,Signal,80,64,Male,Yes,1,Minor
+Morning,Saturday,Dec,Rain,Highway,Dry,Street Lit,None,100,60,Male,No,1,Minor
+Night,Thursday,Oct,Fog,City Road,Dry,Street Lit,Speed Breaker,100,39,Female,No,1,Minor
+Evening,Friday,Apr,Rain,Highway,Dry,Daylight,Signal,50,27,Female,No,1,Minor
+Afternoon,Monday,Sep,Fog,Highway,Dry,Daylight,Signal,60,69,Male,No,1,Major
+Night,Thursday,Jun,Clear,Rural Road,Dry,Street Lit,Speed Breaker,50,47,Male,No,1,Minor
+Morning,Wednesday,Aug,Rain,Highway,Dry,Daylight,Signal,60,50,Male,Yes,1,Minor
+Morning,Monday,Jul,Storm,City Road,Wet,Daylight,Signal,60,36,Male,No,3,Minor
+Evening,Monday,Nov,Rain,Highway,Wet,Street Lit,Speed Breaker,100,63,Female,No,1,Minor
+Morning,Wednesday,Feb,Clear,City Road,Wet,Daylight,Signal,60,42,Male,No,2,Fatal
+Afternoon,Saturday,Mar,Clear,City Road,Potholes,Street Lit,Signal,60,75,Male,Yes,1,Major
+Evening,Monday,Jan,Clear,Rural Road,Dry,Street Lit,Speed Breaker,120,72,Male,Yes,1,Minor
+Morning,Sunday,Sep,Clear,Rural Road,Dry,No Lighting,Signal,40,78,Male,No,1,Fatal
+Evening,Thursday,Jul,Clear,Highway,Wet,Daylight,Signal,60,71,Female,No,1,Minor
+Morning,Friday,Jan,Rain,Highway,Dry,Daylight,Signal,80,63,Male,No,2,Major
+Morning,Monday,Mar,Rain,Highway,Dry,Daylight,Speed Breaker,50,18,Male,No,2,Fatal
+Morning,Thursday,Apr,Clear,City Road,Dry,Daylight,Speed Breaker,80,49,Female,No,1,Minor
+Afternoon,Tuesday,Apr,Rain,Rural Road,Under Construction,Daylight,Speed Breaker,50,42,Female,Yes,1,Major
+Afternoon,Thursday,May,Clear,City Road,Dry,Daylight,Signal,100,78,Female,No,3,Minor
+Evening,Friday,Mar,Clear,City Road,Under Construction,Daylight,Signal,50,58,Female,No,1,Minor
+Morning,Thursday,Mar,Clear,Highway,Dry,Daylight,Signal,50,34,Female,No,1,Minor
+Morning,Wednesday,Jan,Clear,City Road,Wet,Street Lit,Signal,60,31,Male,No,2,Fatal
+Afternoon,Friday,Jul,Clear,Rural Road,Under Construction,Street Lit,None,50,62,Male,No,1,Minor
+Morning,Saturday,Nov,Clear,Highway,Wet,Street Lit,Signal,50,30,Male,No,4,Fatal
+Afternoon,Tuesday,Oct,Clear,City Road,Dry,No Lighting,Signal,60,55,Female,No,2,Fatal
+Morning,Wednesday,Jan,Fog,Highway,Dry,Daylight,Signal,60,56,Male,No,1,Minor
+Evening,Saturday,Feb,Clear,City Road,Under Construction,No Lighting,Speed Breaker,60,19,Male,Yes,1,Minor
+Morning,Thursday,Apr,Rain,City Road,Dry,Street Lit,Speed Breaker,60,49,Male,No,1,Major
+Morning,Friday,Apr,Rain,Highway,Dry,Daylight,Speed Breaker,60,49,Female,No,1,Minor
+Night,Tuesday,May,Rain,City Road,Dry,Daylight,None,80,75,Male,No,3,Minor
+Afternoon,Wednesday,Nov,Storm,Highway,Potholes,Daylight,Signal,50,57,Male,No,2,Fatal
+Morning,Saturday,Feb,Clear,City Road,Dry,Daylight,Signal,40,73,Male,No,1,Major
+Morning,Saturday,Apr,Clear,City Road,Wet,Daylight,Signal,80,23,Female,No,1,Minor
+Night,Tuesday,Jan,Fog,Highway,Dry,Daylight,Speed Breaker,100,42,Male,Yes,1,Major
+Night,Sunday,Feb,Clear,City Road,Dry,Street Lit,Speed Breaker,50,20,Male,No,1,Minor
+Afternoon,Thursday,Jan,Rain,City Road,Wet,Daylight,Speed Breaker,60,35,Male,No,2,Minor
+Night,Tuesday,Oct,Rain,Highway,Dry,Daylight,Speed Breaker,60,67,Male,No,2,Fatal
+Evening,Saturday,Oct,Rain,Highway,Dry,Street Lit,Speed Breaker,60,71,Male,No,1,Major
+Night,Monday,Apr,Storm,City Road,Wet,Daylight,None,80,72,Male,No,1,Minor
+Evening,Wednesday,Apr,Snow,Rural Road,Under Construction,No Lighting,Speed Breaker,30,55,Male,No,2,Minor
+Afternoon,Tuesday,Jul,Rain,Highway,Dry,Daylight,Speed Breaker,80,60,Female,No,1,Major
+Afternoon,Sunday,Oct,Clear,Highway,Under Construction,No Lighting,Signal,40,20,Male,No,2,Minor
+Afternoon,Saturday,Nov,Fog,Highway,Wet,Daylight,Speed Breaker,60,65,Male,Yes,1,Minor
+Afternoon,Thursday,Nov,Clear,City Road,Under Construction,Daylight,None,100,22,Female,No,2,Minor
+Afternoon,Saturday,Sep,Clear,Highway,Dry,Daylight,Signal,60,41,Female,No,3,Major
+Evening,Thursday,Sep,Fog,Highway,Dry,Street Lit,Speed Breaker,40,71,Male,No,3,Minor
+Evening,Tuesday,May,Clear,City Road,Potholes,Street Lit,Speed Breaker,120,51,Male,No,4,Minor
+Afternoon,Thursday,Oct,Clear,City Road,Under Construction,Daylight,Signal,100,64,Female,No,4,Minor
+Night,Friday,Jan,Clear,Highway,Dry,No Lighting,Speed Breaker,80,65,Female,No,2,Minor
+Morning,Friday,Jan,Fog,City Road,Dry,Daylight,Signal,60,56,Male,No,4,Minor
+Afternoon,Friday,Jun,Clear,City Road,Dry,Street Lit,None,50,65,Male,Yes,3,Minor
+Night,Sunday,Feb,Rain,Highway,Dry,Street Lit,None,100,41,Male,No,2,Minor
+Morning,Sunday,Aug,Clear,Highway,Dry,Daylight,Signal,60,53,Male,No,1,Major
+Afternoon,Monday,Sep,Rain,Rural Road,Dry,Daylight,Signal,100,45,Male,No,1,Minor
+Afternoon,Sunday,Apr,Rain,Highway,Under Construction,No Lighting,Speed Breaker,50,65,Male,No,2,Minor
+Evening,Tuesday,May,Clear,City Road,Dry,No Lighting,Signal,50,66,Male,No,1,Fatal
+Morning,Saturday,Nov,Clear,Rural Road,Wet,No Lighting,Signal,120,51,Male,No,2,Major
+Morning,Saturday,Aug,Clear,Highway,Dry,No Lighting,Speed Breaker,60,33,Male,No,1,Major
+Night,Monday,Mar,Snow,Highway,Dry,Daylight,Signal,40,53,Male,No,1,Minor
+Evening,Sunday,May,Rain,City Road,Dry,Street Lit,Signal,50,24,Male,Yes,2,Minor
+Evening,Thursday,Mar,Storm,Rural Road,Dry,Daylight,None,60,35,Male,Yes,3,Major
+Evening,Monday,Dec,Clear,Rural Road,Wet,No Lighting,None,30,23,Female,Yes,1,Major
+Evening,Thursday,Oct,Rain,City Road,Under Construction,Daylight,Speed Breaker,60,67,Male,No,3,Minor
+Morning,Thursday,Mar,Rain,Highway,Dry,Daylight,None,60,45,Female,No,2,Minor
+Morning,Wednesday,Mar,Rain,City Road,Dry,Daylight,Signal,80,56,Male,No,1,Fatal
+Afternoon,Saturday,Dec,Snow,City Road,Dry,Daylight,Signal,60,51,Male,No,1,Minor
+Afternoon,Friday,Jul,Clear,City Road,Under Construction,Daylight,Signal,120,68,Male,No,1,Minor
+Evening,Sunday,Jul,Clear,Highway,Wet,Street Lit,Speed Breaker,50,58,Female,No,1,Minor
+Evening,Thursday,Jul,Rain,Highway,Dry,Street Lit,None,60,46,Male,No,1,Major
+Evening,Wednesday,Oct,Rain,City Road,Wet,Daylight,Speed Breaker,40,21,Male,No,1,Major
+Afternoon,Saturday,Aug,Rain,City Road,Under Construction,Street Lit,None,80,31,Male,No,1,Major
+Night,Friday,May,Clear,Highway,Dry,Street Lit,Speed Breaker,120,22,Female,No,2,Minor
+Night,Thursday,May,Clear,Highway,Dry,Daylight,Signal,100,42,Female,No,1,Minor
+Afternoon,Thursday,Apr,Clear,Rural Road,Potholes,Daylight,Signal,60,56,Male,No,2,Minor
+Afternoon,Monday,Jul,Clear,City Road,Wet,Street Lit,Signal,60,25,Male,No,1,Major
+Afternoon,Monday,Oct,Rain,Highway,Dry,Street Lit,Signal,100,32,Male,No,2,Major
+Afternoon,Saturday,Apr,Rain,Highway,Dry,Daylight,Speed Breaker,100,76,Male,No,3,Fatal
+Afternoon,Friday,Feb,Clear,Highway,Dry,Street Lit,Signal,120,36,Male,No,1,Minor
+Afternoon,Thursday,Apr,Clear,Rural Road,Dry,Daylight,Speed Breaker,60,76,Female,No,3,Major
+Evening,Saturday,Aug,Clear,City Road,Wet,Daylight,Speed Breaker,120,28,Female,No,2,Minor
+Evening,Saturday,Sep,Clear,City Road,Dry,Daylight,Signal,50,37,Male,Yes,2,Minor
+Evening,Tuesday,Mar,Rain,City Road,Wet,Daylight,Signal,50,72,Male,No,2,Minor
+Evening,Sunday,Jul,Storm,Highway,Under Construction,Street Lit,Signal,40,53,Male,No,1,Minor
+Afternoon,Monday,Dec,Clear,City Road,Dry,No Lighting,Signal,50,35,Male,No,1,Fatal
+Night,Friday,Sep,Rain,City Road,Dry,Daylight,None,80,31,Male,No,1,Minor
+Morning,Thursday,Nov,Fog,Highway,Dry,Daylight,Signal,100,75,Male,No,1,Fatal
+Afternoon,Saturday,Apr,Fog,Highway,Wet,Street Lit,Speed Breaker,80,55,Male,Yes,1,Minor
+Morning,Thursday,Oct,Clear,City Road,Dry,Street Lit,None,80,42,Male,No,3,Minor
+Night,Tuesday,Mar,Snow,Rural Road,Wet,Street Lit,None,60,33,Female,No,1,Minor
+Evening,Friday,May,Clear,Highway,Under Construction,Street Lit,None,80,35,Male,No,4,Minor
+Night,Saturday,Jan,Clear,Rural Road,Dry,Daylight,Signal,60,18,Male,No,1,Minor
+Afternoon,Thursday,Mar,Clear,City Road,Potholes,Street Lit,Signal,100,57,Male,No,1,Minor
+Evening,Monday,Aug,Clear,Highway,Potholes,Daylight,Signal,80,18,Male,No,1,Minor
+Afternoon,Sunday,Nov,Clear,Highway,Dry,Daylight,Signal,80,18,Female,No,1,Fatal
+Evening,Tuesday,Aug,Clear,Highway,Dry,Daylight,None,60,68,Female,No,4,Major
+Morning,Friday,Apr,Clear,City Road,Potholes,Daylight,Speed Breaker,100,38,Male,Yes,2,Major
+Morning,Tuesday,Feb,Fog,Highway,Potholes,No Lighting,Signal,50,78,Female,No,1,Minor
+Morning,Monday,Aug,Fog,Highway,Dry,Street Lit,Signal,60,77,Male,No,3,Minor
+Night,Friday,Aug,Clear,City Road,Dry,Daylight,Signal,80,42,Female,Yes,2,Minor
+Afternoon,Tuesday,Oct,Fog,City Road,Dry,Daylight,Speed Breaker,60,44,Male,No,1,Major
+Night,Wednesday,Apr,Fog,Highway,Potholes,Daylight,Speed Breaker,100,27,Male,No,2,Minor
+Morning,Monday,Mar,Rain,City Road,Dry,Daylight,None,50,67,Male,No,2,Minor
+Afternoon,Monday,Feb,Clear,City Road,Dry,Street Lit,None,60,29,Female,No,1,Minor
+Morning,Monday,Sep,Rain,City Road,Under Construction,No Lighting,Signal,100,45,Male,No,2,Minor
+Night,Wednesday,Jan,Storm,City Road,Dry,No Lighting,Signal,60,66,Female,No,1,Major
+Night,Wednesday,Jul,Rain,Highway,Wet,Street Lit,Signal,60,49,Male,No,1,Minor
+Night,Thursday,May,Clear,City Road,Dry,Street Lit,Signal,50,50,Female,No,1,Minor
+Morning,Saturday,Aug,Clear,City Road,Under Construction,Daylight,None,50,25,Male,No,4,Major
+Afternoon,Sunday,Apr,Rain,City Road,Dry,Daylight,Speed Breaker,80,59,Female,No,2,Minor
+Afternoon,Tuesday,Jul,Clear,City Road,Wet,Daylight,Speed Breaker,40,43,Male,No,1,Minor
+Morning,Thursday,May,Clear,City Road,Wet,Daylight,Signal,100,59,Male,Yes,1,Minor
+Afternoon,Tuesday,May,Clear,Highway,Dry,Street Lit,Signal,80,67,Female,Yes,1,Major
+Morning,Sunday,Sep,Fog,City Road,Dry,Daylight,Signal,50,78,Female,No,2,Fatal
+Afternoon,Saturday,Sep,Fog,City Road,Dry,Daylight,Speed Breaker,80,58,Male,No,1,Major
+Evening,Wednesday,Sep,Clear,City Road,Dry,Daylight,Speed Breaker,80,74,Male,No,2,Major
+Evening,Saturday,Dec,Snow,Highway,Under Construction,No Lighting,Signal,50,19,Male,No,3,Minor
+Night,Wednesday,Jun,Clear,Rural Road,Under Construction,Daylight,Speed Breaker,50,52,Male,Yes,2,Minor
+Evening,Sunday,Jun,Rain,City Road,Dry,Street Lit,None,60,51,Male,No,1,Minor
+Evening,Saturday,May,Rain,Highway,Wet,Street Lit,Signal,80,23,Male,No,1,Major
+Evening,Thursday,Sep,Fog,City Road,Wet,Daylight,Speed Breaker,80,48,Male,No,1,Minor
+Morning,Friday,Oct,Storm,City Road,Under Construction,Daylight,Signal,60,40,Female,No,2,Major
+Evening,Thursday,Aug,Clear,City Road,Dry,Street Lit,Speed Breaker,80,29,Female,No,2,Major
+Evening,Tuesday,Jul,Fog,City Road,Dry,Daylight,Speed Breaker,80,71,Male,No,1,Fatal
+Night,Thursday,Jul,Clear,Rural Road,Dry,No Lighting,None,80,68,Male,No,1,Minor
+Evening,Sunday,Jun,Rain,Highway,Dry,Daylight,Signal,80,45,Male,No,3,Minor
+Evening,Monday,May,Rain,City Road,Dry,Daylight,Signal,50,32,Male,No,1,Minor
+Afternoon,Tuesday,Apr,Rain,Rural Road,Dry,Street Lit,Signal,100,36,Male,No,1,Minor
+Night,Saturday,Mar,Clear,Rural Road,Dry,Street Lit,Signal,80,29,Male,Yes,2,Major
+Night,Tuesday,Mar,Fog,City Road,Wet,No Lighting,Speed Breaker,100,67,Male,No,1,Minor
+Night,Friday,Jun,Clear,Rural Road,Dry,Street Lit,None,60,65,Male,No,2,Fatal
+Night,Wednesday,Apr,Clear,Highway,Dry,No Lighting,Signal,50,19,Female,No,2,Fatal
+Night,Saturday,Dec,Rain,Rural Road,Dry,Street Lit,Signal,60,28,Female,No,2,Minor
+Night,Tuesday,Dec,Clear,Highway,Dry,Street Lit,Signal,60,61,Male,No,1,Minor
+Morning,Saturday,Jun,Fog,Highway,Dry,Daylight,Signal,80,54,Male,Yes,1,Minor
+Evening,Saturday,Mar,Clear,Highway,Dry,Daylight,Signal,60,76,Female,No,1,Minor
+Night,Saturday,Apr,Clear,City Road,Dry,No Lighting,Signal,100,76,Male,No,1,Minor
+Evening,Wednesday,Sep,Fog,Highway,Dry,Daylight,Speed Breaker,80,73,Female,No,4,Minor
+Evening,Sunday,May,Clear,Highway,Dry,Daylight,Signal,80,55,Female,No,2,Minor
+Morning,Thursday,Jul,Clear,Highway,Dry,Daylight,Speed Breaker,50,42,Female,No,1,Major
+Night,Saturday,Oct,Rain,Highway,Under Construction,Daylight,Speed Breaker,120,60,Male,Yes,3,Minor
+Afternoon,Monday,Feb,Clear,City Road,Dry,Daylight,Signal,100,38,Male,Yes,2,Minor
+Morning,Sunday,May,Rain,City Road,Dry,Daylight,Speed Breaker,80,59,Female,Yes,1,Minor
+Afternoon,Friday,Sep,Clear,Highway,Dry,Street Lit,Speed Breaker,50,53,Male,No,1,Fatal
+Evening,Wednesday,Nov,Fog,City Road,Dry,Daylight,Speed Breaker,60,26,Male,No,1,Major
+Evening,Tuesday,Mar,Fog,Rural Road,Dry,Daylight,Signal,40,29,Male,No,4,Minor
+Morning,Wednesday,Sep,Rain,City Road,Dry,Daylight,Signal,60,27,Male,No,1,Major
+Morning,Tuesday,Nov,Clear,Highway,Wet,Daylight,None,40,76,Female,No,3,Major
+Afternoon,Wednesday,Jun,Fog,City Road,Dry,Daylight,Speed Breaker,60,63,Male,No,1,Major
+Night,Tuesday,Apr,Rain,Highway,Dry,Street Lit,Signal,80,22,Female,No,3,Minor
+Afternoon,Saturday,Jul,Rain,Highway,Under Construction,Daylight,Signal,60,50,Female,No,1,Major
+Morning,Thursday,Aug,Clear,Highway,Potholes,No Lighting,Signal,60,22,Male,No,4,Minor
+Afternoon,Tuesday,Jun,Fog,City Road,Dry,Daylight,Signal,100,33,Male,No,3,Fatal
+Morning,Tuesday,May,Rain,Highway,Dry,Daylight,Speed Breaker,40,54,Female,No,1,Minor
+Afternoon,Monday,Jun,Clear,Highway,Dry,Daylight,Signal,80,54,Male,No,2,Fatal
+Morning,Tuesday,May,Clear,Highway,Dry,Daylight,Signal,50,46,Female,No,2,Fatal
+Morning,Monday,Aug,Fog,Rural Road,Dry,Street Lit,Speed Breaker,30,35,Female,No,3,Minor
+Morning,Friday,Jan,Clear,City Road,Dry,Street Lit,Signal,50,46,Male,No,1,Fatal
+Night,Saturday,Nov,Snow,Highway,Wet,Street Lit,Speed Breaker,80,23,Female,Yes,1,Minor
+Afternoon,Monday,Jul,Rain,City Road,Dry,Daylight,Speed Breaker,60,70,Male,No,3,Minor
+Afternoon,Thursday,Oct,Rain,City Road,Dry,Daylight,Signal,100,35,Male,No,2,Minor
+Afternoon,Sunday,Oct,Clear,City Road,Dry,Daylight,Speed Breaker,60,49,Female,Yes,1,Fatal
+Morning,Saturday,Nov,Clear,Highway,Under Construction,No Lighting,Speed Breaker,30,77,Female,No,2,Minor
+Afternoon,Monday,Feb,Storm,Rural Road,Dry,Daylight,Signal,80,59,Male,Yes,1,Minor
+Afternoon,Saturday,Sep,Clear,Highway,Wet,Street Lit,Signal,40,64,Male,No,2,Major
+Morning,Saturday,Jan,Rain,City Road,Dry,Daylight,Speed Breaker,80,48,Male,Yes,1,Fatal
+Evening,Saturday,Nov,Clear,Highway,Dry,Daylight,None,50,79,Male,Yes,1,Major
+Morning,Friday,Oct,Clear,Highway,Dry,Daylight,Speed Breaker,50,73,Male,No,1,Minor
+Afternoon,Thursday,Jun,Clear,Highway,Dry,Daylight,Signal,80,71,Male,No,1,Minor
+Morning,Wednesday,Sep,Clear,City Road,Dry,Street Lit,Speed Breaker,120,28,Male,No,1,Minor
+Evening,Wednesday,Jan,Snow,Highway,Dry,Daylight,Signal,60,43,Female,No,1,Major
+Morning,Monday,Apr,Clear,City Road,Dry,Street Lit,Speed Breaker,100,45,Male,No,1,Minor
+Afternoon,Saturday,Apr,Clear,Highway,Wet,Daylight,Speed Breaker,50,44,Male,No,1,Minor
+Evening,Monday,Sep,Clear,City Road,Dry,No Lighting,Speed Breaker,100,36,Female,No,2,Major
+Night,Friday,Nov,Clear,City Road,Dry,Daylight,None,80,74,Female,No,1,Minor
+Afternoon,Friday,May,Clear,City Road,Dry,Street Lit,Speed Breaker,50,62,Female,No,1,Minor
+Evening,Tuesday,May,Fog,City Road,Wet,Street Lit,Speed Breaker,50,44,Male,Yes,2,Minor
+Evening,Friday,Jun,Clear,City Road,Potholes,No Lighting,Signal,40,76,Male,Yes,3,Minor
+Night,Tuesday,Jan,Clear,Highway,Dry,Daylight,None,60,79,Male,No,2,Minor
+Morning,Thursday,Jan,Clear,City Road,Dry,Street Lit,None,50,37,Male,No,1,Minor
+Morning,Monday,Sep,Snow,Highway,Dry,Daylight,Signal,80,20,Male,No,2,Major
+Afternoon,Sunday,Mar,Clear,City Road,Potholes,Daylight,Signal,120,33,Male,No,4,Minor
+Night,Thursday,Apr,Clear,City Road,Under Construction,Daylight,Signal,30,56,Male,No,1,Minor
+Morning,Friday,Jan,Rain,Highway,Dry,Daylight,Speed Breaker,60,61,Male,No,4,Major
+Night,Thursday,Sep,Rain,Highway,Dry,No Lighting,Speed Breaker,60,46,Male,No,1,Major
+Morning,Thursday,Aug,Clear,City Road,Dry,Daylight,Signal,100,32,Male,No,1,Major
+Evening,Thursday,Feb,Clear,City Road,Dry,Daylight,None,60,47,Male,No,1,Fatal
+Morning,Friday,Aug,Rain,Rural Road,Wet,Street Lit,Signal,60,57,Male,No,2,Major
+Night,Sunday,Jul,Clear,City Road,Dry,Daylight,Speed Breaker,60,72,Male,No,1,Minor
+Evening,Saturday,Nov,Fog,City Road,Dry,Street Lit,Signal,50,66,Male,No,1,Major
+Evening,Thursday,Jun,Rain,Rural Road,Wet,Daylight,Signal,40,18,Male,No,1,Minor
+Evening,Tuesday,Jan,Clear,Highway,Under Construction,Daylight,Signal,60,46,Male,No,1,Minor
+Night,Friday,Jul,Clear,Highway,Dry,Daylight,Signal,40,70,Male,No,1,Minor
+Afternoon,Thursday,Oct,Clear,City Road,Wet,No Lighting,Speed Breaker,60,47,Female,No,1,Minor
+Afternoon,Sunday,Jul,Rain,City Road,Dry,Street Lit,Speed Breaker,50,57,Male,No,1,Minor
+Afternoon,Saturday,Sep,Clear,Rural Road,Under Construction,No Lighting,Signal,60,63,Male,No,4,Minor
+Night,Friday,Jan,Clear,City Road,Under Construction,Daylight,Signal,40,49,Female,No,1,Minor
+Evening,Wednesday,Feb,Rain,Highway,Dry,Daylight,Signal,100,27,Male,No,1,Major
+Afternoon,Saturday,Nov,Snow,City Road,Wet,Daylight,Speed Breaker,100,44,Male,No,1,Fatal
+Night,Tuesday,Sep,Clear,Highway,Under Construction,Daylight,Speed Breaker,50,68,Male,No,1,Minor
+Afternoon,Thursday,Sep,Storm,Highway,Dry,Daylight,Signal,50,25,Female,No,1,Major
+Morning,Sunday,Jun,Clear,City Road,Dry,Street Lit,Speed Breaker,80,68,Male,No,1,Minor
+Afternoon,Wednesday,Jun,Clear,Highway,Wet,Daylight,Signal,40,53,Male,Yes,2,Fatal
+Afternoon,Sunday,Apr,Clear,City Road,Dry,Daylight,None,60,59,Male,No,1,Minor
+Evening,Wednesday,Apr,Clear,City Road,Dry,Street Lit,None,50,72,Male,No,1,Minor
+Night,Friday,May,Clear,City Road,Under Construction,Street Lit,Speed Breaker,100,52,Male,No,1,Minor
+Evening,Wednesday,Mar,Clear,Highway,Wet,Daylight,None,100,53,Female,No,2,Minor
+Evening,Tuesday,Jan,Storm,Highway,Dry,Daylight,None,60,65,Male,No,2,Minor
+Evening,Tuesday,Jan,Fog,Highway,Dry,Daylight,None,60,73,Male,No,1,Minor
+Evening,Monday,Dec,Rain,Rural Road,Dry,Daylight,Speed Breaker,100,53,Male,No,1,Minor
+Evening,Tuesday,Jul,Clear,City Road,Dry,Street Lit,Signal,100,42,Male,No,4,Minor
+Afternoon,Saturday,Jan,Clear,City Road,Dry,Daylight,Signal,120,37,Female,No,1,Minor
+Evening,Wednesday,Jan,Clear,Highway,Wet,Street Lit,Signal,40,78,Male,No,1,Fatal
+Evening,Tuesday,Mar,Rain,Rural Road,Dry,Street Lit,Speed Breaker,50,79,Male,No,1,Minor
+Night,Friday,Oct,Storm,Highway,Dry,Street Lit,Signal,80,69,Male,No,1,Minor
+Morning,Sunday,Apr,Clear,Highway,Dry,Daylight,Signal,60,62,Male,No,4,Major
+Afternoon,Sunday,Apr,Clear,City Road,Potholes,Daylight,Signal,30,70,Male,No,4,Major
+Afternoon,Monday,Feb,Clear,Rural Road,Dry,Street Lit,Signal,40,34,Female,Yes,2,Minor
+Afternoon,Sunday,Jan,Clear,Highway,Dry,Daylight,Speed Breaker,100,40,Male,No,1,Major
+Evening,Wednesday,Mar,Clear,Highway,Dry,Daylight,None,100,42,Female,No,1,Minor
+Evening,Monday,Nov,Rain,Rural Road,Dry,Daylight,Speed Breaker,60,65,Female,No,1,Minor
+Evening,Wednesday,Apr,Rain,Highway,Dry,Daylight,Speed Breaker,100,77,Female,No,4,Minor
+Night,Friday,Mar,Clear,Highway,Dry,Street Lit,Speed Breaker,60,74,Male,Yes,2,Major
+Morning,Monday,Aug,Clear,City Road,Dry,Daylight,Signal,100,66,Male,No,1,Minor
+Evening,Thursday,Oct,Snow,Rural Road,Dry,Daylight,Signal,60,48,Female,No,1,Major
+Morning,Saturday,Jan,Clear,City Road,Dry,Daylight,None,40,23,Female,No,1,Minor
+Night,Saturday,Feb,Clear,Rural Road,Dry,Daylight,Signal,60,52,Female,No,4,Major
+Afternoon,Wednesday,Jul,Clear,City Road,Dry,Street Lit,Signal,60,69,Male,No,1,Minor
+Evening,Sunday,Apr,Clear,Highway,Dry,Street Lit,Speed Breaker,60,73,Male,No,1,Minor
+Morning,Thursday,Aug,Clear,Rural Road,Dry,Daylight,Signal,40,21,Female,No,1,Minor
+Morning,Monday,Nov,Fog,City Road,Dry,Daylight,Signal,120,57,Male,Yes,1,Major
+Evening,Thursday,Mar,Clear,Highway,Wet,Daylight,Signal,50,37,Male,No,3,Minor
+Afternoon,Thursday,Jun,Clear,City Road,Dry,Street Lit,Signal,50,58,Male,No,4,Major
+Afternoon,Sunday,Sep,Rain,Highway,Dry,Daylight,Signal,60,71,Male,Yes,3,Major
+Afternoon,Monday,Jan,Clear,Highway,Dry,Street Lit,Signal,60,18,Male,No,2,Minor
+Night,Friday,Jan,Fog,Highway,Potholes,Daylight,Speed Breaker,60,62,Male,No,1,Fatal
+Morning,Sunday,Aug,Fog,City Road,Under Construction,Street Lit,None,80,43,Male,No,1,Major
+Morning,Thursday,Mar,Clear,City Road,Dry,Daylight,Signal,60,51,Male,Yes,1,Minor
+Morning,Thursday,May,Rain,City Road,Dry,Street Lit,None,80,72,Male,No,2,Minor
+Night,Friday,Jan,Clear,Rural Road,Dry,Daylight,Signal,80,27,Male,No,1,Minor
+Morning,Thursday,May,Snow,Highway,Dry,Street Lit,Signal,30,40,Female,Yes,2,Minor
+Night,Thursday,Nov,Clear,Highway,Dry,Daylight,Signal,60,68,Male,No,1,Minor
+Afternoon,Thursday,Jun,Snow,Highway,Wet,Daylight,Speed Breaker,100,66,Male,No,1,Minor
+Evening,Saturday,Aug,Rain,Highway,Dry,Street Lit,Signal,30,41,Female,Yes,2,Major
+Morning,Sunday,Mar,Clear,Highway,Under Construction,Daylight,Speed Breaker,60,30,Female,No,3,Minor
+Morning,Tuesday,Mar,Clear,City Road,Dry,Street Lit,Speed Breaker,100,46,Male,No,1,Major
+Afternoon,Sunday,Dec,Snow,Rural Road,Under Construction,Street Lit,Speed Breaker,60,75,Male,No,1,Minor
+Evening,Friday,Nov,Fog,Rural Road,Wet,Daylight,Speed Breaker,60,63,Male,No,3,Minor
+Night,Thursday,Nov,Clear,Highway,Dry,Daylight,None,120,44,Male,No,2,Major
+Evening,Sunday,Oct,Rain,Rural Road,Dry,Daylight,Signal,50,48,Female,No,1,Major
+Afternoon,Saturday,Sep,Clear,Highway,Dry,Daylight,Signal,40,60,Female,No,1,Minor
+Afternoon,Friday,Apr,Clear,Highway,Dry,Daylight,Speed Breaker,100,27,Female,Yes,1,Minor
+Evening,Wednesday,Apr,Clear,Rural Road,Dry,Street Lit,Speed Breaker,100,48,Male,No,1,Minor
+Night,Sunday,Dec,Clear,City Road,Dry,Daylight,Signal,60,56,Male,No,3,Minor
+Night,Wednesday,Jul,Fog,Highway,Dry,Daylight,Signal,60,27,Female,No,1,Minor
+Morning,Thursday,Feb,Clear,City Road,Potholes,Daylight,Signal,100,41,Male,No,1,Major
+Night,Saturday,Aug,Fog,Highway,Dry,Daylight,Signal,80,50,Male,No,1,Minor
+Evening,Saturday,Jun,Clear,City Road,Potholes,Daylight,Signal,50,31,Female,Yes,1,Minor
+Afternoon,Sunday,Mar,Clear,City Road,Dry,Street Lit,None,30,52,Male,No,1,Minor
+Morning,Friday,Sep,Clear,Rural Road,Wet,Street Lit,Speed Breaker,60,62,Male,No,1,Minor
+Morning,Friday,May,Clear,Highway,Dry,Daylight,Signal,100,51,Female,No,1,Minor
+Afternoon,Saturday,Aug,Clear,Highway,Dry,No Lighting,Speed Breaker,100,34,Male,No,1,Minor
+Night,Friday,Jul,Clear,City Road,Under Construction,Daylight,None,120,38,Male,No,1,Minor
+Afternoon,Saturday,Aug,Rain,City Road,Dry,No Lighting,Signal,100,49,Male,No,1,Major
+Night,Sunday,Jul,Clear,Highway,Wet,Street Lit,Signal,60,20,Male,No,2,Minor
+Afternoon,Tuesday,Mar,Clear,City Road,Dry,Street Lit,Speed Breaker,60,75,Male,No,1,Fatal
+Evening,Saturday,Feb,Clear,Rural Road,Dry,Daylight,Speed Breaker,80,32,Male,No,1,Minor
+Night,Wednesday,Jul,Fog,Rural Road,Dry,Daylight,Signal,80,25,Male,No,1,Minor
+Evening,Friday,Mar,Storm,City Road,Wet,Daylight,None,60,49,Female,No,4,Major
+Morning,Saturday,Mar,Clear,Rural Road,Dry,Street Lit,Signal,40,55,Male,No,3,Major
+Afternoon,Saturday,Feb,Clear,City Road,Wet,Daylight,Signal,100,43,Female,No,1,Minor
+Morning,Sunday,Apr,Clear,City Road,Under Construction,Street Lit,Signal,60,47,Male,No,2,Major
+Morning,Friday,Aug,Snow,Highway,Dry,Daylight,Signal,60,26,Male,No,1,Major
+Morning,Tuesday,Dec,Clear,Highway,Dry,Street Lit,Speed Breaker,80,74,Male,No,1,Major
+Morning,Sunday,Jan,Clear,Highway,Wet,Daylight,None,80,49,Male,No,1,Minor
+Afternoon,Tuesday,Jan,Clear,City Road,Dry,Daylight,Signal,50,28,Female,No,1,Major
+Morning,Sunday,Dec,Clear,Highway,Dry,Daylight,None,100,39,Male,No,1,Major
+Afternoon,Friday,May,Clear,Rural Road,Dry,Daylight,None,50,51,Male,No,2,Major
+Afternoon,Monday,Nov,Rain,Highway,Dry,Daylight,Signal,50,58,Male,No,2,Major
+Evening,Friday,May,Clear,Highway,Dry,Street Lit,Speed Breaker,60,35,Male,No,1,Fatal
+Night,Friday,Nov,Rain,City Road,Dry,Daylight,Signal,80,36,Male,No,1,Minor
+Night,Tuesday,Dec,Clear,Highway,Wet,Daylight,Speed Breaker,120,71,Male,No,1,Minor
+Afternoon,Tuesday,Jan,Clear,Highway,Dry,Street Lit,Signal,100,35,Male,No,1,Minor
+Evening,Friday,Jun,Storm,Highway,Dry,Daylight,Speed Breaker,100,54,Male,No,4,Minor
+Afternoon,Friday,Jan,Clear,City Road,Potholes,No Lighting,Signal,40,35,Male,No,2,Minor
+Afternoon,Friday,May,Fog,City Road,Wet,No Lighting,None,40,29,Male,No,4,Minor
+Afternoon,Tuesday,Sep,Clear,City Road,Under Construction,Daylight,None,60,21,Male,No,2,Minor
+Evening,Friday,Dec,Clear,City Road,Dry,Daylight,Signal,50,64,Male,No,1,Major
+Night,Friday,May,Snow,City Road,Wet,Daylight,Signal,100,60,Female,No,1,Major
+Evening,Thursday,Jun,Clear,Highway,Dry,Street Lit,Signal,80,44,Female,No,1,Minor
+Morning,Monday,Aug,Fog,Highway,Dry,Daylight,Speed Breaker,120,68,Female,No,1,Fatal
+Evening,Wednesday,Nov,Clear,City Road,Dry,Street Lit,Signal,50,22,Male,No,2,Minor
+Evening,Monday,Jan,Fog,Highway,Dry,Street Lit,Speed Breaker,60,23,Female,No,1,Major
+Evening,Thursday,Feb,Clear,Highway,Under Construction,Daylight,Signal,60,30,Male,No,1,Major
+Evening,Wednesday,Sep,Clear,City Road,Dry,Street Lit,Signal,50,40,Female,No,2,Minor
+Night,Sunday,Mar,Rain,City Road,Wet,Street Lit,Signal,60,59,Male,Yes,3,Minor
+Morning,Friday,Jun,Storm,Highway,Wet,Daylight,Signal,60,73,Male,No,1,Minor
+Night,Thursday,May,Storm,Highway,Dry,Street Lit,Speed Breaker,60,42,Male,Yes,2,Major
+Night,Sunday,Nov,Fog,Rural Road,Dry,Street Lit,None,60,63,Male,Yes,1,Major
+Evening,Friday,Feb,Fog,Rural Road,Dry,Daylight,Signal,30,21,Female,No,1,Minor
+Afternoon,Tuesday,Jul,Clear,City Road,Dry,Daylight,Speed Breaker,60,69,Female,No,1,Minor
+Afternoon,Saturday,Apr,Clear,City Road,Dry,Daylight,Signal,50,72,Female,No,1,Minor
+Night,Thursday,Jan,Clear,City Road,Potholes,Daylight,Speed Breaker,30,49,Male,Yes,2,Minor
+Night,Tuesday,Apr,Clear,Rural Road,Dry,No Lighting,Signal,50,61,Male,No,1,Fatal
+Evening,Thursday,Jun,Clear,Rural Road,Dry,Daylight,Speed Breaker,50,32,Male,No,2,Minor
+Night,Thursday,Jul,Clear,Highway,Under Construction,Street Lit,None,60,43,Female,No,3,Fatal
+Evening,Tuesday,Jul,Clear,City Road,Dry,Daylight,Signal,40,59,Male,Yes,1,Major
+Afternoon,Wednesday,Jul,Rain,Highway,Wet,Daylight,Speed Breaker,60,28,Female,No,2,Fatal
+Afternoon,Monday,Mar,Clear,Highway,Dry,No Lighting,Signal,80,26,Male,No,1,Minor
+Morning,Friday,Jun,Clear,City Road,Dry,Street Lit,Signal,80,28,Male,No,1,Minor
+Afternoon,Thursday,Aug,Clear,City Road,Dry,Daylight,Signal,100,19,Female,No,2,Minor
+Night,Friday,Apr,Rain,Rural Road,Dry,Daylight,Signal,60,62,Male,No,2,Major
+Afternoon,Saturday,Aug,Rain,Highway,Dry,Daylight,Signal,60,44,Male,No,1,Major
+Evening,Tuesday,Feb,Rain,City Road,Wet,Daylight,Signal,100,71,Male,No,3,Minor
+Afternoon,Friday,Oct,Clear,Rural Road,Dry,Daylight,Signal,60,75,Female,No,1,Major
+Morning,Tuesday,Sep,Clear,Rural Road,Potholes,Daylight,Signal,80,43,Male,No,4,Minor
+Afternoon,Friday,Sep,Clear,Highway,Dry,No Lighting,Speed Breaker,60,25,Male,No,1,Minor
+Evening,Monday,Aug,Clear,Highway,Dry,Daylight,None,60,78,Male,No,1,Minor
+Evening,Monday,Oct,Clear,City Road,Dry,Street Lit,Signal,80,38,Male,No,1,Minor
+Night,Monday,Oct,Clear,Highway,Potholes,Street Lit,Signal,50,38,Male,No,1,Minor
+Afternoon,Monday,Jan,Clear,Rural Road,Dry,Daylight,Signal,50,25,Male,No,1,Minor
+Evening,Monday,Feb,Snow,Rural Road,Dry,Street Lit,None,50,18,Female,Yes,2,Major
+Morning,Monday,Jun,Snow,Highway,Under Construction,Daylight,Speed Breaker,60,55,Female,No,1,Major
+Night,Tuesday,Oct,Clear,Highway,Dry,Street Lit,Signal,50,75,Male,No,1,Minor
+Morning,Thursday,May,Clear,Highway,Under Construction,Daylight,Signal,60,30,Female,No,1,Major
+Afternoon,Friday,Dec,Clear,Rural Road,Dry,Daylight,Signal,80,26,Male,No,1,Minor
+Afternoon,Monday,Sep,Clear,Highway,Wet,Street Lit,Signal,80,45,Male,Yes,2,Minor
+Afternoon,Tuesday,May,Storm,City Road,Potholes,Daylight,None,60,23,Male,No,2,Major
+Night,Tuesday,Feb,Clear,City Road,Wet,Street Lit,None,120,64,Male,No,4,Major
+Evening,Tuesday,Oct,Rain,City Road,Dry,No Lighting,Signal,60,40,Male,Yes,1,Major
+Night,Thursday,Apr,Clear,Highway,Dry,Daylight,Speed Breaker,60,65,Male,No,1,Major
+Morning,Friday,Sep,Snow,Highway,Potholes,Daylight,Signal,100,53,Female,No,1,Major
+Night,Thursday,Jan,Clear,Rural Road,Dry,Daylight,Signal,80,77,Male,No,3,Minor
+Morning,Wednesday,Nov,Rain,Rural Road,Dry,Street Lit,None,80,75,Male,No,2,Major
+Night,Sunday,Jan,Clear,City Road,Wet,Street Lit,Speed Breaker,50,34,Male,No,1,Minor
+Evening,Tuesday,Dec,Rain,Highway,Dry,Daylight,Signal,60,26,Male,No,1,Major
+Morning,Wednesday,Jul,Clear,Highway,Dry,Daylight,Signal,100,29,Male,No,2,Minor
+Afternoon,Saturday,Nov,Clear,City Road,Dry,Street Lit,None,60,39,Male,No,2,Minor
+Afternoon,Monday,Mar,Storm,Highway,Dry,Daylight,Speed Breaker,80,68,Female,No,3,Major
+Night,Sunday,Oct,Storm,Rural Road,Dry,Street Lit,Signal,60,69,Female,No,1,Minor
+Afternoon,Monday,Feb,Fog,City Road,Wet,Street Lit,Signal,100,75,Male,No,4,Major
+Morning,Thursday,Sep,Rain,Highway,Dry,No Lighting,Signal,50,29,Male,Yes,1,Minor
+Afternoon,Sunday,Mar,Fog,Rural Road,Under Construction,Daylight,None,60,71,Female,No,4,Major
+Evening,Friday,Feb,Clear,Rural Road,Under Construction,Daylight,Speed Breaker,40,23,Male,Yes,3,Minor
+Evening,Wednesday,Dec,Clear,Highway,Wet,Daylight,Signal,80,61,Male,Yes,2,Minor
+Night,Friday,Aug,Clear,City Road,Dry,Daylight,Speed Breaker,80,26,Male,No,2,Minor
+Morning,Thursday,Oct,Rain,Highway,Wet,No Lighting,Speed Breaker,30,69,Male,No,1,Major
+Evening,Monday,Jun,Clear,Highway,Dry,Daylight,Signal,80,54,Female,No,1,Major
+Evening,Sunday,Jun,Clear,Highway,Dry,Street Lit,Signal,60,70,Male,No,1,Minor
+Morning,Friday,Oct,Rain,City Road,Wet,Daylight,Speed Breaker,40,20,Male,No,1,Fatal
+Afternoon,Friday,Nov,Fog,Rural Road,Dry,Daylight,Speed Breaker,60,51,Male,No,1,Major
+Afternoon,Monday,Jul,Clear,City Road,Potholes,Daylight,Speed Breaker,50,25,Male,Yes,1,Fatal
+Night,Sunday,Jul,Clear,Highway,Dry,Street Lit,None,60,27,Female,Yes,3,Minor
+Afternoon,Wednesday,Nov,Clear,City Road,Wet,Daylight,Signal,60,64,Male,Yes,1,Minor
+Morning,Monday,Jun,Clear,Highway,Dry,Daylight,Signal,80,58,Male,Yes,2,Minor
+Evening,Friday,Apr,Clear,Rural Road,Potholes,No Lighting,None,80,59,Female,No,2,Minor
+Afternoon,Wednesday,Nov,Rain,City Road,Dry,Daylight,Signal,80,60,Male,No,1,Minor
+Night,Wednesday,Sep,Rain,Highway,Dry,Daylight,Speed Breaker,30,78,Male,No,1,Minor
+Afternoon,Monday,Jun,Rain,Highway,Dry,Daylight,Speed Breaker,100,26,Male,No,1,Minor
+Morning,Friday,Apr,Clear,City Road,Dry,Daylight,Speed Breaker,80,31,Male,No,2,Major
+Night,Thursday,Dec,Fog,Highway,Dry,No Lighting,Signal,30,54,Male,No,1,Fatal
+Afternoon,Friday,Mar,Clear,City Road,Dry,Daylight,Speed Breaker,100,44,Male,Yes,1,Major
+Night,Tuesday,Apr,Clear,Highway,Dry,Daylight,None,50,58,Male,No,2,Minor
+Morning,Sunday,Mar,Fog,Highway,Dry,Daylight,Speed Breaker,60,49,Female,No,1,Minor
+Evening,Saturday,Feb,Clear,City Road,Dry,Street Lit,Signal,60,21,Male,Yes,2,Minor
+Morning,Thursday,May,Clear,Rural Road,Under Construction,Daylight,Signal,60,19,Male,No,1,Minor
+Morning,Wednesday,Feb,Fog,Rural Road,Wet,Street Lit,Signal,100,68,Male,No,2,Minor
+Morning,Thursday,Jun,Clear,Highway,Wet,Daylight,Signal,60,50,Female,No,3,Minor
+Morning,Sunday,Mar,Rain,Highway,Wet,Daylight,Signal,40,38,Male,No,2,Minor
+Evening,Wednesday,Jun,Clear,Highway,Dry,Street Lit,None,100,18,Female,No,1,Major
+Evening,Sunday,Nov,Rain,City Road,Dry,Daylight,Speed Breaker,100,61,Male,No,1,Major
+Night,Wednesday,Oct,Clear,City Road,Dry,Street Lit,Speed Breaker,80,28,Female,No,2,Minor
+Afternoon,Thursday,Sep,Clear,Rural Road,Under Construction,Daylight,Speed Breaker,60,18,Male,No,1,Minor
+Evening,Wednesday,Jan,Rain,Rural Road,Potholes,Street Lit,Signal,40,63,Male,No,1,Major
+Evening,Wednesday,Jun,Clear,Highway,Dry,Daylight,None,80,76,Male,Yes,2,Minor
+Afternoon,Tuesday,Sep,Clear,City Road,Dry,Street Lit,Signal,40,28,Female,No,1,Minor
+Evening,Friday,Nov,Clear,Rural Road,Dry,Daylight,Signal,40,78,Male,No,1,Minor
+Morning,Friday,Apr,Clear,City Road,Dry,Daylight,Signal,60,24,Male,No,3,Minor
+Morning,Saturday,Nov,Clear,Highway,Dry,Daylight,None,50,19,Male,No,1,Minor
+Afternoon,Saturday,Dec,Clear,Highway,Dry,Daylight,None,30,32,Female,No,1,Major
+Night,Tuesday,Feb,Storm,City Road,Potholes,Daylight,Signal,60,25,Female,No,2,Minor
+Night,Saturday,Apr,Clear,Highway,Dry,Daylight,None,40,71,Male,No,3,Minor
+Afternoon,Sunday,Jan,Clear,Highway,Potholes,Daylight,Signal,50,69,Male,No,1,Minor
+Afternoon,Thursday,Mar,Clear,Highway,Wet,Street Lit,Signal,40,74,Male,No,2,Major
+Morning,Monday,Oct,Clear,City Road,Wet,Street Lit,None,50,64,Female,No,2,Minor
+Night,Sunday,Sep,Storm,Highway,Wet,Street Lit,None,80,43,Female,No,1,Minor
+Evening,Monday,Oct,Clear,Highway,Wet,Daylight,Speed Breaker,100,57,Male,No,1,Minor
+Morning,Monday,May,Snow,Highway,Wet,Daylight,Speed Breaker,60,78,Male,No,1,Minor
+Afternoon,Tuesday,Nov,Clear,City Road,Wet,Daylight,None,60,59,Female,No,2,Minor
+Night,Sunday,Jun,Rain,Rural Road,Dry,Street Lit,Speed Breaker,30,68,Female,No,2,Minor
+Evening,Tuesday,Mar,Clear,City Road,Potholes,Daylight,None,40,52,Male,Yes,1,Major
+Evening,Wednesday,May,Fog,City Road,Wet,Daylight,Speed Breaker,50,69,Male,No,2,Fatal
+Morning,Monday,Nov,Rain,Rural Road,Wet,Street Lit,None,60,63,Male,No,2,Minor
+Night,Thursday,Aug,Clear,Highway,Under Construction,Daylight,None,80,58,Male,No,1,Minor
+Night,Saturday,Jun,Clear,Highway,Dry,Street Lit,Signal,80,58,Male,No,2,Minor
+Afternoon,Thursday,Apr,Clear,Highway,Dry,Street Lit,None,60,38,Male,No,1,Major
+Night,Saturday,Feb,Storm,Highway,Dry,Daylight,Signal,40,77,Male,No,3,Minor
+Night,Monday,Sep,Clear,Highway,Dry,Daylight,Signal,80,74,Male,No,1,Major
+Morning,Monday,Dec,Clear,Rural Road,Under Construction,Daylight,Speed Breaker,60,55,Male,No,2,Major
+Night,Monday,Jan,Rain,City Road,Dry,Street Lit,Signal,80,25,Male,No,2,Fatal
+Evening,Tuesday,Jan,Clear,City Road,Dry,Daylight,Speed Breaker,60,60,Female,No,1,Major
+Morning,Sunday,Apr,Snow,Rural Road,Dry,Street Lit,None,80,49,Male,No,3,Major
+Morning,Saturday,Jul,Rain,Highway,Dry,Daylight,Signal,100,25,Male,No,2,Minor
+Afternoon,Sunday,Jan,Rain,Highway,Wet,Daylight,Signal,100,61,Male,No,3,Minor
+Night,Tuesday,Sep,Fog,City Road,Under Construction,Daylight,None,60,27,Female,Yes,1,Minor
+Afternoon,Tuesday,Apr,Clear,City Road,Dry,Street Lit,Signal,60,40,Female,No,1,Minor
+Evening,Friday,Mar,Clear,Highway,Dry,Daylight,Signal,50,21,Male,No,3,Major
+Morning,Thursday,Jan,Clear,City Road,Dry,Street Lit,Signal,100,65,Female,No,2,Minor
+Morning,Thursday,Oct,Clear,City Road,Dry,Daylight,Speed Breaker,60,69,Male,No,2,Major
+Morning,Wednesday,Apr,Rain,City Road,Dry,Daylight,Speed Breaker,40,55,Female,No,4,Minor
+Evening,Tuesday,Sep,Storm,City Road,Potholes,Street Lit,None,60,47,Male,No,1,Major
+Evening,Saturday,Oct,Clear,Highway,Dry,Street Lit,Signal,40,58,Male,No,1,Minor
+Afternoon,Friday,Jun,Clear,Highway,Dry,Daylight,None,60,40,Male,No,1,Minor
+Afternoon,Friday,Jun,Snow,City Road,Dry,Daylight,Speed Breaker,60,22,Male,No,2,Minor
+Afternoon,Sunday,Jan,Clear,Highway,Wet,Street Lit,Signal,50,38,Male,No,2,Major
+Night,Thursday,Oct,Clear,Rural Road,Wet,Daylight,Speed Breaker,40,73,Female,Yes,4,Minor
+Morning,Tuesday,Feb,Clear,City Road,Wet,Daylight,Speed Breaker,100,23,Female,No,1,Minor
+Morning,Wednesday,Nov,Storm,Highway,Dry,No Lighting,Speed Breaker,80,66,Male,No,2,Minor
+Afternoon,Tuesday,Jun,Rain,City Road,Under Construction,Daylight,Signal,100,34,Male,No,3,Major
+Morning,Sunday,Feb,Rain,City Road,Dry,Daylight,Signal,60,42,Male,No,2,Minor
+Afternoon,Monday,Mar,Fog,Highway,Dry,Daylight,Signal,80,41,Male,No,1,Fatal
+Night,Tuesday,Apr,Clear,City Road,Dry,Street Lit,Signal,60,39,Male,No,2,Minor
+Night,Sunday,Nov,Clear,Rural Road,Dry,Street Lit,Speed Breaker,50,30,Male,No,4,Minor
+Evening,Monday,May,Fog,City Road,Under Construction,Daylight,Signal,40,34,Female,No,4,Major
+Night,Monday,Sep,Clear,Highway,Potholes,Daylight,Speed Breaker,50,31,Male,No,2,Minor
+Afternoon,Wednesday,Dec,Rain,City Road,Dry,Daylight,Signal,40,51,Male,No,3,Major
+Night,Saturday,Apr,Storm,City Road,Under Construction,Street Lit,Signal,120,43,Male,Yes,1,Minor
+Evening,Thursday,Nov,Rain,Highway,Wet,Daylight,Speed Breaker,30,36,Male,No,1,Fatal
+Morning,Tuesday,Sep,Rain,Highway,Potholes,No Lighting,Signal,60,43,Male,Yes,4,Major
+Afternoon,Monday,Nov,Fog,Rural Road,Dry,Daylight,None,60,77,Female,No,1,Major
+Morning,Tuesday,Oct,Fog,Highway,Dry,No Lighting,Signal,50,20,Male,No,1,Minor
+Evening,Saturday,Mar,Clear,City Road,Dry,Daylight,Signal,60,19,Male,No,1,Minor
+Evening,Thursday,Aug,Clear,City Road,Under Construction,Street Lit,None,40,45,Female,No,1,Major
+Evening,Saturday,Dec,Clear,City Road,Dry,Daylight,Speed Breaker,80,19,Male,No,2,Major
+Morning,Thursday,Jan,Rain,Highway,Dry,Daylight,Signal,50,39,Female,No,1,Minor
+Morning,Friday,Nov,Clear,City Road,Dry,Street Lit,Signal,60,24,Male,No,3,Minor
+Morning,Thursday,Sep,Rain,Highway,Dry,Street Lit,Speed Breaker,80,21,Male,No,3,Minor
+Morning,Wednesday,Sep,Clear,City Road,Wet,Daylight,None,100,66,Female,No,1,Major
+Evening,Saturday,Oct,Rain,City Road,Under Construction,Street Lit,None,100,55,Female,No,1,Minor
+Evening,Monday,Feb,Clear,City Road,Wet,Daylight,Signal,80,56,Male,No,2,Minor
+Afternoon,Friday,Apr,Rain,Rural Road,Under Construction,Street Lit,None,60,37,Male,No,2,Minor
+Afternoon,Wednesday,Aug,Clear,City Road,Dry,Daylight,Signal,60,23,Female,No,1,Minor
+Morning,Tuesday,Jul,Clear,Highway,Dry,Daylight,Signal,80,26,Male,Yes,1,Minor
+Night,Saturday,Jan,Clear,Rural Road,Dry,Daylight,None,100,69,Male,No,1,Fatal
+Night,Sunday,May,Rain,City Road,Dry,Daylight,Signal,40,77,Female,No,1,Minor
+Evening,Sunday,Jul,Clear,Highway,Dry,Street Lit,Signal,60,48,Male,No,1,Fatal
+Evening,Monday,Apr,Clear,Highway,Wet,Daylight,Signal,80,79,Female,Yes,2,Minor
+Evening,Thursday,Jan,Snow,City Road,Dry,Daylight,Signal,60,43,Female,No,2,Minor
+Afternoon,Monday,Sep,Rain,Highway,Wet,Daylight,Speed Breaker,50,53,Male,No,2,Minor
+Afternoon,Sunday,May,Snow,City Road,Dry,Street Lit,Speed Breaker,60,43,Female,No,1,Major
+Evening,Tuesday,Nov,Clear,City Road,Dry,Daylight,Signal,80,45,Male,No,2,Major
+Evening,Friday,Feb,Clear,Highway,Dry,Daylight,Speed Breaker,120,22,Male,No,1,Minor
+Evening,Friday,Aug,Fog,City Road,Dry,No Lighting,None,60,68,Male,No,1,Minor
+Night,Saturday,Nov,Clear,Highway,Dry,Daylight,None,50,27,Female,No,2,Fatal
+Afternoon,Friday,Feb,Rain,City Road,Dry,Street Lit,Signal,50,35,Female,No,2,Fatal
+Night,Saturday,Mar,Clear,City Road,Dry,Street Lit,None,30,32,Male,No,1,Minor
+Night,Saturday,Oct,Clear,City Road,Dry,Daylight,Speed Breaker,60,74,Male,No,2,Major
+Evening,Saturday,Jan,Clear,City Road,Dry,No Lighting,Signal,60,78,Female,Yes,3,Minor
+Evening,Sunday,Nov,Clear,City Road,Wet,Street Lit,Signal,50,50,Male,No,1,Minor
+Morning,Sunday,Feb,Clear,City Road,Wet,Daylight,Signal,80,22,Male,No,2,Minor
+Morning,Thursday,Jul,Clear,Highway,Dry,Daylight,Speed Breaker,80,54,Male,No,4,Minor
+Night,Wednesday,Oct,Snow,Highway,Wet,Street Lit,Signal,50,57,Female,Yes,2,Major
+Afternoon,Saturday,Feb,Clear,City Road,Wet,Daylight,Speed Breaker,50,39,Female,Yes,1,Minor
+Evening,Saturday,Jun,Rain,Rural Road,Wet,Street Lit,Signal,120,39,Female,No,1,Minor
+Evening,Wednesday,Mar,Fog,City Road,Dry,Daylight,None,60,39,Male,No,1,Major
+Night,Monday,Apr,Rain,City Road,Dry,Daylight,Signal,80,69,Female,No,1,Minor
+Morning,Saturday,Nov,Clear,Highway,Wet,Daylight,None,60,32,Male,No,2,Minor
+Afternoon,Thursday,Aug,Rain,City Road,Dry,Daylight,None,80,34,Female,No,1,Major
+Morning,Friday,Mar,Rain,City Road,Potholes,Daylight,Signal,80,68,Male,No,4,Minor
+Morning,Friday,Oct,Rain,Highway,Under Construction,Street Lit,Signal,80,78,Male,No,1,Minor
+Morning,Tuesday,Jun,Rain,Highway,Dry,Street Lit,Signal,100,62,Male,No,2,Minor
+Morning,Tuesday,Jan,Snow,Rural Road,Dry,Street Lit,None,100,75,Male,No,1,Minor
+Evening,Friday,Jul,Rain,Highway,Dry,Street Lit,Speed Breaker,60,45,Female,No,1,Major
+Evening,Friday,Aug,Clear,Highway,Dry,Street Lit,Signal,50,76,Female,No,2,Major
+Morning,Sunday,Nov,Rain,Highway,Dry,Daylight,Signal,60,39,Male,No,1,Minor
+Afternoon,Thursday,Aug,Clear,Rural Road,Dry,Street Lit,Signal,80,38,Female,No,1,Minor
+Night,Wednesday,Mar,Fog,City Road,Dry,Daylight,None,80,59,Male,Yes,1,Fatal
+Afternoon,Tuesday,Oct,Clear,City Road,Dry,No Lighting,Speed Breaker,50,34,Female,Yes,1,Minor
+Afternoon,Sunday,Jan,Clear,Rural Road,Potholes,Street Lit,None,40,22,Female,No,2,Minor
+Afternoon,Sunday,Sep,Fog,Highway,Dry,Daylight,Signal,80,35,Female,Yes,4,Fatal
+Morning,Wednesday,Jun,Rain,City Road,Potholes,Daylight,Signal,50,34,Male,No,1,Fatal
+Evening,Sunday,Nov,Clear,Highway,Potholes,Daylight,None,60,21,Male,Yes,1,Minor
+Afternoon,Thursday,Sep,Clear,Highway,Dry,Daylight,Signal,80,71,Female,No,2,Minor
+Morning,Friday,Jul,Fog,City Road,Wet,Daylight,None,60,24,Male,No,4,Minor
+Afternoon,Saturday,Jan,Clear,City Road,Dry,Daylight,Signal,40,42,Female,Yes,3,Minor
+Afternoon,Wednesday,Dec,Fog,Highway,Wet,Daylight,Signal,50,54,Female,No,2,Major
+Morning,Friday,Dec,Clear,Highway,Dry,No Lighting,Speed Breaker,50,57,Male,No,1,Minor
+Evening,Friday,Jan,Rain,City Road,Dry,Street Lit,None,50,57,Female,No,1,Minor
+Evening,Monday,Jun,Fog,Highway,Dry,Street Lit,None,60,60,Female,No,1,Minor
+Night,Wednesday,May,Clear,Highway,Dry,Street Lit,Signal,60,26,Male,Yes,1,Fatal
+Morning,Sunday,Sep,Clear,Highway,Dry,Daylight,Signal,50,36,Male,No,2,Minor
+Night,Saturday,Feb,Clear,Highway,Dry,Daylight,Speed Breaker,40,68,Female,No,2,Minor
+Night,Wednesday,Aug,Rain,City Road,Dry,Street Lit,Speed Breaker,50,26,Male,No,2,Fatal
+Night,Sunday,Nov,Clear,Highway,Dry,No Lighting,Speed Breaker,120,40,Male,No,1,Minor
+Evening,Friday,May,Rain,Highway,Dry,Daylight,Signal,60,48,Female,Yes,2,Minor
+Morning,Saturday,Feb,Clear,City Road,Dry,Street Lit,None,100,49,Male,No,1,Minor
+Night,Sunday,Oct,Clear,Rural Road,Dry,No Lighting,Speed Breaker,100,69,Female,No,1,Minor
+Morning,Thursday,Nov,Clear,Highway,Dry,Street Lit,None,60,48,Male,No,1,Minor
+Morning,Sunday,Nov,Clear,Highway,Under Construction,No Lighting,Speed Breaker,80,34,Male,No,3,Minor
+Evening,Monday,Dec,Rain,Highway,Dry,Daylight,Signal,50,65,Female,No,1,Minor
+Night,Friday,Jun,Fog,City Road,Wet,No Lighting,None,80,56,Male,Yes,2,Minor
+Night,Sunday,Oct,Rain,City Road,Dry,Street Lit,Speed Breaker,50,75,Female,No,1,Minor
+Morning,Tuesday,Aug,Clear,City Road,Under Construction,Daylight,None,100,39,Female,No,1,Minor
+Afternoon,Tuesday,Apr,Snow,Rural Road,Dry,No Lighting,None,40,52,Female,No,3,Minor
+Evening,Monday,Feb,Rain,City Road,Dry,Daylight,Speed Breaker,80,47,Male,No,1,Minor
+Evening,Thursday,Dec,Storm,City Road,Dry,Daylight,Speed Breaker,40,70,Male,No,1,Fatal
+Evening,Friday,Nov,Clear,City Road,Dry,Daylight,Signal,100,68,Female,No,1,Minor
+Evening,Wednesday,May,Clear,Highway,Dry,Daylight,Signal,50,57,Male,Yes,3,Minor
+Night,Monday,Dec,Clear,Rural Road,Dry,Daylight,Signal,80,54,Male,No,1,Major
+Night,Thursday,Feb,Rain,Highway,Potholes,Street Lit,Signal,60,43,Male,No,1,Minor
+Afternoon,Wednesday,Feb,Clear,Highway,Dry,Daylight,Signal,60,75,Male,No,1,Major
+Evening,Tuesday,Jun,Clear,City Road,Dry,Daylight,Signal,80,23,Female,No,1,Major
+Evening,Tuesday,Nov,Clear,Highway,Wet,Daylight,Signal,100,51,Female,No,1,Major
+Morning,Wednesday,Oct,Rain,City Road,Dry,Daylight,Signal,30,73,Female,No,2,Major
+Night,Monday,Sep,Rain,City Road,Under Construction,Street Lit,Signal,100,49,Male,No,2,Minor
+Evening,Tuesday,Apr,Clear,City Road,Dry,Street Lit,Signal,80,42,Female,No,1,Major
+Afternoon,Friday,Jun,Clear,City Road,Wet,No Lighting,Speed Breaker,100,68,Male,No,2,Minor
+Afternoon,Saturday,Jul,Rain,Highway,Dry,Street Lit,Speed Breaker,60,30,Male,No,3,Minor
+Night,Sunday,Nov,Snow,City Road,Under Construction,Daylight,Signal,60,55,Male,No,3,Fatal
+Afternoon,Wednesday,Jun,Rain,City Road,Wet,No Lighting,Speed Breaker,100,55,Female,No,1,Minor
+Afternoon,Wednesday,Aug,Storm,City Road,Dry,Street Lit,None,60,19,Female,No,1,Fatal
+Night,Tuesday,Apr,Rain,City Road,Dry,Daylight,Signal,60,75,Female,No,3,Minor
+Evening,Monday,Dec,Rain,Highway,Dry,Street Lit,Speed Breaker,30,73,Female,No,1,Minor
+Evening,Friday,Jan,Clear,City Road,Potholes,No Lighting,None,50,22,Female,No,1,Minor
+Afternoon,Monday,Jul,Rain,Highway,Dry,Street Lit,None,80,28,Male,No,3,Major
+Afternoon,Thursday,Mar,Rain,Rural Road,Dry,Daylight,Signal,80,28,Female,No,1,Minor
+Evening,Thursday,Jun,Rain,Highway,Dry,Street Lit,Speed Breaker,60,41,Male,No,1,Minor
+Night,Saturday,Feb,Clear,City Road,Dry,Daylight,Signal,40,31,Male,No,1,Minor
+Afternoon,Tuesday,Sep,Clear,Highway,Dry,Daylight,Speed Breaker,60,62,Male,No,2,Major
+Morning,Tuesday,Jan,Clear,Highway,Potholes,Daylight,None,60,47,Male,No,1,Minor
+Night,Tuesday,Jun,Clear,City Road,Dry,Daylight,Speed Breaker,60,57,Male,No,3,Major
+Afternoon,Saturday,Jun,Clear,Rural Road,Under Construction,Daylight,None,100,64,Male,No,2,Minor
+Afternoon,Thursday,May,Fog,City Road,Dry,Daylight,Signal,80,61,Male,No,1,Minor
+Morning,Monday,May,Clear,Rural Road,Dry,Street Lit,None,40,52,Female,No,1,Minor
+Morning,Saturday,Jan,Clear,City Road,Dry,Street Lit,Speed Breaker,100,38,Female,Yes,1,Fatal
+Evening,Saturday,Oct,Clear,City Road,Dry,No Lighting,Signal,60,72,Male,No,2,Minor
+Night,Monday,Dec,Rain,Highway,Potholes,Daylight,Speed Breaker,80,22,Male,No,1,Minor
+Night,Tuesday,May,Clear,City Road,Under Construction,Daylight,Signal,40,55,Male,Yes,3,Major
+Evening,Friday,Feb,Clear,Highway,Dry,No Lighting,Signal,80,19,Male,No,1,Minor
+Night,Monday,Jul,Rain,Rural Road,Dry,Daylight,None,50,57,Male,No,1,Major
+Night,Thursday,Mar,Clear,Rural Road,Dry,Street Lit,Signal,60,54,Female,No,1,Minor
+Night,Wednesday,Apr,Storm,Rural Road,Potholes,Street Lit,Speed Breaker,30,71,Male,No,2,Minor
+Night,Wednesday,Mar,Storm,City Road,Under Construction,Daylight,Signal,50,66,Male,No,1,Minor
+Night,Sunday,Mar,Clear,City Road,Wet,Street Lit,Signal,40,75,Male,No,1,Minor
+Morning,Sunday,Apr,Clear,City Road,Dry,Street Lit,None,50,51,Male,No,3,Major
+Night,Saturday,May,Rain,Highway,Dry,Daylight,Signal,40,28,Male,No,1,Major
+Morning,Wednesday,Jan,Clear,City Road,Dry,Daylight,Speed Breaker,80,53,Male,No,1,Minor
+Night,Friday,Apr,Clear,Highway,Dry,Daylight,Speed Breaker,30,28,Female,No,2,Fatal
+Evening,Tuesday,Dec,Clear,City Road,Dry,Daylight,Speed Breaker,80,26,Male,No,2,Minor
+Afternoon,Thursday,Dec,Storm,Highway,Dry,Daylight,None,40,23,Male,No,1,Minor
+Morning,Sunday,Nov,Clear,Highway,Dry,Daylight,Speed Breaker,100,73,Male,No,1,Major
+Night,Friday,Aug,Rain,Highway,Under Construction,Daylight,Signal,100,51,Male,Yes,2,Major
+Evening,Thursday,Oct,Rain,City Road,Wet,No Lighting,None,50,75,Male,No,1,Minor
+Afternoon,Thursday,Jul,Clear,City Road,Dry,Daylight,Signal,80,64,Male,No,2,Major
+Morning,Tuesday,Sep,Clear,Highway,Dry,Daylight,Speed Breaker,30,54,Male,No,1,Minor
+Afternoon,Saturday,May,Snow,City Road,Dry,Daylight,None,100,49,Male,Yes,1,Major
+Evening,Wednesday,Oct,Clear,Highway,Wet,Daylight,Speed Breaker,60,77,Male,No,1,Major
+Morning,Tuesday,Apr,Rain,City Road,Wet,Daylight,None,30,29,Male,No,1,Minor
+Afternoon,Friday,Aug,Clear,City Road,Wet,Daylight,Speed Breaker,50,62,Male,No,2,Minor
+Night,Saturday,Sep,Clear,City Road,Wet,Daylight,None,40,49,Male,No,1,Major
+Morning,Friday,Jul,Clear,City Road,Dry,Street Lit,None,60,34,Male,No,1,Major
+Afternoon,Saturday,Jul,Clear,Highway,Dry,No Lighting,Signal,80,21,Male,No,3,Minor
+Evening,Sunday,May,Clear,City Road,Dry,Daylight,Signal,60,59,Male,No,1,Minor
+Evening,Friday,Apr,Fog,City Road,Dry,Daylight,Signal,60,50,Male,No,2,Fatal
+Morning,Tuesday,Oct,Clear,City Road,Wet,Street Lit,Speed Breaker,40,60,Male,No,3,Minor
+Afternoon,Saturday,Jan,Clear,City Road,Dry,Street Lit,Signal,50,65,Male,No,4,Minor
+Morning,Saturday,Oct,Clear,Highway,Dry,Daylight,Signal,40,60,Male,No,3,Minor
+Morning,Thursday,Oct,Rain,City Road,Dry,No Lighting,Signal,100,26,Female,No,1,Minor
+Afternoon,Thursday,Jul,Clear,City Road,Potholes,Daylight,None,40,51,Female,Yes,4,Fatal
+Afternoon,Monday,Jan,Rain,Highway,Dry,Daylight,Speed Breaker,60,56,Female,No,2,Major
+Night,Friday,Jan,Clear,Highway,Wet,Street Lit,Signal,50,68,Female,No,2,Minor
+Afternoon,Thursday,May,Clear,Highway,Dry,No Lighting,Signal,50,47,Female,No,1,Major
+Evening,Monday,Sep,Clear,Rural Road,Dry,Street Lit,Signal,80,67,Female,No,4,Major
+Morning,Sunday,Jun,Fog,City Road,Dry,Daylight,Signal,60,78,Male,No,2,Minor
+Morning,Sunday,Mar,Clear,Highway,Wet,Daylight,Signal,60,37,Male,No,2,Minor
+Evening,Thursday,Mar,Clear,Highway,Dry,Daylight,None,60,56,Male,No,1,Major
+Afternoon,Friday,Jul,Clear,City Road,Under Construction,Daylight,None,60,40,Male,No,1,Minor
+Evening,Saturday,Jun,Fog,City Road,Dry,Street Lit,Signal,50,58,Female,Yes,4,Minor
+Evening,Wednesday,Sep,Clear,Highway,Dry,Street Lit,Signal,60,61,Male,No,1,Minor
+Night,Friday,Jun,Clear,Highway,Potholes,Street Lit,Signal,80,78,Female,No,1,Fatal
+Evening,Tuesday,May,Clear,Rural Road,Dry,No Lighting,Signal,30,52,Male,No,2,Minor
+Morning,Sunday,Oct,Clear,Highway,Dry,Daylight,Signal,60,40,Male,Yes,1,Fatal
+Evening,Thursday,Jul,Rain,Highway,Wet,Street Lit,Signal,40,71,Male,No,1,Minor
+Morning,Thursday,Jan,Rain,Rural Road,Dry,Street Lit,Signal,50,75,Male,No,1,Major
+Morning,Saturday,Dec,Clear,City Road,Wet,Daylight,Speed Breaker,60,65,Male,Yes,1,Minor
+Morning,Tuesday,Jul,Clear,Highway,Dry,Street Lit,Speed Breaker,100,56,Female,Yes,1,Minor
+Afternoon,Saturday,Mar,Clear,Highway,Dry,Daylight,Speed Breaker,100,40,Female,No,1,Minor
+Night,Tuesday,Sep,Clear,Highway,Dry,Street Lit,Signal,40,75,Female,No,1,Minor
+Morning,Wednesday,Jun,Clear,Highway,Under Construction,Daylight,None,60,54,Male,No,2,Major
+Morning,Sunday,Sep,Rain,Rural Road,Dry,Daylight,None,60,74,Female,No,3,Major
+Afternoon,Thursday,May,Snow,City Road,Wet,Street Lit,Signal,40,40,Male,No,1,Minor
+Morning,Thursday,Jul,Snow,City Road,Potholes,Street Lit,Signal,80,56,Male,No,1,Fatal
+Evening,Wednesday,Apr,Fog,Rural Road,Dry,Daylight,Speed Breaker,80,45,Female,No,1,Minor
+Evening,Monday,Jul,Rain,City Road,Dry,Daylight,Signal,100,79,Male,No,2,Minor
+Night,Sunday,Jan,Rain,Highway,Dry,Daylight,Signal,30,36,Male,No,4,Minor
+Morning,Saturday,Jul,Clear,City Road,Dry,Daylight,Speed Breaker,50,66,Male,No,1,Minor
+Afternoon,Wednesday,Aug,Rain,Rural Road,Dry,Street Lit,Speed Breaker,100,65,Female,No,1,Major
+Evening,Saturday,May,Clear,City Road,Wet,No Lighting,Signal,80,79,Male,No,2,Minor
+Afternoon,Friday,Feb,Clear,Highway,Potholes,Daylight,Speed Breaker,100,47,Male,No,2,Minor
+Afternoon,Thursday,May,Rain,City Road,Potholes,Street Lit,None,40,38,Male,No,1,Minor
+Evening,Saturday,Jun,Clear,City Road,Under Construction,Daylight,Signal,60,41,Female,Yes,2,Minor
+Afternoon,Tuesday,Dec,Clear,Rural Road,Under Construction,Street Lit,Speed Breaker,60,38,Female,Yes,2,Minor
+Evening,Saturday,Feb,Storm,Highway,Dry,Daylight,Signal,30,43,Male,No,4,Minor
+Afternoon,Friday,Jun,Clear,City Road,Wet,Daylight,Signal,60,68,Male,No,1,Minor
+Evening,Sunday,Jun,Clear,Rural Road,Under Construction,Street Lit,Speed Breaker,80,74,Male,No,4,Major
+Morning,Thursday,Jan,Storm,City Road,Dry,Daylight,Signal,50,67,Male,No,1,Minor
+Night,Wednesday,Jan,Rain,City Road,Potholes,Street Lit,Signal,50,68,Female,No,2,Minor
+Evening,Friday,Nov,Clear,Highway,Dry,Street Lit,Signal,80,77,Male,No,1,Minor
+Evening,Thursday,Oct,Clear,Highway,Wet,Daylight,Speed Breaker,60,53,Male,No,1,Fatal
+Night,Saturday,Mar,Clear,Highway,Wet,Daylight,Speed Breaker,100,43,Female,No,2,Minor
+Evening,Sunday,Oct,Fog,Rural Road,Potholes,Street Lit,Signal,50,50,Male,No,1,Fatal
+Evening,Monday,Oct,Rain,Highway,Dry,Street Lit,Speed Breaker,50,76,Female,No,1,Fatal
+Afternoon,Sunday,Dec,Clear,City Road,Wet,Daylight,Signal,120,53,Female,No,1,Major
+Night,Monday,Mar,Clear,City Road,Dry,Daylight,Speed Breaker,100,21,Female,No,1,Minor
+Morning,Tuesday,Apr,Clear,Highway,Dry,Street Lit,Signal,30,26,Male,No,1,Minor
+Evening,Sunday,Feb,Snow,City Road,Wet,Daylight,Speed Breaker,80,25,Male,No,3,Minor
+Night,Thursday,Sep,Clear,City Road,Dry,Daylight,None,40,19,Female,No,1,Major
+Afternoon,Monday,Oct,Rain,Rural Road,Wet,Daylight,None,30,46,Male,No,1,Major
+Morning,Wednesday,Dec,Clear,City Road,Dry,Street Lit,Signal,50,40,Male,No,1,Fatal
+Night,Thursday,Nov,Rain,City Road,Dry,Street Lit,None,50,23,Male,No,1,Major
+Morning,Wednesday,Jul,Storm,Highway,Wet,No Lighting,Signal,100,72,Male,No,1,Minor
+Morning,Sunday,Jul,Rain,Rural Road,Dry,Street Lit,None,80,60,Female,Yes,1,Minor
+Morning,Wednesday,Jun,Clear,Highway,Dry,No Lighting,Signal,120,53,Male,Yes,1,Minor
+Evening,Monday,Mar,Rain,City Road,Potholes,Daylight,Signal,80,79,Male,Yes,1,Minor
+Evening,Thursday,Jun,Rain,Highway,Dry,Street Lit,Signal,60,63,Female,No,2,Major
+Afternoon,Saturday,Dec,Clear,Rural Road,Wet,Daylight,Signal,80,38,Female,Yes,2,Fatal
+Afternoon,Friday,Aug,Fog,City Road,Dry,Street Lit,Speed Breaker,120,39,Male,No,1,Minor
+Night,Monday,Aug,Rain,City Road,Dry,Daylight,None,80,26,Male,Yes,1,Major
+Afternoon,Monday,Nov,Fog,Highway,Dry,Daylight,Speed Breaker,80,51,Male,No,3,Major
+Morning,Saturday,Sep,Rain,City Road,Dry,Street Lit,Speed Breaker,100,76,Male,No,1,Minor
+Morning,Thursday,Jan,Clear,City Road,Dry,Street Lit,Speed Breaker,40,74,Female,No,3,Minor
+Evening,Thursday,Jan,Clear,City Road,Dry,Daylight,Signal,80,43,Male,No,1,Major
+Morning,Sunday,Mar,Clear,Highway,Dry,Street Lit,Signal,100,18,Male,No,1,Minor
+Night,Wednesday,Mar,Storm,Rural Road,Dry,Daylight,Signal,120,53,Male,No,2,Minor
+Morning,Sunday,Oct,Rain,Rural Road,Dry,Daylight,Signal,50,61,Male,No,3,Minor
+Morning,Saturday,Aug,Rain,Highway,Dry,Street Lit,Signal,60,22,Male,No,1,Fatal
+Night,Sunday,Oct,Clear,City Road,Dry,Daylight,Signal,80,58,Male,No,1,Minor
+Afternoon,Saturday,Jan,Clear,City Road,Potholes,No Lighting,Signal,50,39,Female,No,1,Major
+Afternoon,Thursday,Feb,Rain,City Road,Wet,Daylight,Signal,80,21,Male,No,3,Major
+Night,Wednesday,Feb,Clear,Highway,Wet,Street Lit,None,50,65,Female,Yes,2,Major
+Evening,Sunday,Mar,Clear,City Road,Dry,Street Lit,Signal,50,19,Male,Yes,1,Minor
+Morning,Monday,Jun,Rain,City Road,Potholes,Daylight,Speed Breaker,60,33,Male,No,1,Major
+Night,Tuesday,Jan,Clear,City Road,Wet,Daylight,Speed Breaker,60,33,Male,No,1,Minor
+Morning,Friday,Feb,Clear,City Road,Wet,Street Lit,Speed Breaker,60,70,Male,No,1,Minor
+Evening,Monday,Jan,Clear,City Road,Dry,Street Lit,Signal,60,73,Male,No,1,Fatal
+Morning,Thursday,May,Clear,City Road,Potholes,Daylight,Signal,50,73,Male,No,2,Minor
+Night,Friday,Jul,Snow,Highway,Under Construction,Daylight,Signal,50,39,Female,No,1,Major
+Morning,Tuesday,Aug,Clear,Rural Road,Under Construction,Daylight,Signal,30,60,Female,Yes,1,Minor
+Afternoon,Tuesday,Oct,Clear,City Road,Dry,Daylight,Signal,50,18,Male,No,2,Minor
+Evening,Wednesday,Jan,Clear,Highway,Dry,Daylight,Speed Breaker,60,32,Male,No,1,Fatal
+Evening,Friday,Jul,Rain,Highway,Dry,Daylight,Speed Breaker,80,41,Female,Yes,1,Major
+Evening,Wednesday,May,Clear,City Road,Dry,Street Lit,Speed Breaker,50,21,Male,No,1,Minor
+Night,Monday,Oct,Rain,Rural Road,Under Construction,Street Lit,Signal,40,79,Female,No,1,Fatal
+Evening,Saturday,Jan,Clear,Highway,Dry,No Lighting,Signal,80,35,Female,Yes,2,Major
+Afternoon,Saturday,Mar,Clear,City Road,Dry,Street Lit,None,50,34,Male,No,2,Minor
+Night,Saturday,Jul,Clear,Highway,Dry,No Lighting,Signal,120,24,Male,No,1,Major
+Afternoon,Friday,Oct,Fog,City Road,Dry,Daylight,Speed Breaker,80,67,Male,No,1,Minor
+Morning,Saturday,Jan,Fog,Rural Road,Dry,Street Lit,Speed Breaker,50,62,Female,No,1,Minor
+Morning,Monday,Jul,Clear,City Road,Wet,No Lighting,Signal,50,69,Male,No,1,Minor
+Morning,Wednesday,May,Clear,Highway,Dry,Street Lit,Signal,60,69,Female,No,1,Minor
+Morning,Friday,Jan,Storm,City Road,Dry,Daylight,Signal,40,78,Male,No,1,Minor
+Afternoon,Wednesday,Jan,Clear,Highway,Dry,Street Lit,Signal,40,27,Male,Yes,1,Major
+Night,Friday,Jan,Fog,City Road,Dry,No Lighting,Signal,50,18,Male,No,1,Major
+Night,Wednesday,Nov,Clear,City Road,Dry,Street Lit,Signal,80,19,Male,No,2,Minor
+Evening,Tuesday,Sep,Storm,City Road,Wet,Daylight,Signal,60,66,Male,No,3,Major
+Afternoon,Wednesday,Nov,Rain,Highway,Wet,Street Lit,Speed Breaker,30,39,Male,No,3,Minor
+Morning,Saturday,Mar,Storm,Rural Road,Wet,No Lighting,None,80,49,Male,No,1,Major
+Afternoon,Tuesday,May,Rain,City Road,Wet,Daylight,Signal,60,46,Male,No,2,Minor
+Evening,Wednesday,Nov,Clear,Highway,Dry,Street Lit,None,60,52,Male,No,2,Major
+Evening,Friday,Oct,Storm,City Road,Potholes,Daylight,None,50,34,Female,No,3,Fatal
+Afternoon,Friday,Dec,Clear,City Road,Under Construction,Street Lit,None,60,29,Male,No,1,Major
+Afternoon,Friday,Sep,Clear,City Road,Potholes,Street Lit,None,120,41,Male,No,2,Fatal
+Afternoon,Thursday,Jun,Rain,City Road,Dry,Daylight,Signal,40,47,Female,No,1,Minor
+Night,Monday,Dec,Rain,City Road,Potholes,Daylight,Signal,50,61,Female,No,2,Major
+Morning,Friday,Sep,Storm,Highway,Under Construction,Street Lit,Speed Breaker,50,47,Male,No,1,Minor
+Afternoon,Tuesday,Aug,Clear,City Road,Under Construction,Daylight,Speed Breaker,50,37,Male,No,2,Minor
+Afternoon,Friday,Aug,Rain,City Road,Dry,Daylight,None,60,59,Female,No,3,Major
+Afternoon,Thursday,Jan,Rain,Highway,Wet,Street Lit,None,100,24,Female,Yes,1,Major
+Evening,Saturday,Sep,Clear,City Road,Potholes,Daylight,Speed Breaker,100,59,Female,No,1,Minor
+Evening,Tuesday,Jun,Clear,Rural Road,Wet,Daylight,Signal,50,67,Male,No,1,Minor
+Night,Thursday,Sep,Clear,Rural Road,Dry,No Lighting,Signal,60,71,Male,No,1,Minor
+Morning,Saturday,Mar,Clear,Highway,Potholes,Daylight,Signal,80,55,Male,No,1,Minor
+Night,Sunday,Dec,Snow,Highway,Dry,Daylight,Speed Breaker,60,24,Female,No,1,Minor
+Morning,Sunday,Mar,Rain,City Road,Dry,Street Lit,Speed Breaker,60,77,Male,No,3,Minor
+Evening,Tuesday,Jun,Rain,Highway,Dry,Street Lit,None,50,66,Male,No,1,Minor
+Evening,Wednesday,Sep,Snow,Rural Road,Potholes,No Lighting,Speed Breaker,60,47,Female,Yes,2,Fatal
+Evening,Monday,Jul,Clear,Highway,Dry,No Lighting,None,60,29,Male,Yes,3,Major
+Night,Monday,Mar,Fog,Highway,Dry,Street Lit,Speed Breaker,80,66,Male,No,3,Minor
+Afternoon,Thursday,Mar,Clear,City Road,Wet,Daylight,None,80,48,Male,No,2,Fatal
+Afternoon,Saturday,Feb,Fog,Highway,Wet,Daylight,Signal,40,35,Male,No,1,Major
+Evening,Monday,Sep,Clear,City Road,Dry,Daylight,None,40,63,Male,No,2,Minor
+Afternoon,Saturday,Mar,Storm,City Road,Potholes,Daylight,Speed Breaker,100,60,Male,No,1,Minor
+Afternoon,Saturday,Nov,Clear,Highway,Potholes,Street Lit,Signal,60,19,Male,No,3,Minor
+Night,Thursday,May,Clear,Highway,Dry,Street Lit,Signal,100,70,Male,No,2,Minor
+Morning,Thursday,Sep,Rain,City Road,Dry,Daylight,None,40,50,Male,No,2,Minor
+Evening,Thursday,Aug,Clear,Highway,Dry,Street Lit,Signal,60,28,Male,No,1,Minor
+Evening,Monday,Feb,Rain,City Road,Dry,Daylight,Signal,60,51,Male,No,1,Minor
+Night,Sunday,Mar,Clear,City Road,Dry,Daylight,Signal,100,33,Male,No,2,Major
+Night,Thursday,Feb,Rain,City Road,Potholes,Street Lit,Speed Breaker,40,71,Male,No,3,Minor
+Afternoon,Monday,Aug,Clear,Rural Road,Under Construction,Daylight,None,50,52,Male,No,1,Major
+Evening,Thursday,Jun,Clear,Rural Road,Dry,Daylight,Signal,60,69,Male,No,3,Minor
+Morning,Friday,Jun,Clear,Rural Road,Dry,Daylight,Signal,100,50,Male,No,1,Fatal
+Night,Saturday,Dec,Clear,Highway,Dry,Daylight,None,100,38,Male,No,2,Minor
+Morning,Thursday,Sep,Clear,Highway,Dry,Street Lit,Speed Breaker,120,37,Male,No,2,Fatal
+Morning,Tuesday,Aug,Clear,Highway,Dry,No Lighting,None,120,25,Female,No,1,Major
+Evening,Saturday,Apr,Clear,Rural Road,Under Construction,Daylight,Signal,30,68,Male,No,1,Major
+Evening,Saturday,Dec,Clear,Rural Road,Potholes,Daylight,Signal,30,43,Male,Yes,2,Major
+Night,Thursday,Apr,Rain,Rural Road,Dry,Street Lit,Signal,40,50,Male,No,1,Minor
+Evening,Sunday,Sep,Fog,Highway,Under Construction,No Lighting,Speed Breaker,50,79,Female,No,1,Fatal
+Evening,Wednesday,Jan,Clear,Rural Road,Dry,Daylight,Signal,100,78,Male,No,2,Minor
+Evening,Sunday,Feb,Rain,City Road,Wet,Daylight,Signal,100,43,Male,No,2,Minor
+Morning,Thursday,Feb,Rain,Highway,Dry,Street Lit,Signal,50,54,Male,No,1,Minor
+Night,Saturday,Jun,Clear,City Road,Dry,Street Lit,Signal,80,47,Male,No,1,Minor
+Afternoon,Tuesday,Apr,Rain,Highway,Potholes,Daylight,None,100,48,Female,No,1,Major
+Morning,Saturday,Nov,Clear,City Road,Dry,Street Lit,Signal,60,50,Male,Yes,2,Fatal
+Evening,Sunday,Oct,Clear,Highway,Wet,Daylight,Speed Breaker,40,28,Female,Yes,1,Minor
+Morning,Tuesday,Mar,Clear,City Road,Dry,Daylight,None,60,70,Male,No,2,Fatal
+Evening,Monday,Mar,Rain,City Road,Dry,Daylight,Signal,60,58,Male,No,2,Minor
+Evening,Friday,Mar,Rain,Rural Road,Dry,Street Lit,Speed Breaker,60,22,Male,No,1,Minor
+Morning,Saturday,Jun,Clear,City Road,Dry,Daylight,None,60,19,Male,No,1,Minor
+Night,Thursday,Aug,Clear,City Road,Wet,Daylight,None,30,30,Male,No,3,Major
+Evening,Monday,Nov,Snow,City Road,Dry,Daylight,Signal,120,35,Male,No,1,Minor
+Night,Friday,Jul,Clear,Rural Road,Wet,Street Lit,Signal,60,43,Male,No,2,Minor
+Afternoon,Thursday,Apr,Clear,Highway,Wet,Daylight,Signal,60,42,Female,No,3,Minor
+Evening,Wednesday,Nov,Storm,City Road,Wet,Daylight,Speed Breaker,120,61,Male,No,3,Minor
+Night,Thursday,Dec,Rain,Highway,Dry,Daylight,Speed Breaker,50,31,Male,No,1,Major
+Night,Tuesday,Apr,Rain,Highway,Potholes,Street Lit,Speed Breaker,50,22,Male,No,1,Minor
+Afternoon,Tuesday,Nov,Rain,City Road,Dry,Daylight,Signal,100,76,Male,No,4,Minor
+Night,Wednesday,Oct,Fog,Rural Road,Dry,Daylight,Signal,50,73,Male,No,2,Minor
+Night,Monday,Nov,Clear,Highway,Dry,Daylight,Speed Breaker,80,59,Female,Yes,1,Minor
+Afternoon,Friday,Nov,Clear,City Road,Dry,Street Lit,Signal,50,69,Female,No,1,Minor
+Evening,Thursday,Nov,Clear,Rural Road,Dry,Daylight,Speed Breaker,30,19,Male,No,1,Minor
+Night,Tuesday,Feb,Snow,Rural Road,Wet,Street Lit,Signal,60,21,Male,No,3,Major
+Night,Monday,Jan,Rain,Highway,Dry,Street Lit,Signal,50,29,Male,No,1,Minor
+Night,Wednesday,Sep,Clear,Rural Road,Dry,No Lighting,Signal,80,28,Female,No,2,Minor
+Morning,Sunday,Dec,Fog,Highway,Wet,Daylight,Signal,80,21,Male,No,2,Minor
+Afternoon,Saturday,Dec,Clear,City Road,Dry,No Lighting,Signal,100,60,Male,No,2,Minor
+Morning,Sunday,Feb,Clear,Highway,Dry,Daylight,Signal,80,26,Female,No,2,Minor
+Afternoon,Sunday,Aug,Clear,Highway,Dry,Daylight,Signal,50,27,Female,No,3,Minor
+Evening,Tuesday,Sep,Clear,City Road,Wet,Street Lit,Signal,100,44,Male,No,1,Minor
+Evening,Wednesday,Apr,Fog,City Road,Dry,Daylight,Signal,80,23,Female,No,1,Major
+Night,Thursday,Aug,Clear,Highway,Dry,Daylight,Speed Breaker,80,32,Male,No,2,Minor
+Afternoon,Sunday,Sep,Fog,Highway,Dry,Daylight,Signal,100,59,Male,No,1,Major
+Evening,Sunday,Oct,Rain,City Road,Wet,Street Lit,Speed Breaker,60,48,Male,No,1,Minor
+Afternoon,Friday,Oct,Clear,Highway,Wet,Daylight,Speed Breaker,60,39,Female,No,1,Minor
+Evening,Tuesday,May,Snow,City Road,Under Construction,Street Lit,Speed Breaker,80,70,Male,No,1,Major
+Morning,Tuesday,Jul,Clear,Highway,Dry,Street Lit,None,50,23,Male,No,2,Minor
+Evening,Thursday,Oct,Clear,Highway,Dry,Street Lit,Signal,50,50,Female,No,2,Minor
+Morning,Saturday,Apr,Clear,Highway,Dry,Daylight,Speed Breaker,80,46,Male,No,1,Major
+Evening,Monday,Jan,Fog,City Road,Dry,No Lighting,None,50,38,Female,Yes,2,Major
+Night,Friday,Mar,Clear,Highway,Dry,Daylight,None,40,77,Male,No,1,Fatal
+Morning,Tuesday,May,Clear,Highway,Dry,Daylight,Signal,30,71,Male,No,2,Major
+Evening,Friday,Mar,Clear,Rural Road,Dry,Daylight,Signal,80,73,Male,No,1,Major
+Night,Tuesday,Dec,Clear,City Road,Wet,Daylight,Signal,60,69,Female,Yes,2,Minor
+Morning,Friday,Nov,Rain,Highway,Dry,Daylight,Speed Breaker,80,47,Male,No,1,Minor
+Night,Wednesday,Jul,Clear,City Road,Wet,Daylight,Speed Breaker,60,38,Male,No,1,Minor
+Afternoon,Sunday,Dec,Clear,Rural Road,Dry,Daylight,Signal,60,53,Male,No,2,Minor
+Afternoon,Tuesday,Sep,Clear,Highway,Dry,Daylight,Speed Breaker,60,72,Female,No,1,Minor
+Morning,Friday,Dec,Clear,Highway,Dry,Street Lit,Speed Breaker,80,75,Male,No,4,Major
+Evening,Monday,Jun,Storm,City Road,Dry,Street Lit,Signal,60,39,Male,No,2,Minor
+Morning,Wednesday,Oct,Clear,City Road,Dry,Street Lit,None,120,63,Male,No,1,Major
+Night,Wednesday,Jan,Snow,City Road,Dry,Daylight,Speed Breaker,100,37,Female,No,2,Minor
+Evening,Monday,Jul,Clear,Highway,Potholes,Daylight,Signal,100,39,Male,No,1,Minor
+Afternoon,Friday,Mar,Clear,Highway,Wet,No Lighting,Speed Breaker,100,78,Male,No,1,Minor
+Evening,Thursday,May,Fog,City Road,Dry,Daylight,Signal,60,69,Female,No,4,Minor
+Afternoon,Monday,Oct,Clear,Highway,Under Construction,Street Lit,Speed Breaker,60,77,Female,Yes,1,Minor
+Evening,Friday,Apr,Rain,City Road,Wet,Daylight,None,80,57,Male,No,2,Major
+Evening,Monday,Oct,Snow,City Road,Wet,No Lighting,None,80,28,Female,No,1,Minor
+Evening,Monday,May,Clear,Highway,Under Construction,Daylight,Signal,100,64,Male,Yes,2,Minor
+Night,Tuesday,May,Clear,Rural Road,Dry,Daylight,Signal,80,48,Male,No,1,Major
+Night,Friday,Jun,Rain,City Road,Dry,Street Lit,Signal,120,68,Male,No,1,Minor
+Morning,Thursday,Oct,Clear,City Road,Dry,Daylight,Speed Breaker,50,57,Male,No,4,Minor
+Morning,Sunday,Dec,Clear,Highway,Dry,Daylight,Signal,100,30,Female,No,1,Minor
+Afternoon,Tuesday,Oct,Clear,Highway,Dry,Daylight,Speed Breaker,80,35,Male,No,2,Minor
+Night,Monday,Nov,Clear,City Road,Dry,Street Lit,Signal,80,39,Male,No,1,Major
+Afternoon,Sunday,Jun,Rain,Highway,Potholes,Daylight,Signal,50,73,Male,No,1,Major
+Morning,Saturday,Aug,Clear,Rural Road,Potholes,Daylight,Signal,80,34,Male,Yes,2,Major
+Afternoon,Sunday,Aug,Clear,Highway,Under Construction,Daylight,None,100,55,Male,No,1,Minor
+Morning,Monday,Nov,Rain,City Road,Under Construction,Daylight,Speed Breaker,50,42,Male,No,1,Major
+Night,Monday,Sep,Clear,Highway,Potholes,Street Lit,Signal,80,49,Male,No,3,Minor
+Evening,Friday,Aug,Clear,City Road,Dry,Daylight,Signal,60,32,Female,No,2,Minor
+Night,Friday,Nov,Rain,Highway,Dry,Daylight,Speed Breaker,120,30,Male,No,1,Minor
+Afternoon,Tuesday,Feb,Clear,City Road,Dry,Daylight,Signal,60,75,Male,No,1,Major
+Afternoon,Thursday,Dec,Rain,Highway,Under Construction,Daylight,Speed Breaker,50,43,Male,No,2,Major
+Night,Tuesday,Oct,Fog,Rural Road,Dry,Daylight,None,60,67,Male,No,4,Major
+Night,Wednesday,Dec,Clear,Highway,Wet,Daylight,Speed Breaker,80,28,Female,No,4,Major
+Morning,Monday,Nov,Clear,Rural Road,Dry,Daylight,Speed Breaker,40,30,Female,No,3,Minor
+Afternoon,Sunday,Jan,Clear,City Road,Dry,No Lighting,Speed Breaker,80,50,Male,Yes,1,Minor
+Afternoon,Saturday,Oct,Clear,Highway,Wet,Daylight,None,100,67,Male,No,3,Major
+Night,Monday,Feb,Fog,City Road,Dry,Street Lit,None,100,54,Male,No,3,Major
+Evening,Monday,Feb,Fog,Highway,Dry,Daylight,Speed Breaker,40,55,Male,No,1,Major
+Afternoon,Tuesday,Dec,Clear,Rural Road,Dry,Daylight,Signal,120,18,Male,No,1,Minor
+Evening,Saturday,Mar,Rain,City Road,Dry,Daylight,Signal,80,56,Female,No,1,Major
+Night,Saturday,Oct,Storm,Highway,Wet,Daylight,Signal,50,44,Female,Yes,2,Minor
+Night,Saturday,Jul,Snow,Highway,Dry,No Lighting,Speed Breaker,30,53,Male,No,1,Major
+Morning,Tuesday,Feb,Clear,Highway,Dry,No Lighting,Speed Breaker,50,49,Female,No,1,Minor
+Afternoon,Monday,Jan,Clear,Rural Road,Dry,Street Lit,Signal,100,58,Female,No,1,Fatal
+Evening,Tuesday,Jun,Clear,Highway,Under Construction,Street Lit,Signal,30,32,Female,Yes,1,Minor
+Morning,Friday,Sep,Snow,City Road,Dry,Daylight,Signal,50,48,Female,No,1,Major
+Afternoon,Friday,Mar,Clear,City Road,Wet,Daylight,None,80,23,Male,No,2,Minor
+Morning,Tuesday,Jun,Rain,Rural Road,Wet,No Lighting,Speed Breaker,60,42,Male,No,1,Minor
+Night,Saturday,Mar,Clear,Highway,Dry,Street Lit,Speed Breaker,80,66,Female,No,3,Minor
+Afternoon,Monday,Jan,Clear,City Road,Under Construction,Daylight,Signal,80,69,Female,No,3,Major
+Morning,Tuesday,Dec,Clear,City Road,Wet,Daylight,Speed Breaker,40,35,Female,No,3,Minor
+Morning,Tuesday,May,Snow,City Road,Dry,Daylight,Signal,100,39,Male,No,2,Minor
+Evening,Tuesday,Oct,Clear,Highway,Dry,No Lighting,Speed Breaker,50,48,Male,No,1,Fatal
+Morning,Wednesday,Nov,Rain,Highway,Potholes,Daylight,Signal,60,53,Male,No,1,Major
+Afternoon,Friday,Apr,Clear,Highway,Wet,Daylight,Signal,80,26,Male,No,1,Minor
+Afternoon,Sunday,Jul,Clear,City Road,Dry,Daylight,Signal,50,63,Male,No,4,Minor
+Evening,Saturday,Jun,Clear,Highway,Dry,Street Lit,Signal,120,20,Male,No,1,Minor
+Afternoon,Thursday,Oct,Clear,City Road,Under Construction,Daylight,None,60,50,Male,No,1,Major
+Night,Sunday,Jul,Clear,Highway,Wet,Street Lit,Signal,40,44,Male,No,2,Major
+Afternoon,Saturday,May,Clear,Rural Road,Wet,Daylight,Signal,100,78,Male,No,3,Major
+Afternoon,Thursday,Apr,Clear,Rural Road,Dry,Street Lit,Speed Breaker,60,60,Male,No,2,Minor
+Morning,Wednesday,Jul,Clear,City Road,Wet,Street Lit,None,80,18,Male,Yes,2,Major
+Morning,Tuesday,Jul,Snow,Highway,Dry,Daylight,Signal,60,61,Male,No,1,Minor
+Afternoon,Wednesday,Jun,Storm,Highway,Dry,Daylight,Speed Breaker,100,74,Female,No,2,Minor
+Evening,Wednesday,Aug,Clear,Highway,Wet,Daylight,None,30,26,Male,No,1,Major
+Morning,Sunday,Apr,Rain,Highway,Potholes,Daylight,Signal,50,22,Male,Yes,3,Minor
+Evening,Monday,Oct,Storm,City Road,Dry,Street Lit,Signal,60,32,Female,No,1,Minor
+Afternoon,Sunday,May,Clear,City Road,Dry,Daylight,Signal,40,67,Male,Yes,1,Major
+Afternoon,Friday,Apr,Fog,Rural Road,Wet,Daylight,None,80,26,Female,No,3,Minor
+Night,Thursday,Dec,Storm,Highway,Dry,Daylight,Signal,60,62,Male,No,1,Minor
+Morning,Tuesday,Jan,Clear,City Road,Under Construction,Daylight,Signal,50,45,Female,No,3,Major
+Afternoon,Sunday,Dec,Clear,City Road,Wet,Street Lit,Speed Breaker,30,30,Male,No,3,Fatal
+Night,Thursday,Aug,Snow,City Road,Dry,Daylight,Speed Breaker,80,41,Female,No,2,Major
+Morning,Saturday,Jan,Clear,Highway,Potholes,No Lighting,Signal,100,62,Female,No,1,Minor
+Afternoon,Thursday,May,Clear,City Road,Wet,No Lighting,Speed Breaker,60,76,Male,No,1,Minor
+Afternoon,Saturday,Jun,Clear,City Road,Under Construction,Daylight,Signal,60,27,Male,No,3,Minor
+Morning,Sunday,Jun,Clear,City Road,Wet,Daylight,Signal,50,59,Male,No,3,Major
+Morning,Friday,May,Rain,Rural Road,Under Construction,Street Lit,Speed Breaker,80,39,Male,No,1,Minor
+Morning,Sunday,Mar,Rain,Highway,Dry,Daylight,None,30,56,Male,No,1,Major
+Afternoon,Saturday,May,Snow,Highway,Dry,Daylight,Signal,60,77,Female,No,1,Minor
+Afternoon,Thursday,Dec,Clear,City Road,Under Construction,Daylight,None,80,39,Male,No,4,Minor
+Night,Thursday,Aug,Clear,City Road,Dry,Daylight,Speed Breaker,100,54,Male,No,1,Major
+Evening,Saturday,Feb,Clear,Highway,Dry,Street Lit,Signal,60,69,Female,No,1,Major
+Morning,Wednesday,Jun,Clear,City Road,Wet,Daylight,Speed Breaker,80,56,Male,No,2,Major
+Afternoon,Friday,Sep,Clear,Rural Road,Under Construction,Daylight,Signal,60,37,Male,No,1,Fatal
+Afternoon,Monday,Aug,Snow,Rural Road,Dry,No Lighting,None,100,27,Female,No,3,Fatal
+Morning,Tuesday,Nov,Fog,Highway,Under Construction,Street Lit,None,60,27,Female,Yes,1,Fatal
+Evening,Thursday,Aug,Clear,Rural Road,Wet,Daylight,Signal,50,43,Male,No,1,Major
+Morning,Tuesday,Aug,Rain,City Road,Dry,Street Lit,Signal,100,42,Female,Yes,1,Major
+Evening,Monday,Jul,Clear,City Road,Under Construction,Daylight,Signal,30,70,Male,No,1,Major
+Afternoon,Sunday,Aug,Clear,City Road,Dry,Street Lit,Signal,40,73,Male,No,1,Minor
+Evening,Tuesday,Jun,Rain,City Road,Dry,Daylight,Signal,40,45,Male,Yes,1,Minor
+Night,Monday,Feb,Clear,City Road,Dry,Daylight,Signal,100,30,Male,No,1,Minor
+Afternoon,Saturday,Feb,Snow,Highway,Dry,Street Lit,Speed Breaker,30,32,Male,Yes,3,Minor
+Night,Wednesday,Aug,Rain,City Road,Dry,Daylight,Signal,100,77,Male,No,1,Minor
+Morning,Thursday,Nov,Clear,City Road,Under Construction,No Lighting,None,60,77,Female,No,4,Minor
+Morning,Monday,Jan,Rain,Highway,Wet,Daylight,None,30,23,Male,No,2,Fatal
+Morning,Tuesday,Jun,Clear,Rural Road,Dry,No Lighting,Signal,60,69,Female,No,1,Major
+Evening,Thursday,Jun,Clear,City Road,Wet,No Lighting,None,50,29,Male,No,1,Minor
+Afternoon,Wednesday,Nov,Clear,City Road,Dry,Daylight,Signal,80,36,Female,No,1,Minor
+Morning,Saturday,Apr,Clear,Highway,Dry,Street Lit,Signal,80,49,Male,No,1,Major
+Morning,Sunday,Dec,Rain,City Road,Under Construction,Daylight,Speed Breaker,60,28,Male,No,1,Major
+Afternoon,Thursday,Nov,Clear,Highway,Dry,No Lighting,Signal,30,55,Male,No,1,Fatal
+Morning,Sunday,Nov,Rain,Highway,Dry,Daylight,Speed Breaker,80,50,Female,No,2,Fatal
+Night,Monday,Oct,Rain,City Road,Wet,Street Lit,None,100,19,Female,No,1,Fatal
+Afternoon,Wednesday,Mar,Clear,City Road,Dry,Daylight,None,80,72,Male,No,1,Minor
+Afternoon,Tuesday,Nov,Fog,City Road,Under Construction,Daylight,Speed Breaker,100,32,Male,No,1,Minor
+Afternoon,Wednesday,Mar,Clear,Highway,Dry,Daylight,Speed Breaker,50,53,Male,No,2,Major
+Night,Wednesday,Jan,Clear,City Road,Dry,Daylight,Signal,100,22,Female,No,1,Minor
+Afternoon,Friday,Mar,Clear,Highway,Dry,Street Lit,Signal,50,32,Female,No,3,Major
+Night,Wednesday,Apr,Clear,Rural Road,Dry,Street Lit,Speed Breaker,30,60,Female,No,1,Minor
+Afternoon,Wednesday,Nov,Clear,City Road,Dry,Street Lit,Signal,100,27,Female,No,4,Major
+Evening,Thursday,Nov,Rain,City Road,Dry,Daylight,Signal,100,34,Female,No,1,Minor
+Morning,Tuesday,May,Clear,Highway,Under Construction,Daylight,Signal,80,51,Male,No,4,Minor
+Evening,Thursday,Mar,Clear,Highway,Potholes,Daylight,Speed Breaker,50,69,Female,No,2,Minor
+Morning,Thursday,Jun,Snow,Rural Road,Dry,Street Lit,Signal,50,41,Female,No,1,Fatal
+Night,Monday,Nov,Rain,Highway,Dry,No Lighting,Speed Breaker,60,27,Female,No,1,Minor
+Evening,Thursday,Dec,Fog,City Road,Dry,Daylight,Signal,100,69,Male,No,1,Fatal
+Afternoon,Friday,May,Clear,City Road,Potholes,Daylight,Signal,40,47,Male,No,3,Major
+Morning,Friday,Mar,Rain,Highway,Potholes,Daylight,Signal,100,20,Male,No,2,Major
+Morning,Sunday,Jun,Fog,City Road,Dry,Street Lit,Signal,50,68,Male,No,1,Major
+Evening,Monday,Jun,Rain,City Road,Wet,Street Lit,None,100,77,Male,No,1,Major
+Night,Sunday,Aug,Rain,Highway,Dry,Street Lit,Signal,100,54,Male,No,1,Minor
+Evening,Sunday,Feb,Clear,Highway,Dry,Daylight,Signal,60,20,Male,No,2,Minor
+Night,Saturday,Jan,Clear,Highway,Dry,Street Lit,Speed Breaker,60,57,Male,Yes,2,Major
+Night,Tuesday,Apr,Clear,Rural Road,Dry,Street Lit,Signal,100,22,Male,Yes,1,Major
+Morning,Tuesday,Jul,Clear,City Road,Dry,Daylight,Signal,60,45,Male,Yes,1,Minor
+Evening,Thursday,Nov,Fog,Highway,Dry,Daylight,Signal,80,79,Female,No,1,Major
+Evening,Thursday,Oct,Clear,Highway,Wet,Daylight,None,80,61,Female,No,1,Minor
+Night,Saturday,Mar,Snow,City Road,Dry,Daylight,Speed Breaker,50,31,Male,No,1,Minor
+Evening,Thursday,Mar,Snow,City Road,Dry,Street Lit,Signal,100,56,Female,No,1,Minor
+Afternoon,Tuesday,May,Clear,City Road,Dry,Daylight,Signal,50,28,Female,No,1,Minor
+Afternoon,Sunday,May,Clear,Highway,Dry,Street Lit,Signal,100,25,Male,No,3,Minor
+Evening,Wednesday,Oct,Fog,Highway,Dry,Daylight,Signal,50,54,Male,No,2,Minor
+Evening,Friday,Mar,Snow,City Road,Dry,Daylight,Speed Breaker,80,25,Male,No,4,Minor
+Night,Wednesday,Sep,Clear,Rural Road,Dry,Daylight,None,50,29,Male,No,1,Minor
+Afternoon,Wednesday,Apr,Clear,Highway,Dry,Daylight,Signal,50,32,Female,Yes,3,Minor
+Afternoon,Tuesday,Mar,Clear,City Road,Dry,Daylight,None,50,36,Male,No,2,Minor
+Morning,Wednesday,Nov,Rain,City Road,Dry,Daylight,Signal,80,65,Male,No,1,Minor
+Night,Saturday,Feb,Clear,City Road,Wet,Daylight,Signal,60,63,Female,No,1,Minor
+Morning,Monday,Oct,Rain,Highway,Wet,Daylight,Signal,100,45,Male,No,2,Minor
+Afternoon,Thursday,Nov,Clear,City Road,Dry,Daylight,Signal,50,24,Female,No,3,Minor
+Night,Monday,Sep,Clear,City Road,Dry,Daylight,None,80,57,Male,No,1,Major
+Evening,Sunday,Apr,Clear,City Road,Dry,Daylight,Signal,80,24,Male,Yes,1,Minor
+Night,Friday,Mar,Clear,Highway,Dry,No Lighting,Signal,50,47,Male,Yes,2,Minor
+Evening,Thursday,Jul,Clear,Highway,Dry,Daylight,None,60,35,Male,No,4,Minor
+Evening,Wednesday,Aug,Clear,Highway,Dry,Street Lit,None,60,41,Male,No,2,Minor
+Night,Friday,Nov,Clear,City Road,Dry,Daylight,Speed Breaker,60,23,Male,No,1,Major
+Evening,Thursday,Feb,Clear,Highway,Potholes,Street Lit,None,50,75,Male,No,1,Minor
+Morning,Saturday,Jul,Clear,City Road,Dry,Daylight,Signal,80,68,Male,No,1,Minor
+Afternoon,Saturday,Dec,Snow,Highway,Dry,No Lighting,None,50,21,Male,No,3,Minor
+Evening,Saturday,May,Clear,City Road,Dry,Daylight,Speed Breaker,80,72,Female,No,2,Minor
+Morning,Saturday,Nov,Clear,City Road,Potholes,Street Lit,None,100,20,Male,No,1,Minor
+Evening,Wednesday,May,Rain,Highway,Wet,Daylight,Speed Breaker,60,66,Male,Yes,1,Major
+Afternoon,Monday,Mar,Snow,Highway,Dry,Daylight,Signal,80,71,Male,No,3,Minor
+Morning,Thursday,May,Clear,Highway,Under Construction,Street Lit,Speed Breaker,40,68,Male,No,2,Minor
+Afternoon,Wednesday,Dec,Rain,City Road,Dry,Daylight,Signal,100,76,Male,No,4,Major
+Afternoon,Saturday,Feb,Rain,City Road,Under Construction,Daylight,Signal,50,64,Male,No,1,Major
+Morning,Sunday,Apr,Rain,Highway,Under Construction,Daylight,Signal,80,75,Female,Yes,2,Major
+Morning,Monday,Jun,Clear,City Road,Dry,Street Lit,None,120,23,Male,No,2,Minor
+Morning,Sunday,Jan,Rain,Highway,Wet,No Lighting,Signal,60,43,Male,Yes,1,Minor
+Night,Friday,Oct,Clear,Highway,Dry,Daylight,Speed Breaker,80,61,Male,No,4,Minor
+Morning,Sunday,Apr,Rain,Highway,Dry,Street Lit,Signal,60,68,Female,Yes,1,Major
+Morning,Friday,Jun,Rain,Rural Road,Dry,Daylight,None,40,55,Male,No,2,Minor
+Morning,Friday,Sep,Clear,Highway,Wet,Daylight,Signal,80,28,Male,No,4,Minor
+Morning,Saturday,Nov,Fog,Highway,Dry,No Lighting,Speed Breaker,30,69,Male,No,1,Major
+Evening,Friday,Nov,Clear,Highway,Dry,Street Lit,None,80,46,Male,Yes,2,Major
+Night,Tuesday,Feb,Fog,Highway,Wet,Street Lit,Signal,30,37,Male,No,1,Minor
+Afternoon,Thursday,Nov,Clear,City Road,Dry,Daylight,Signal,100,27,Female,Yes,2,Major
+Morning,Thursday,Jul,Clear,Highway,Dry,Daylight,Speed Breaker,50,43,Male,No,3,Major
+Evening,Saturday,Jun,Clear,Highway,Dry,Daylight,None,60,65,Male,Yes,2,Minor
+Evening,Tuesday,Feb,Snow,City Road,Dry,Daylight,Speed Breaker,60,44,Female,No,2,Fatal
+Evening,Sunday,Aug,Clear,Highway,Dry,Daylight,Signal,60,67,Male,No,1,Minor
+Afternoon,Wednesday,Jul,Clear,City Road,Dry,Street Lit,None,50,31,Male,No,1,Major
+Morning,Sunday,Nov,Clear,City Road,Potholes,Street Lit,Signal,60,53,Male,No,1,Major
+Night,Wednesday,May,Rain,Highway,Wet,Daylight,Speed Breaker,50,76,Male,No,2,Minor
+Night,Friday,Dec,Clear,City Road,Dry,Daylight,None,60,29,Male,No,1,Minor
+Evening,Monday,May,Clear,Highway,Dry,Street Lit,Signal,60,69,Male,No,2,Fatal
+Afternoon,Wednesday,Jul,Clear,City Road,Dry,Daylight,Speed Breaker,60,76,Female,Yes,1,Minor
+Afternoon,Monday,Sep,Clear,City Road,Wet,Street Lit,Speed Breaker,50,40,Female,No,2,Minor
+Afternoon,Thursday,Nov,Clear,Highway,Dry,Daylight,None,120,38,Female,No,1,Minor
+Night,Monday,Sep,Clear,City Road,Dry,Daylight,Signal,60,25,Male,No,2,Major
+Evening,Thursday,Sep,Rain,Rural Road,Under Construction,No Lighting,Signal,50,56,Male,No,2,Fatal
+Morning,Tuesday,Jun,Clear,Rural Road,Dry,Daylight,None,60,75,Male,No,3,Minor
+Night,Tuesday,Oct,Clear,City Road,Dry,Daylight,Signal,100,26,Male,No,2,Major
+Evening,Saturday,Jun,Clear,City Road,Under Construction,Daylight,Signal,30,41,Female,No,2,Minor
+Evening,Saturday,Mar,Snow,Highway,Wet,No Lighting,None,80,48,Male,No,3,Fatal
+Morning,Friday,Jan,Snow,Highway,Dry,Street Lit,Signal,60,42,Female,No,2,Minor
+Morning,Wednesday,Jul,Fog,City Road,Wet,Daylight,None,50,34,Male,Yes,1,Minor
+Morning,Friday,Apr,Clear,Highway,Dry,Daylight,Signal,100,59,Male,Yes,3,Minor
+Afternoon,Thursday,Jan,Clear,Rural Road,Wet,Street Lit,Signal,60,46,Male,No,2,Minor
+Morning,Friday,Aug,Clear,Highway,Dry,Daylight,Speed Breaker,50,77,Male,No,1,Minor
+Evening,Monday,Dec,Clear,Highway,Under Construction,Street Lit,Speed Breaker,100,20,Female,No,2,Major
+Morning,Thursday,Jun,Clear,Highway,Potholes,Daylight,Speed Breaker,80,38,Female,No,3,Minor
